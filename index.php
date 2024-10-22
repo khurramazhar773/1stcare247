@@ -1,5 +1,3 @@
-die;
-
 <!DOCTYPE html>
 <html lang="zxx">
 
