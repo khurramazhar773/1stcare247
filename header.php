@@ -1,4 +1,22 @@
  <!-- top-bar-section-->
+ <!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+   <link rel="stylesheet" href="assets/css/animate.css">
+   <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css">
+   <link rel="stylesheet" href="assets/css/super-classes.css">
+   <link rel="stylesheet" href="assets/css/style.css">
+   <link rel="stylesheet" href="assets/css/mobile.css">
+   <title>Medtexh</title>
+
+</head>
+
+<body>
  <div class="w-100 float-left top-bar-main-con text-white text-xl-left text-lg-left text-md-left text-center">
          <div class="container">
             <div class="row">
