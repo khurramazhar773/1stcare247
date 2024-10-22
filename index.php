@@ -1,5 +1,3 @@
-die;
-
 <!DOCTYPE html>
 <html lang="zxx">
 
@@ -40,7 +38,7 @@ die;
                      <figure>
                         <img src="assets/image/feature-box-icon1.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
-                     <h5>Super  Doctor</h5>
+                     <h5>Doctor</h5>
                      <p class="mb-0">Lorem ipsum dolor sit amet consectetuer adipi.</p>
                   </div>
                </div>
