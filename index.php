@@ -11,24 +11,16 @@
    <link rel="stylesheet" href="assets/css/super-classes.css">
    <link rel="stylesheet" href="assets/css/style.css">
    <link rel="stylesheet" href="assets/css/mobile.css">
-   <title>Medtexh</title>
+   <title>1stCare</title>
 
 </head>
 
 <body>
    <!-- top-bar-section-->
-   <?php
-   // Attach header.php
-   require 'header.php';
-   ?>
+   <?php require 'header.php'; ?>
    <!-- top-bar-section-->
+   <?php require 'navbar.php'; ?>
    <!-- header-and-banner-section -->
-   <?php
-   // Attach navbar.php
-   require 'navbar.php';
-   ?>
-   <!-- header-and-banner-section -->
-   <!-- feature-box -->
    <section>
       <div class="w-100 float-left feature-box-con text-center">
          <div class="container">

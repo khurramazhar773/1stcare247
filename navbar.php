@@ -49,6 +49,9 @@
                         </li>
                         <!--  -->
                         <li class="nav-item pr-0">
+                            <a class="nav-link p-0 text-white" href="blog.php">Blog</a>
+                        </li>
+                        <li class="nav-item pr-0">
                             <a class="nav-link p-0 text-white" href="contact.php"> Contact </a>
                         </li>
                     </ul>
