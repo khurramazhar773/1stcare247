@@ -88,10 +88,6 @@ body {
 	color: var(--accent-color) !important;
 }
 
-.nav-item {
-	padding: 0 22px;
-}
-
 .dropdown-menu .dropdown-item {
 	font-size: 18px;
 	font-weight: 400;
