@@ -61,7 +61,7 @@
             <div class="professional-box">
                <div class="row">
                   <div class="col-lg-4 col-md-4">
-                     <a href="team-detail.html">
+                     <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
                               <img src="assets/image/professional-box-img1.png" alt="professional-box-img"
@@ -92,7 +92,7 @@
 
                   </div>
                   <div class="col-lg-4 col-lg-4 col-md-4">
-                     <a href="team-detail.html">
+                     <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
                               <img src="assets/image/professional-box-img2.png" alt="professional-box-img"
@@ -123,7 +123,7 @@
 
                   </div>
                   <div class="col-lg-4 col-lg-4 col-md-4">
-                     <a href="team-detail.html">
+                     <a href="#">
                         <div class="professional-box-item text-center mb-0">
                            <figure class="mb-0">
                               <img src="assets/image/professional-box-img3.png" alt="professional-box-img"
@@ -158,7 +158,7 @@
             <div class="professional-box">
                <div class="row">
                   <div class="col-lg-4 col-md-4">
-                     <a href="team-detail.html">
+                     <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
                               <img src="assets/image/professional-box-img1.png" alt="professional-box-img"
@@ -189,7 +189,7 @@
 
                   </div>
                   <div class="col-lg-4 col-lg-4 col-md-4">
-                     <a href="team-detail.html">
+                     <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
                               <img src="assets/image/professional-box-img2.png" alt="professional-box-img"
@@ -220,7 +220,7 @@
 
                   </div>
                   <div class="col-lg-4 col-lg-4 col-md-4">
-                     <a href="team-detail.html">
+                     <a href="#">
                         <div class="professional-box-item text-center mb-0">
                            <figure class="mb-0">
                               <img src="assets/image/professional-box-img3.png" alt="professional-box-img"

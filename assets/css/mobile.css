@@ -10,17 +10,23 @@
 }
 
 @media only screen and (max-width: 1199px) {
-    .nav-item {
-        padding: 0 12px;
-    }
     .doccument-heading {
         padding-top: 30rem;
     }
+
     .navbar-btn {
         padding: 12px 14px 11px 14px;
         font-size: 14px;
     }
-    
+
+    .navbar-nav {
+        gap: 22px;
+    }
+
+    .navbar-brand {
+        margin-right: 0;
+    }
+
     h1 {
         font-size: 48px;
     }
@@ -126,30 +132,37 @@
     }
 }
 
-@media only screen and (max-width: 1024px){
+@media only screen and (max-width: 1024px) {
     .form-left-con .left-curve-img {
         top: 30%;
         right: 15px;
         transform: rotateZ(179deg);
         left: auto !important;
     }
+
     .banner-right-content {
         padding-bottom: 170px;
     }
-    .home-col-one, .home-col-two {
+
+    .home-col-one,
+    .home-col-two {
         padding: 0;
     }
-    .home-banner-three{
+
+    .home-banner-three {
         max-width: 100%;
     }
+
     .form-main-con .down-icon {
         top: 18px;
         right: 35px;
     }
+
     .form-main-con i {
         top: 50px;
         right: 35px;
     }
+
     .slider-inner-con {
         padding: 65px 65px 150px 65px;
     }
@@ -157,25 +170,34 @@
     .worker-section {
         padding-top: 30rem;
     }
-    .contact-form input, .contact-form select, .contact-form textarea {
+
+    .contact-form input,
+    .contact-form select,
+    .contact-form textarea {
         padding: 12px 30px 12px 19px;
     }
+
     .appointment-button {
         margin-bottom: 15px;
     }
-    .quality-system-heading{
+
+    .quality-system-heading {
         font-size: 38px;
     }
+
     .core-vaule-title h2 {
         margin-bottom: 10px;
     }
-    .core-values{
+
+    .core-values {
         font-size: 30px;
         font-weight: 700;
     }
+
     .core-vaule-title p {
         margin-bottom: 25px;
     }
+
     .core-vaule-box-title h5 {
         margin-bottom: 5px;
     }
@@ -187,9 +209,11 @@
         font-size: 45px;
         line-height: 50px;
     }
+
     .doccument-heading {
         padding-top: 22rem;
     }
+
     h2 {
         font-size: 30px;
         line-height: 40px;
@@ -771,71 +795,103 @@
     .quality-system-heading {
         font-size: 28px;
     }
-    .home-banner-button-container{
+
+    .doccument-btn {
+        padding: 12px 20px;
+    }
+
+    .navbar-nav {
+        gap: 0;
+        align-items: normal;
+    }
+
+    .home-banner-button-container {
         padding: 10px 68px;
     }
+
     .banner-right-content {
         padding-bottom: 20px;
     }
+
     .left-curve-img {
         top: 20%;
         left: 5px;
     }
+
     .right-curve-img {
         top: 74%;
         right: 30px;
-    }  
-    .home-col-one{
+    }
+
+    .home-col-one {
         padding: 0;
     }
-    .home-col-two{
+
+    .home-col-two {
         padding: 0px 20px;
     }
+
     .home-banner-last-container {
         padding-bottom: 15px;
         padding-top: 0;
     }
+
     .worker-section {
         padding-top: 22rem;
     }
-    .professional-box-item h5{
+
+    .professional-box-item h5 {
         font-size: 17px;
     }
-    .service-banner-two{
+
+    .service-banner-two {
         max-width: 75%;
     }
+
     .form-left-con .right-curve-img {
         top: 91%;
     }
-    .about-sec-banner{
+
+    .about-sec-banner {
         height: 350px;
     }
+
     .core-vaule-title h2 {
         text-align: center;
         margin-top: 20px;
     }
-    .core-vaule-title p, .core-vaule-box-item, .core-vaule-box-title span{
+
+    .core-vaule-title p,
+    .core-vaule-box-item,
+    .core-vaule-box-title span {
         text-align: center !important;
         padding: 0px 20px;
     }
-    .about-banner-three{
+
+    .about-banner-three {
         max-width: 75%;
     }
+
     .quality-system-right-con .right-curve-img {
         top: 310px;
     }
+
     .navbar-collapse {
         min-width: 60%;
     }
+
     .banner-section-services {
         padding: 20px 20px;
     }
+
     .banner-section-heading-inner {
         width: 90%;
     }
+
     .doccument-heading {
         padding-top: 22rem;
     }
+
     .form-heading {
         padding-top: 24rem !important;
     }
@@ -939,16 +995,19 @@
         text-align: center;
         padding: 60px 15px 0 15px;
     }
+
     .home-banner-heading {
         font-size: 40px;
         letter-spacing: 0px;
         margin-left: 0px;
         margin-bottom: 15px;
     }
+
     .offer-p {
         padding-right: 0;
         padding-left: 0;
     }
+
     .home-banner-inner-text {
         font-size: 16px;
         font-weight: 600;
@@ -956,9 +1015,11 @@
         text-align: start;
         padding: 0px 50px;
     }
+
     .home-banner-btn {
         margin-left: 50px;
     }
+
     .offer-left-con img {
         position: relative;
         left: 0;
@@ -1094,9 +1155,11 @@
     .Schedule-box-title h5 {
         margin-bottom: 5px;
     }
+
     .Schedule-box-item img {
         margin-bottom: 20px;
     }
+
     .banner-left-img {
         height: 430px;
     }
@@ -1617,60 +1680,90 @@
     .form-heading {
         padding-top: 22rem !important;
     }
+
+    .button-col {
+        margin: 0px 45px;
+    }
+
+    .logo-inner-con {
+        padding: 0;
+        padding-left: 15px;
+    }
+
+    .navbar-nav {
+        gap: 0;
+        align-items: normal;
+    }
+
     .offer-inner-con {
         padding-top: 50px;
     }
+
     .home-col-one {
         margin-bottom: 30px;
     }
+
     .home-banner-inner-text {
         text-align: center;
         padding: 0px 50px;
     }
-    .home-banner-btn{
+
+    .home-banner-btn {
         display: inline-flex;
         margin: 0;
     }
+
     .form-section-p {
         padding: 0;
     }
+
     .worker-section {
         padding: 22rem 20px 20px 20px;
     }
+
     .left-curve-img {
         left: -310px;
     }
+
     .four-o-four-heading {
         padding: 5rem 0;
     }
+
     .inner-heading-error h1 {
         font-size: 100px;
         line-height: 80px;
     }
+
     .inner-heading-error span {
         font-size: 30px;
         line-height: 20px;
         margin-bottom: 45px;
     }
+
     .error-btn {
         font-size: 20px;
         width: 200px;
         height: 50px;
         padding: 0;
     }
+
     .banner-section-services {
         padding: 20px 16px;
     }
+
     .banner-section-heading-inner {
         width: 100%;
     }
+
     .form-left-con .right-curve-img {
         left: 65px;
         top: 240px;
     }
+
     .doccument-heading {
         padding-top: 21rem;
     }
+
     .form-text {
         font-size: 16px !important;
         width: 75% !important;
@@ -1706,36 +1799,59 @@
         padding-top: 21rem !important;
         margin-bottom: 30px !important;
     }
+    .button-col {
+        margin: 0px 25px;
+    }
+    .button-col {
+        margin: 0px;
+    }
+    .logo-inner-con {
+        padding: 0;
+    }
+
+    .navbar-nav {
+        gap: 0;
+        align-items: normal;
+    }
+
     .service-banner-two {
         max-width: 93%;
     }
+
     .four-o-four-heading {
         padding: 5rem 0;
     }
+
     .inner-heading-error h1 {
         font-size: 100px;
         line-height: 80px;
     }
+
     .inner-heading-error span {
         font-size: 30px;
         line-height: 20px;
         margin-bottom: 45px;
     }
+
     .error-btn {
         font-size: 20px;
         width: 200px;
         height: 50px;
         padding: 0;
     }
+
     .banner-section-services {
         padding: 20px 16px;
     }
+
     .banner-section-heading-inner {
         width: 100%;
     }
+
     .doccument-heading {
         padding-top: 21rem;
     }
+
     .form-text {
         font-size: 16px !important;
         width: 80% !important;
@@ -1775,18 +1891,32 @@
     .quality-system-left-con p {
         padding: 0px 15px;
     }
+
+    .logo-inner-con {
+        padding: 0;
+    }
+
+    .navbar-nav {
+        gap: 0;
+        align-items: normal;
+    }
+
     .offer-inner-con {
         padding-top: 30px;
     }
+
     .home-banner-inner-text {
         padding: 0px 20px;
     }
+
     .home-banner-heading {
         font-size: 30px;
     }
+
     .home-banner-button-container {
         padding: 10px 15px;
     }
+
     .job-btn {
         font-weight: 600;
         font-size: 20px;
@@ -1794,64 +1924,80 @@
         margin: 10px 20px;
         border-radius: 12px;
     }
+
     .form-section-p {
         padding-right: 0;
         padding-left: 0;
     }
+
     .service-banner-two {
         max-width: 97%;
         object-fit: contain;
     }
-    .about-sec-banner{
+
+    .about-sec-banner {
         height: 300px;
         object-fit: contain;
 
     }
+
     .quality-system-right-con .right-curve-img {
         top: 265px;
     }
+
     .core-vaule-con .form-left-con .left-curve-img {
         right: 30px;
     }
+
     .quality-system-heading {
         font-size: 24px;
     }
+
     .quality-system-list ul li i {
         left: 5px;
         top: 6px;
     }
+
     .form-heading {
         padding-top: 21rem !important;
         font-size: 20px !important;
         margin-bottom: 20px !important;
     }
+
     .four-o-four-heading {
         padding: 5rem 0;
     }
+
     .inner-heading-error h1 {
         font-size: 100px;
         line-height: 80px;
     }
+
     .inner-heading-error span {
         font-size: 30px;
         line-height: 20px;
         margin-bottom: 45px;
     }
+
     .error-btn {
         font-size: 20px;
         width: 200px;
         height: 50px;
         padding: 0;
     }
+
     .banner-section-services {
         padding: 20px 16px;
     }
+
     .banner-section-heading-inner {
         width: 100%;
     }
+
     .doccument-heading {
         padding-top: 21rem;
     }
+
     .form-text {
         font-size: 16px !important;
         width: 85% !important;

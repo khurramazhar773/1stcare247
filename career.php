@@ -14,114 +14,6 @@
    <link rel="stylesheet" href="assets/css/mobile.css">
 
    <title>1stCare | Career</title>
-   <style>
-      .career-hero-text {
-         color: white;
-         padding: 0 13rem 0 13rem;
-         font-size: 1.2rem;
-         font-weight: 400;
-      }
-
-      .hiring-heading {
-         display: flex;
-         justify-content: center;
-         align-items: center;
-         text-align: center;
-         padding: 4rem;
-         color: #074560;
-      }
-
-      h2 {
-         font-weight: 600;
-      }
-
-      .read-btn a {
-         color: white;
-         text-decoration: none;
-
-      }
-
-      .read-more-btn {
-         width: 5rem;
-         background-color: #FF8A00;
-
-         text-decoration-color: white;
-         padding: 6px 16px 6px 16px;
-         border-radius: 20px;
-      }
-
-      .hiring-section {
-         max-width: 800px;
-         margin: 0 auto;
-         text-align: center;
-         padding: 20px;
-      }
-
-      p {
-
-         font-size: 1.2em;
-         margin-bottom: 20px;
-         color: #074560;
-      }
-
-      .job-list {
-         list-style-type: none;
-         padding: 0;
-         margin-bottom: 20px;
-      }
-
-      .job-list li {
-         font-size: 1.2em;
-         margin-bottom: 10px;
-         position: relative;
-         padding-left: 25px;
-      }
-
-      .job-list li::before {
-         content: "●";
-
-         color: #1d6788;
-         position: absolute;
-         left: 0;
-         top: 0;
-      }
-
-      /* Responsive Design */
-      @media (max-width: 768px) {
-         h1 {
-            font-size: 1.8em;
-         }
-
-         p,
-         .job-list li {
-            font-size: 1.1em;
-         }
-      }
-
-      @media (max-width: 576px) {
-         .hiring-heading {
-            display: flex;
-            padding: 2rem !important;
-
-
-         }
-
-         .career-hero-text {
-            display: flex;
-            flex-wrap: wrap;
-            padding: 0;
-         }
-
-         h1 {
-            font-size: 1.5em;
-         }
-
-         p,
-         .job-list li {
-            font-size: 1em;
-         }
-      }
-   </style>
 </head>
 
 <body>
@@ -144,7 +36,7 @@
                <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
                   <div class="container">
                      <div class="generic-banner-content text-white text-center">
-                        <h1>Carrer Landing</h1>
+                        <h1>Carrer</h1>
                         <p class="text-white mb-0">
                            Providing personalized, expert care with compassion, <br /> ensuring your well-being at every
                            step

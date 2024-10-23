@@ -653,11 +653,8 @@ body {
 	transform: translateY(-8px);
 }
 
-/*mobile-app-section*/
-/*news-letter-section*/
 .news-letter-input-feild {
 	background: #ffffff;
-	border-radius: 20px;
 	box-shadow: 0px 20px 30px 0px rgb(0 0 0 / 20%);
 }
 
@@ -677,8 +674,6 @@ body {
 	position: absolute;
 	right: 0;
 	top: 0;
-	border-top-right-radius: 20px;
-	border-bottom-right-radius: 20px;
 	padding: 17px 25px;
 }
 
@@ -710,7 +705,7 @@ body {
 /*news-letter-section*/
 /*logo-section*/
 .logo-inner-con {
-	padding-bottom: 48px;
+	padding: 0 60px 48px 90px;
 	border-bottom: 1px solid #f0f0f0;
 }
 
@@ -1695,36 +1690,421 @@ body {
 	padding-right: 10rem;
 	padding-left: 10rem;
 }
-.home-col-one, .home-col-two{
+
+.home-col-one,
+.home-col-two {
 	padding: 1rem 2rem;
 }
-.home-banner-inner-text{
+
+.home-banner-inner-text {
 	font-size: 24px;
 	font-weight: 600;
 	line-height: 40px;
 }
-.home-banner-btn{
+
+.home-banner-btn {
 	display: flex;
 	align-items: center;
 	justify-content: start;
 	margin-left: 15px;
 }
-.home-banner-heading{
+
+.home-banner-heading {
 	font-size: 45px;
 }
-.home-banner-last-container{
+
+.home-banner-last-container {
 	width: 35%;
 	margin: 0 auto;
 	padding-top: 15px;
 }
-.home-banner-last{
+
+.home-banner-last {
 	text-decoration: underline;
 	color: #ffffff;
 	font-size: 20px;
 	font-weight: 600;
 }
-.online-train-banner-img{
+
+.home-banner-last:hover {
+	color: orange;
+}
+
+.home-banner-last2:hover {
+	color: orange;
+}
+
+.online-train-banner-img {
 	max-width: 1080px;
 	width: 100%;
 	height: auto;
+}
+
+/*  */
+/* worker Availbility */
+/*  */
+.availability-section {
+	padding: 20px;
+	background-color: #f4f7fc;
+	border-radius: 8px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.availability-section h2 {
+	color: #c71f43;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.availability-section table {
+	width: 100%;
+	text-align: center;
+}
+
+.availability-section th,
+.availability-section td {
+	padding: 10px;
+	border: 1px solid #dee2e6;
+}
+
+.availability-section th {
+	background-color: #e9ecef;
+	color: #495057;
+}
+
+.availability-section td {
+	background-color: #ffffff;
+}
+
+.availability-section input[type="text"],
+.availability-section input[type="email"],
+.availability-section input[type="tel"] {
+	width: 100%;
+	padding: 8px;
+	margin-bottom: 10px;
+	border: 1px solid #ced4da;
+	border-radius: 4px;
+}
+
+.submit-btn {
+	background-color: #ff8a00;
+	color: #ffffff;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.submit-btn:hover {
+	background-color: #28a745;
+}
+
+@media (max-width: 768px) {
+
+	.availability-section table th,
+	.availability-section table td {
+		font-size: 0.875rem;
+		padding: 8px;
+	}
+
+	.availability-section table {
+		display: block;
+		overflow-x: auto;
+		white-space: nowrap;
+	}
+}
+
+@media (max-width: 576px) {
+	.availability-section h2 {
+		font-size: 1.5rem;
+	}
+
+	.availability-section table th,
+	.availability-section table td {
+		padding: 5px;
+		font-size: 0.8rem;
+	}
+
+	.availability-section input[type="text"],
+	.availability-section input[type="email"],
+	.availability-section input[type="tel"] {
+		padding: 6px;
+		font-size: 0.875rem;
+	}
+
+	.submit-btn {
+		width: 60%;
+		padding: 8px;
+	}
+}
+
+.nadirWork {
+	color: blue;
+	padding-top: 60px !important;
+}
+
+/*  */
+/* career Landing */
+/*  */
+.career-hero-text {
+	color: white;
+	padding: 0 13rem 0 13rem;
+	font-size: 1.2rem;
+	font-weight: 400;
+}
+
+.hiring-heading {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	padding: 4rem;
+	color: #074560;
+}
+
+h2 {
+	font-weight: 600;
+}
+
+.read-btn a {
+	color: white;
+	text-decoration: none;
+
+}
+
+.read-more-btn {
+	width: 5rem;
+	background-color: #FF8A00;
+
+	text-decoration-color: white;
+	padding: 6px 16px 6px 16px;
+	border-radius: 20px;
+}
+
+.hiring-section {
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 20px;
+}
+
+p {
+
+	margin-bottom: 20px;
+	color: #074560;
+}
+
+.job-list {
+	list-style-type: none;
+	padding: 0;
+	margin-bottom: 20px;
+}
+
+.job-list li {
+	font-size: 1.2em;
+	margin-bottom: 10px;
+	position: relative;
+	padding-left: 25px;
+}
+
+.job-list li::before {
+	content: "●";
+
+	color: #1d6788;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+	h1 {
+		font-size: 1.8em;
+	}
+
+	p,
+	.job-list li {
+		font-size: 1.1em;
+	}
+}
+
+@media (max-width: 576px) {
+	.hiring-heading {
+		display: flex;
+		padding: 2rem !important;
+
+
+	}
+
+	.career-hero-text {
+		display: flex;
+		flex-wrap: wrap;
+		padding: 0;
+	}
+
+	h1 {
+		font-size: 1.5em;
+	}
+
+	p,
+	.job-list li {
+		font-size: 1em;
+	}
+}
+
+/*  */
+/* Blog Page */
+/*  */
+.post-item-description h2 {
+	padding-top: 10px;
+}
+
+.post-item-description {
+	padding: 10px 20px;
+}
+
+/* .blog-component .blog-links {
+	padding: 0px 15px;
+} */
+
+/* .post-item-description a {
+	color: orange;
+} */
+
+.post-item-description p {
+	font-weight: 500;
+}
+
+.CareImage-banner {
+	max-width: 1024px;
+	width: 100%;
+	height: auto;
+}
+
+.CareImage-banner img {
+	width: 100%;
+}
+
+.hidden {
+	display: none;
+}
+
+.read-more {
+	cursor: pointer;
+	color: orange !important;
+}
+
+
+/*  */
+/* contact page */
+/*  */
+.btnSubmit {
+
+	/* border: 2px solid green; */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.uImg {
+	padding: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.description h2 {
+	font-size: 2rem;
+	margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+
+	.uImg {
+		margin-top: 10px;
+	}
+
+	.description h2 {
+		font-size: 1.5rem;
+		margin-top: 20px;
+	}
+}
+
+/*  */
+/* submitted success */
+/*  */
+.success-container {
+	text-align: center;
+	background-color: white;
+	padding: 50px;
+	border-radius: 10px;
+	box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+	max-width: 500px;
+	width: 100%;
+	margin: 0 auto;
+	margin-bottom: 50px;
+}
+.submitted-success:hover{
+	color : white;
+}
+.success-message h3 {
+	color: #28a745;
+	font-size: 2rem;
+	margin-bottom: 20px;
+}
+
+.success-message p {
+	font-size: 1.2rem;
+	margin-bottom: 30px;
+}
+
+.btn-home {
+	background-color: #007bff;
+	color: white;
+	padding: 10px 20px;
+	font-weight: 500;
+	border-radius: 5px;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1.2rem;
+}
+
+/* Animated circle */
+.circle {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	border: 4px dotted #28a745;
+	position: relative;
+	margin: 0 auto 30px;
+	animation: rotate 1s linear forwards;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* Keyframes for rotating the dotted border */
+@keyframes rotate {
+	0% {
+		transform: rotate(0deg);
+	}
+
+	100% {
+		transform: rotate(360deg);
+	}
+}
+
+/* Checkmark using Font Awesome */
+.check-icon {
+	font-size: 2.5rem;
+	color: #28a745;
+	opacity: 0;
+	animation: fadeInCheck 0.8s ease forwards 1s;
+	/* Fade in after the circle completes rotation */
+}
+
+
+@keyframes fadeInCheck {
+	100% {
+		opacity: 1;
+	}
 }
