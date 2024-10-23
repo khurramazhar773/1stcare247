@@ -1799,6 +1799,9 @@
         padding-top: 21rem !important;
         margin-bottom: 30px !important;
     }
+    .hiring-heading {
+        padding: 2rem 1rem;
+    }
     .button-col {
         margin: 0px 25px;
     }
@@ -1890,6 +1893,9 @@
 @media only screen and (max-width: 320px) {
     .quality-system-left-con p {
         padding: 0px 15px;
+    }
+    .hiring-heading {
+        padding: 2rem 1rem;
     }
 
     .logo-inner-con {
