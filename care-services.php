@@ -7,33 +7,7 @@
     <!-- top-bar-section-->
     <!-- header-and-banner-section -->
     <!-- feature-box -->
-    <div class="w-100 float-left header-and-banner-con banner-overlay-img">
-        <div class="container">
-            <div class="overlay-img">
-                <!-- navbar-start -->
-                <?php require 'nav.php' ?>
-                <!-- navbar-end -->
-                <!-- banner-start -->
-                <section>
-                    <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
-                        <div class="container">
-                            <div class="generic-banner-content text-white text-center">
-                                <h1>Care Services</h1>
-                                <p class="text-white mb-0">
-                                    Providing personalized, expert care with compassion, <br /> ensuring your well-being
-                                    at every
-                                    step
-                                    of your health journey.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <!-- banner-end -->
-            </div>
-        </div>
-    </div>
-
+    <?php require 'nav.php' ?>
 
     <!-- header-and-banner-section -->
    <section class="blog-posts w-100 float-left mt-5">
