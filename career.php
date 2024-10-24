@@ -4,7 +4,8 @@
 <head>
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
    <link rel="stylesheet" href="assets/css/animate.css">
    <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css">
    <link rel="stylesheet" href="assets/css/super-classes.css">
@@ -36,8 +37,8 @@
                      <div class="generic-banner-content text-white text-center">
                         <h1>Career</h1>
                         <p class="text-white mb-0">
-                        Join our team of dedicated healthcare professionals—explore<br>
-                         current opportunities and take the next step in your career today.
+                           Join our team of dedicated healthcare professionals—explore<br>
+                           current opportunities and take the next step in your career today.
                         </p>
                      </div>
                   </div>
@@ -51,8 +52,10 @@
    <div class="container">
       <section class="hiring-section">
          <h1 class="hiring-heading">We Are Hiring</h1>
-         <p class="career-text">1st care offers opportunities across the UK for experienced health and social care professionals who prioritize a service user-centered approach in their practice.</p>
-         <p class="career-text">If you have at least 6 months of experience in any of the following areas, we would love to hear from you:</p>
+         <p class="career-text">1st care offers opportunities across the UK for experienced health and social care
+            professionals who prioritize a service user-centered approach in their practice.</p>
+         <p class="career-text">If you have at least 6 months of experience in any of the following areas, we would love
+            to hear from you:</p>
          <div class="bullet-points">
             <ul class="job-list pt-4">
                <li style="color:#52656D;">Elderly Care Assistants</li>
@@ -98,7 +101,9 @@
                                  <a href="#">Elderly Care Assistants </a>
                               </h2>
 
-                              <p>Discover highly skilled Care Assistants ready to provide flexible, quality healthcare services when and where you need them. Our experienced team ensures continuity of care tailored to your practice's needs.</p>
+                              <p>Discover highly skilled Care Assistants ready to provide quality healthcare
+                                 services when and where you need them. Our experienced team ensures continuity of care
+                                 tailored to your practice's needs.</p>
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now </a></div>
 
                               <!--post-item-description-->
@@ -124,7 +129,9 @@
                               <h2>
                                  <a href="#">Registered Nurses </a>
                               </h2>
-                              <p>Our experienced nurses deliver compassionate, patient-centered care across various specialties.Quality healthcare services when and where you need , reliable nursing staff to support your healthcare team.</p>
+                              <p>Our experienced nurses deliver compassionate, patient-centered care across various
+                                 specialties.Quality healthcare services when and where you need , reliable nursing
+                                 staff to support your healthcare team.</p>
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now</a></div>
                               <!--post-item-description-->
                            </div>
@@ -149,7 +156,9 @@
                               <h2>
                                  <a href="#">Support Specialists</a>
                               </h2>
-                              <p>Our Support Specialists provides skilled, We ensure high-quality, compassionate care tailored to your needs. We offer flexible staffing solutions to ensure seamless support for your medical practice.</p>
+                              <p>Our Support Specialists provides skilled, We ensure high-quality, compassionate care
+                                 tailored to your needs. We offer flexible staffing solutions to ensure seamless support
+                                 for your medical practice.</p>
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now</a></div>
                               <!--post-item-description-->
                            </div>
@@ -174,7 +183,9 @@
                               <h2>
                                  <a href="#">Healthcare Assistants </a>
                               </h2>
-                              <p>Our Healthcare Assistants provide expert medication management and personalized care to enhance patient outcomes. We offer flexible staffing solutions to meet your pharmacy service needs</p>
+                              <p>Our Healthcare Assistants provide expert medication management and personalized care to
+                                 enhance patient outcomes. We offer flexible staffing solutions to meet your pharmacy
+                                 service needs</p>
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now </a></div>
                               <!--post-item-description-->
                            </div>
@@ -199,7 +210,9 @@
                               <h2>
                                  <a href="#">Locum General Practitioner </a>
                               </h2>
-                              <p>Our Locum GP specialists focus on personalized recovery plans to help patients regain strength and independence. We provide expert support across physical, occupational, and speech therapies.</p>
+                              <p>Our Locum GP specialists focus on personalized recovery plans to help patients regain
+                                 strength and independence. We provide expert support across physical, occupational, and
+                                 speech therapies.</p>
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now </a></div>
                               <!--post-item-description-->
                            </div>
@@ -224,7 +237,9 @@
                               <h2>
                                  <a href="#">Licensed Social Workers </a>
                               </h2>
-                              <p>Our social working team offers comprehensive care, addressing a wide range of medical conditions with expertise and compassion. We ensure high-quality, personalized treatment for patients of all ages.</p>
+                              <p>Our social working team offers comprehensive care, addressing a wide range of medical
+                                 conditions with expertise and compassion. We ensure high-quality, personalized
+                                 treatment for patients of all ages.</p>
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now </a></div>
                               <!--post-item-description-->
                            </div>

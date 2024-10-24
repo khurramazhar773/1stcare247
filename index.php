@@ -120,7 +120,7 @@
                         schedules, competitive pay, and opportunities to make a positive impact on patient care.
                      </p>
                      <div class="home-banner-btn">
-                        <a href="contact.php" class="shope-btn">Apply now</a>
+                        <a href="online-registration.php" class="shope-btn">Apply now</a>
                      </div>
                   </div>
                   <!-- Right Section: Recent Jobs -->
@@ -133,7 +133,7 @@
                         <a href="#" class="job-btn home-banner-last2">Locum GP’s</a>
                      </div>
                      <div class="home-banner-last-container">
-                        <a href="#" class="home-banner-last">View All</a>
+                        <a href="online-registration.php" class="home-banner-last">View All</a>
                      </div>
                   </div>
 
@@ -421,10 +421,13 @@
                               <span>By David William</span>
                               <span>Dec 1, 2022</span>
                            </div>
-                           <h4>Quis autem vea eum iure
-                              reprehenderit</h4>
-                           <p class="mb-0">Dolor repellendus temporibus aute quibu
-                              sdam officiis debitis rerum</p>
+                           <h4>
+                              The Role of Locum GPs in Healthcare
+                           </h4>
+                           <p class="mb-0">
+                           Our healthcare staff provides skilled,
+                           compassionate care tailored to your needs.
+                           </p>
                         </div>
                      </div>
                   </a>
@@ -440,10 +443,12 @@
                               <span>By David William</span>
                               <span>Dec 1, 2022</span>
                            </div>
-                           <h4>Quis autem vea eum iure
-                              reprehenderit</h4>
-                           <p class="mb-0">Dolor repellendus temporibus aute quibu
-                              sdam officiis debitis rerum</p>
+                           <h4>Ensuring Medication Safety</h4>
+                           <p class="mb-0">
+                              Our general medicine team offers comprehensive care,
+                              addressing a wide range of medical conditions with 
+                              expertise and compassion.
+                           </p>
                         </div>
                      </div>
                   </a>
@@ -459,10 +464,11 @@
                               <span>By David William</span>
                               <span>Dec 1, 2022</span>
                            </div>
-                           <h4>Quis autem vea eum iure
-                              reprehenderit</h4>
-                           <p class="mb-0">Dolor repellendus temporibus aute quibu
-                              sdam officiis debitis rerum</p>
+                           <h4>Supporting Your Medical Practice</h4>
+                           <p class="mb-0">
+                              Our experienced nurses deliver compassionate,
+                              patient-centered care across various specialties.
+                              </p>
                         </div>
                      </div>
                   </a>

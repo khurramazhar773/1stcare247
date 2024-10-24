@@ -1688,7 +1688,6 @@ body {
   margin-bottom: 10px;
   border-radius: 12px;
   text-decoration: none;
-  /* width: 17rem; */
 }
 
 .form-section-p {
@@ -2018,14 +2017,6 @@ p {
   padding: 10px 20px;
 }
 
-/* .blog-component .blog-links {
-	padding: 0px 15px;
-} */
-
-/* .post-item-description a {
-	color: orange;
-} */
-
 .post-item-description p {
   font-weight: 500;
 }
@@ -2053,7 +2044,6 @@ p {
 /* contact page */
 /*  */
 .btnSubmit {
-  /* border: 2px solid green; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -2105,12 +2095,10 @@ p {
   font-size: 2rem;
   margin-bottom: 20px;
 }
-
 .success-message p {
   font-size: 1.2rem;
   margin-bottom: 30px;
 }
-
 .btn-home {
   background-color: #007bff;
   color: white;
@@ -2121,8 +2109,6 @@ p {
   display: inline-block;
   font-size: 1.2rem;
 }
-
-/* Animated circle */
 .circle {
   width: 100px;
   height: 100px;
@@ -2135,8 +2121,6 @@ p {
   justify-content: center;
   align-items: center;
 }
-
-/* Keyframes for rotating the dotted border */
 @keyframes rotate {
   0% {
     transform: rotate(0deg);
@@ -2146,14 +2130,11 @@ p {
     transform: rotate(360deg);
   }
 }
-
-/* Checkmark using Font Awesome */
 .check-icon {
   font-size: 2.5rem;
   color: #28a745;
   opacity: 0;
   animation: fadeInCheck 0.8s ease forwards 1s;
-  /* Fade in after the circle completes rotation */
 }
 
 @keyframes fadeInCheck {
