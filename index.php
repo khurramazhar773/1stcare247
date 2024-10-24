@@ -17,6 +17,7 @@
 
 <body>
    <!-- top-bar-section-->
+   <?php require 'header.php'; ?>
    <!-- top-bar-section-->
    <?php require 'navbar.php'; ?>
    <!-- header-and-banner-section -->
