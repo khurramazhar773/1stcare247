@@ -262,7 +262,7 @@
 
 
    <!-- header-and-banner-section -->
-   <section class="blog-posts w-100 float-left mt-5">
+   <section class="blog-posts w-100 float-left mt-1">
       <div class="container">
          <div class="row">
             <div id="blog" class="col-xl-12">
