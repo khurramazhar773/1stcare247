@@ -11,24 +11,16 @@
    <link rel="stylesheet" href="assets/css/super-classes.css">
    <link rel="stylesheet" href="assets/css/style.css">
    <link rel="stylesheet" href="assets/css/mobile.css">
-   <title>Medtexh</title>
+   <title>1stCare | Home</title>
 
 </head>
 
 <body>
    <!-- top-bar-section-->
-   <?php
-   // Attach header.php
-   require 'header.php';
-   ?>
+   <?php require 'header.php'; ?>
    <!-- top-bar-section-->
+   <?php require 'navbar.php'; ?>
    <!-- header-and-banner-section -->
-   <?php
-   // Attach navbar.php
-   require 'navbar.php';
-   ?>
-   <!-- header-and-banner-section -->
-   <!-- feature-box -->
    <section>
       <div class="w-100 float-left feature-box-con text-center">
          <div class="container">
@@ -38,8 +30,8 @@
                      <figure>
                         <img src="assets/image/feature-box-icon1.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
-                     <h5>Doctor</h5>
-                     <p class="mb-0">Lorem ipsum dolor sit amet consectetuer adipi.</p>
+                     <h5>Locum GP’s</h5>
+                     <p class="mb-0">Our locum GPs deliver flexible, high-quality care for your practice.</p>
                   </div>
                </div>
                <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0">
@@ -47,8 +39,8 @@
                      <figure>
                         <img src="assets/image/feature-box-icon2.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
-                     <h5>Hospitals</h5>
-                     <p class="mb-0">Lorem ipsum dolor sit amet consectetuer adipi.</p>
+                     <h5>Qualified Nurses</h5>
+                     <p class="mb-0">Our qualified nurses provide compassionate, skilled patient care.</p>
                   </div>
                </div>
                <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0">
@@ -56,8 +48,8 @@
                      <figure>
                         <img src="assets/image/feature-box-icon3.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
-                     <h5>General Medicine</h5>
-                     <p class="mb-0">Lorem ipsum dolor sit amet consectetuer adipi.</p>
+                     <h5>Healthcare Assistants</h5>
+                     <p class="mb-0">Our healthcare assistants support patients and professionalism.</p>
                   </div>
                </div>
                <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0">
@@ -65,8 +57,8 @@
                      <figure>
                         <img src="assets/image/feature-box-icon4.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
-                     <h5>Hospice Care</h5>
-                     <p class="mb-0">Lorem ipsum dolor sit amet consectetuer adipi.</p>
+                     <h5>Pharmacy Locums</h5>
+                     <p class="mb-0">Our pharmacy locums offer flexible, expert medication management.</p>
                   </div>
                </div>
             </div>
@@ -77,7 +69,7 @@
                         <img src="assets/image/feature-box-icon5.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
                      <h5>Rehab</h5>
-                     <p class="mb-0">Lorem ipsum dolor sit amet consectetuer adipi.</p>
+                     <p class="mb-0">Our rehab team offers personalized plans for effective recovery.</p>
                   </div>
                </div>
                <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-bottom-0">
@@ -85,8 +77,8 @@
                      <figure>
                         <img src="assets/image/feature-box-icon6.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
-                     <h5>Dialysis Facilities</h5>
-                     <p class="mb-0">Lorem ipsum dolor sit amet consectetuer adipi.</p>
+                     <h5>Qualified Nurses</h5>
+                     <p class="mb-0">Our qualified nurses provide compassionate, skilled patient care.</p>
                   </div>
                </div>
                <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-bottom-0">
@@ -94,8 +86,8 @@
                      <figure>
                         <img src="assets/image/feature-box-icon7.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
-                     <h5>Health Schedule</h5>
-                     <p class="mb-0">Lorem ipsum dolor sit amet consectetuer adipi.</p>
+                     <h5>General Medicine</h5>
+                     <p class="mb-0">Our general medicine team offers comprehensive care for various health issues.</p>
                   </div>
                </div>
                <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-bottom-0 border-right-0">
@@ -104,7 +96,7 @@
                         <img src="assets/image/feature-box-icon8.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
                      <h5>Ambulance Call</h5>
-                     <p class="mb-0">Lorem ipsum dolor sit amet consectetuer adipi.</p>
+                     <p class="mb-0">Our ambulance service ensures quick response times and expert care.</p>
                   </div>
                </div>
             </div>
@@ -128,7 +120,7 @@
                         schedules, competitive pay, and opportunities to make a positive impact on patient care.
                      </p>
                      <div class="home-banner-btn">
-                        <a href="contact.html" class="shope-btn">Apply now</a>
+                        <a href="contact.php" class="shope-btn">Apply now</a>
                      </div>
                   </div>
                   <!-- Right Section: Recent Jobs -->
@@ -136,9 +128,9 @@
                      <h2 class="text-orange mb-2 home-banner-heading">Recent <span class="text-white mb-2">jobs</span>
                      </h2>
                      <div class="home-banner-button-container">
-                        <a href="#" class="job-btn">Pharmacists</a>
-                        <a href="#" class="job-btn">Nurses</a>
-                        <a href="#" class="job-btn">Locum GP’s</a>
+                        <a href="#" class="job-btn home-banner-last2">Pharmacists</a>
+                        <a href="#" class="job-btn home-banner-last2">Nurses</a>
+                        <a href="#" class="job-btn home-banner-last2">Locum GP’s</a>
                      </div>
                      <div class="home-banner-last-container">
                         <a href="#" class="home-banner-last">View All</a>
@@ -198,7 +190,7 @@
                               <h2 class="count">522</h2>
                               <span>+</span>
                            </div>
-                           <p class="mb-0">Hospital Room</p>
+                           <p class="mb-0">Locum GP’s</p>
                         </div>
                      </div>
                   </div>
@@ -212,7 +204,7 @@
                               <h2 class="count">99</h2>
                               <span>+</span>
                            </div>
-                           <p class="mb-0">Qualified Doctor</p>
+                           <p class="mb-0">Nurses</p>
                         </div>
                      </div>
                   </div>
@@ -313,7 +305,9 @@
                            </div>
                         </div>
                      </div>
-                     <button type="submit" class="btn  appointment-btn">Book Appointment</button>
+                     <button type="submit" class="btn  appointment-btn">
+                        <a href="contact.php" style="color:white;">Book Appointment</a>
+                     </button>
                   </form>
                </div>
             </div>
@@ -389,13 +383,11 @@
                         </div>
                         <a class="carousel-control-prev" href="#carouselExampleControls" role="button"
                            data-slide="prev">
-                           <!-- <span class="carousel-control-prev-icon" aria-hidden="true"></span> -->
                            <i class="fas fa-arrow-left"></i>
                            <span class="sr-only">Previous</span>
                         </a>
                         <a class="carousel-control-next" href="#carouselExampleControls" role="button"
                            data-slide="next">
-                           <!-- <span class="carousel-control-next-icon" aria-hidden="true"></span> -->
                            <i class="fas fa-arrow-right"></i>
                            <span class="sr-only">Next</span>
                         </a>
@@ -412,14 +404,14 @@
       <div class="w-100 float-left blog-con">
          <div class="container">
             <div class="text-center">
-               <h2>Our Latest News</h2>
+               <h2>Our Blogs</h2>
                <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt aenean<br>
                   leo ligula porttitor eu consequat vitae eleifend tac.
                </p>
             </div>
             <div class="row">
                <div class="col-lg-4 col-md-4">
-                  <a href="single-post.html">
+                  <a href="blog.php">
                      <div class="blog-item">
                         <figure class="mb-0">
                            <img src="assets/image/news-1 (1).png" alt="blog-img" class="img-fluid">
@@ -438,7 +430,7 @@
                   </a>
                </div>
                <div class="col-lg-4 col-md-4">
-                  <a href="single-post.html">
+                  <a href="blog.php">
                      <div class="blog-item">
                         <figure class="mb-0">
                            <img src="assets/image/news-2.png" alt="blog-img" class="img-fluid">
@@ -457,7 +449,7 @@
                   </a>
                </div>
                <div class="col-lg-4 col-md-4">
-                  <a href="single-post.html">
+                  <a href="blog.php">
                      <div class="blog-item mb-0">
                         <figure class="mb-0">
                            <img src="assets/image/news-3.png" alt="blog-img" class="img-fluid">

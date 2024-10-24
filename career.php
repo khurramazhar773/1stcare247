@@ -5,6 +5,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
    <link rel="stylesheet" href="assets/css/animate.css">
    <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css">
    <link rel="stylesheet" href="assets/css/super-classes.css">
@@ -254,19 +255,23 @@
             You can request an application pack by post or download the application form from the "Document Library"
             section on the 1st Med website.
             Please note that all job offers are contingent upon an enhanced DBS check.</p>
-         <p class="pt-2">For complete details, explore our current vacancies listed below.
+         <p class="pt-2 career-text">For complete details, explore our current vacancies listed below.
             To apply, simply fill out our Registration Form, upload your details, and we'll be in touch shortly.</p>
       </section>
    </div>
 
 
 
+
+
    <!-- header-and-banner-section -->
+   <section class=" blog-posts w-100 float-left ">
    <section class=" blog-posts w-100 float-left ">
       <div class="container">
          <div class="row">
             <div id="blog" class="col-xl-12">
                <div class="row">
+                  <div class="col-xl-6 ">
                   <div class="col-xl-6 ">
                      <div class="float-left w-100 post-item border mb-4">
                         <div class="post-item-wrap position-relative">
@@ -276,8 +281,11 @@
                               </a>
 
 
+
                            </div>
                            <div class="post-item-description">
+                              <h2 class="card-heading">
+                                 <a href="#">Elderly Care Assistants </a>
                               <h2 class="card-heading">
                                  <a href="#">Elderly Care Assistants </a>
                               </h2>
@@ -302,10 +310,12 @@
                               </a>
 
 
+
                            </div>
                            <div class="post-item-description">
 
                               <h2>
+                                 <a href="#">Registered Nurses </a>
                                  <a href="#">Registered Nurses </a>
                               </h2>
                               <p>Our experienced nurses deliver compassionate, patient-centered care across various specialties.Quality healthcare services when and where you need , reliable nursing staff to support your healthcare team.</p>
@@ -332,6 +342,7 @@
 
                               <h2>
                                  <a href="#">Support Specialists</a>
+                                 <a href="#">Support Specialists</a>
                               </h2>
                               <p>Our Support Specialists provides skilled, We ensure high-quality, compassionate care tailored to your needs. We offer flexible staffing solutions to ensure seamless support for your medical practice.</p>
                               <div class="read-btn"><a href="#" class="read-more-btn">Apply Now</a></div>
@@ -356,6 +367,7 @@
                            <div class="post-item-description">
 
                               <h2>
+                                 <a href="#">Healthcare Assistants </a>
                                  <a href="#">Healthcare Assistants </a>
                               </h2>
                               <p>Our Healthcare Assistants provide expert medication management and personalized care to enhance patient outcomes. We offer flexible staffing solutions to meet your pharmacy service needs</p>
@@ -382,6 +394,7 @@
 
                               <h2>
                                  <a href="#">Locum General Practitioner </a>
+                                 <a href="#">Locum General Practitioner </a>
                               </h2>
                               <p>Our Locum GP specialists focus on personalized recovery plans to help patients regain strength and independence. We provide expert support across physical, occupational, and speech therapies.</p>
                               <div class="read-btn"><a href="#" class="read-more-btn">Apply Now </a></div>
@@ -407,6 +420,7 @@
 
                               <h2>
                                  <a href="#">Licensed Social Workers </a>
+                                 <a href="#">Licensed Social Workers </a>
                               </h2>
                               <p>Our social working team offers comprehensive care, addressing a wide range of medical conditions with expertise and compassion. We ensure high-quality, personalized treatment for patients of all ages.</p>
                               <div class="read-btn"><a href="#" class="read-more-btn">Apply Now </a></div>
@@ -426,12 +440,17 @@
 
                </div>
                <!--blog-->
+               <!--blog-->
             </div>
+
 
          </div>
          <!--container-->
+         <!--container-->
       </div>
    </section>
+   <!-- FOOTER -->
+   <!-- logo-section -->
    <!-- FOOTER -->
    <!-- logo-section -->
    <div class="w-100 float-left logo-con">

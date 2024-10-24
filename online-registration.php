@@ -13,7 +13,8 @@
   <link rel="stylesheet" href="assets/css/super-classes.css">
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="stylesheet" href="assets/css/mobile.css">
-  <link rel="stylesheet" href="assets/css/form.css"> <!-- Link to your custom CSS -->
+  <link rel="stylesheet" href="assets/css/form.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 </head>
 
@@ -70,9 +71,9 @@
     </div>
 
 
-    <!-- Multi-step form -->
+    <!-- Your 4-step form -->
     <form id="multiStepForm" class="online-form">
-      <!-- Step 1 -->
+      <!-- Steps 1 to 4 here -->
       <div class="form-step active">
         <div class="form-inner-heading">
           <img src="assets/image/icon1.png" alt="">
@@ -83,21 +84,21 @@
         </div>
         <div class="mb-3">
           <label for="fullName" class="form-label">Full Name</label>
-          <input type="text" class="form-control" id="fullName" placeholder="Enter your full name">
+          <input type="text" class="form-control" id="fullName" placeholder="Enter your full name" required>
         </div>
         <div class="mb-3">
           <label for="email" class="form-label">Email</label>
-          <input type="email" class="form-control" id="email" placeholder="Enter your email">
+          <input type="email" class="form-control" id="email" placeholder="Enter your email" required>
         </div>
         <div class="mb-3">
           <label for="phone" class="form-label">Phone Number</label>
-          <input type="tel" class="form-control" id="phone" placeholder="Enter your phone number">
+          <input type="tel" class="form-control" id="phone" placeholder="Enter your phone number" required>
         </div>
         <div class="form-inner-button">
           <button type="button" class="btn btn-warning next-btn">Next</button>
         </div>
       </div>
-      <!-- Step 2 -->
+      <!--  -->
       <div class="form-step">
         <div class="form-inner-heading">
           <img src="assets/image/icon2.png" alt="">
@@ -108,23 +109,22 @@
         </div>
         <div class="mb-3">
           <label for="degree" class="form-label">Highest Degree</label>
-          <input type="text" class="form-control" id="degree" placeholder="Enter your highest degree">
+          <input type="text" class="form-control" id="degree" placeholder="Enter your highest degree" required>
         </div>
         <div class="mb-3">
           <label for="university" class="form-label">University / College</label>
-          <input type="text" class="form-control" id="university" placeholder="Enter your institution">
+          <input type="text" class="form-control" id="university" placeholder="Enter your institution" required>
         </div>
         <div class="mb-5">
           <label for="graduationYear" class="form-label">Year of Graduation</label>
-          <input type="text" class="form-control" id="university" placeholder="Enter your graduation year">
+          <input type="text" class="form-control" id="university" placeholder="Enter your graduation year" required>
         </div>
         <div class="form-inner-button">
           <button type="button" class="btn btn-warning next-btn">Next</button>
           <button type="button" class="btn btn-secondary back-btn">Back</button>
         </div>
       </div>
-
-      <!-- Step 3 -->
+      <!--  -->
       <div class="form-step">
         <div class="form-inner-heading">
           <img src="assets/image/icon3.png" alt="">
@@ -135,22 +135,21 @@
         </div>
         <div class="mb-3">
           <label for="position" class="form-label">Current Position</label>
-          <input type="text" class="form-control" id="experience" placeholder="Enter your current title">
+          <input type="text" class="form-control" id="experience" placeholder="Enter your current title" required>
         </div>
         <div class="mb-3">
           <label for="companyName" class="form-label">Company Name</label>
-          <input type="text" class="form-control" id="experience" placeholder="Enter your company ‘s name">
+          <input type="text" class="form-control" id="experience" placeholder="Enter your company ‘s name" required>
         </div>
         <div class="mb-5">
           <label for="position" class="form-label">Years of Experience</label>
-          <input type="text" class="form-control" id="experience" placeholder="Enter years of Experience">
+          <input type="text" class="form-control" id="experience" placeholder="Enter years of Experience" required>
         </div>
         <div class="form-inner-button">
           <button type="button" class="btn btn-warning next-btn">Next</button>
           <button type="button" class="btn btn-secondary back-btn">Back</button>
         </div>
       </div>
-
       <!-- Step 4 -->
       <div class="form-step">
         <div class="form-inner-heading">
@@ -161,122 +160,42 @@
           <span>ADDITIONAL INFORMATION</span>
         </div>
         <div class="mb-3">
-          <label for="LinkedinProfile" class="form-label">Your Linkedin Profle (Optional)</label>
-          <input type="text" class="form-control" id="experience" placeholder="Enter your highest degree">
+          <label for="LinkedinProfile" class="form-label">Your Linkedin Profile (Optional)</label>
+          <input type="text" class="form-control" id="linkedinProfile" placeholder="Enter your Linkedin profile" required>
         </div>
         <div class="mb-3">
-          <label for="LinkedinProfile" class="form-label">Your Cover Letter (Optional)</label>
-          <textarea class="form-control" id="comments" rows="5" placeholder="Write a brief cover letter"></textarea>
+          <label for="coverLetter" class="form-label">Your Cover Letter (Optional)</label>
+          <textarea class="form-control" id="coverLetter" rows="5" placeholder="Write a brief cover letter"></textarea>
         </div>
         <div class="mb-3 form-group col-lg-12 col-md-12 col-sm-12">
-          <label for="LinkedinProfile" class="form-label">Upload Property Images</label>
-          <input type="file" class="form-control" id="image-upload" placeholder="no file choosen" accept="image/*"
-            multiple>
+          <label for="imageUpload" class="form-label">Upload Property Images</label>
+          <input type="file" class="form-control" id="imageUpload" placeholder="No file chosen" accept="image/*"
+            multiple required>
           <div id="imageContainer" class="image-preview-container"></div>
         </div>
         <div class="form-inner-button">
-          <button type="button" class="btn btn-warning next-btn">Submit Application</button>
+          <button type="button" class="btn btn-warning submit-btn">Submit Application</button>
           <button type="button" class="btn btn-secondary back-btn">Back</button>
         </div>
       </div>
     </form>
+    <!-- Success Message -->
+    <div id="successMessage" class="success-container" style="display: none;">
+      <div class="circle">
+        <i class="fas fa-check check-icon"></i>
+      </div>
+      <div class="success-message">
+        <h3>Submission Successful!</h3>
+        <p>Your application has been submitted successfully. Thank you!</p>
+      </div>
+      <a href="index.php" class="btn-home submitted-success">Go to Home</a>
+    </div>
   </div>
 
   <!-- footer section -->
-  <section>
-    <div class="w-100 float-left weight-footer-con">
-      <div class="container">
-        <div class="weight-footer-inner-con">
-          <div class="row">
-            <div class="col-lg-5 col-12 text-xl-left text-lg-left text-center">
-              <div class="weight-footer-content ">
-                <figure>
-                  <img src="assets/image/footer-logo.png" alt="footer-logo" class="img-fluid">
-                </figure>
-                <p class="col-lg-11 col-md-7 pl-0 pr-0 ml-lg-0 mr-lg-0 ml-md-auto mr-md-auto">Lorem ipsum
-                  dolor sit amet, consectetur adipiscing elitsed do eiusmod tempororem ipsum dolor sit am
-                  econsect ametconsectetetur adipiscing.</p>
-                <div class="weight-social-list">
-                  <ul class="list-unstyled mb-0">
-                    <li class="d-inline-block"><a href="https://www.facebook.com/"><i
-                          class="fab fa-facebook-square d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                    </li>
-                    <li class="d-inline-block"><a href="https://twitter.com/?lang=en"><i
-                          class="fab fa-twitter-square d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                    </li>
-                    <li class="d-inline-block"><a href="https://www.linkedin.com/signup"><i
-                          class="fab fa-linkedin d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                    </li>
-                    <li class="d-inline-block"><a href="https://www.pinterest.com/"><i
-                          class="fab fa-pinterest-square mr-0 d-flex align-items-center justify-content-center text-white pr-0"></i></a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-2 col-md-4 col-sm-4 col-6">
-              <div class="weight-footer-content">
-                <h5>Important Link</h5>
-                <ul class="list-unstyled mb-0">
-                  <li><i class="fas fa-caret-right"></i>Appointment</li>
-                  <li><i class="fas fa-caret-right"></i>Doctors</li>
-                  <li><i class="fas fa-caret-right"></i>Services</li>
-                  <li><i class="fas fa-caret-right"></i>Specialties</li>
-                  <li><i class="fas fa-caret-right"></i>Neurology</li>
-                  <li class="mb-0"><i class="fas fa-caret-right"></i>Oncology</li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-lg-2 col-md-3 col-sm-3 col-6">
-              <div class="weight-footer-content">
-                <h5>Support</h5>
-                <ul class="list-unstyled mb-0">
-                  <li><i class="fas fa-caret-right"></i>Support</li>
-                  <li><i class="fas fa-caret-right"></i>Contact Us</li>
-                  <li><i class="fas fa-caret-right"></i>Knowledge Base</li>
-                  <li><i class="fas fa-caret-right"></i>About Us</li>
-                  <li><i class="fas fa-caret-right"></i>Faq</li>
-                  <li class="mb-0"><i class="fas fa-caret-right"></i>Partnerships</li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-5 col-sm-5 col-12">
-              <div class="weight-footer-content">
-                <h5>Get in Touch</h5>
-                <ul class="list-unstyled mb-0">
-                  <li><span>Email: </span>info@medtexh.com</li>
-                  <li><span>Phone: </span>+1 234 567 89 0 0</li>
-                  <li><span>Fax: </span>+1 ( 987 ) 654 321 9 9</li>
-                  <li class="mb-0"><span class="pr-2">Address:</span>King Street Melbourne,
-                    3000, Australia
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- weight-footer-section -->
-  <!-- footer-section -->
-  <div class="w-100 float-left footer-con text-xl-left text-lg-left text-center">
-    <div class="container">
-      <div class="row">
-        <div class="footer-heading col-lg-6 col-md-6 col-12">
-          <p class="mb-0">@1stcare247. All Rights Reserved</p>
-        </div>
-        <div class="footer-heading col-lg-6 col-md-6 col-12">
-          <p class="mb-0">
-            Developed and Maintained By :  <a href="https://csoftsystems.com/" target="_blank">Csoft Systems</a>
-          </p>
-        </div>
-      </div>
-    </div>
-  </div>
-
+  <?php require 'footer.php'; ?>
+  <!--  -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-  <script src="assets/js/script.js"></script> <!-- Link to your custom JS -->
+  <script src="assets/js/script.js"></script>
 </body>
-
 </html>

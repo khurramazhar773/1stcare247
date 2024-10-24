@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-light">
-    <a class="navbar-brand" href="index.html"><img src="assets/image/logo2.png" alt="logo-img" class="img-fluid"></a>
+    <a class="navbar-brand" href="index.php"><img src="assets/image/logo2.png" alt="logo-img" class="img-fluid"></a>
     <button class="navbar-toggler p-0 collapsed" type="button" data-toggle="collapse"
         data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
         aria-label="Toggle navigation">
@@ -39,6 +39,9 @@
                     aria-haspopup="true" aria-expanded="false">
                     Career
                 </a>
+            </li>
+            <li class="nav-item pr-0">
+                <a class="nav-link p-0 text-white" href="blog.php">Blog</a>
             </li>
             <li class="nav-item pr-0">
                 <a class="nav-link p-0 text-white" href="contact.php"> Contact </a>

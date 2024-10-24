@@ -1,4 +1,20 @@
+<!DOCTYPE html>
+<html lang="zxx">
 
+<head>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+   <link rel="stylesheet" href="assets/css/animate.css">
+   <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css">
+   <link rel="stylesheet" href="assets/css/super-classes.css">
+   <link rel="stylesheet" href="assets/css/style.css">
+   <link rel="stylesheet" href="assets/css/mobile.css">
+   <title>1stCare | About</title>
+</head>
+
+<body>
 
    <?php
    // Attach header.php
@@ -63,7 +79,7 @@
                            <li class="position-relative"><i class="fas fa-circle"></i>Modern Clinic</li>
                         </ul>
                      </div>
-                     <a href="#" class="appointment-button">Learn More</a>
+                     <a href="pharmasist.php" class="appointment-button">Learn More</a>
                   </div>
                </div>
                <div class="col-lg-6 col-md-6 d-md-flex align-items-md-end">
@@ -250,7 +266,7 @@
             <div class="professional-box">
                <div class="row">
                   <div class="col-lg-4 col-md-4">
-                     <a href="team-detail.html">
+                     <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
                               <img src="assets/image/professional-box-img1.png" alt="professional-box-img"
@@ -281,7 +297,7 @@
 
                   </div>
                   <div class="col-lg-4 col-lg-4 col-md-4">
-                     <a href="team-detail.html">
+                     <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
                               <img src="assets/image/professional-box-img2.png" alt="professional-box-img"
@@ -312,7 +328,7 @@
 
                   </div>
                   <div class="col-lg-4 col-lg-4 col-md-4">
-                     <a href="team-detail.html">
+                     <a href="#">
                         <div class="professional-box-item text-center mb-0">
                            <figure class="mb-0">
                               <img src="assets/image/professional-box-img3.png" alt="professional-box-img"
