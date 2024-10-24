@@ -11,7 +11,7 @@
    <link rel="stylesheet" href="assets/css/super-classes.css">
    <link rel="stylesheet" href="assets/css/style.css">
    <link rel="stylesheet" href="assets/css/mobile.css">
-   <title>1stCare | Home</title>
+   <!-- <title>1stCare | Home</title> -->
 
 </head>
 
