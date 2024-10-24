@@ -4,8 +4,7 @@
 <head>
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
-      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
    <link rel="stylesheet" href="assets/css/animate.css">
    <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css">
    <link rel="stylesheet" href="assets/css/super-classes.css">
@@ -13,13 +12,18 @@
    <link rel="stylesheet" href="assets/css/custom-style.css">
    <link rel="stylesheet" href="assets/css/mobile.css">
 
-   <title>1stCare | Career</title>
+   <title>Career</title>
    <style>
       .career-hero-text {
          color: white;
          padding: 0 13rem 0 13rem;
          font-size: 1.2rem;
          font-weight: 400;
+      }
+
+      .bullet-points {
+         display: flex;
+         text-align: left;
       }
 
       .hiring-heading {
@@ -29,6 +33,7 @@
          text-align: center;
          padding: 4rem;
          color: #074560;
+         font-size: 60px;
       }
 
       h2 {
@@ -51,15 +56,15 @@
       }
 
       .hiring-section {
+
          max-width: 800px;
          margin: 0 auto;
          text-align: center;
-         padding: 20px;
+         padding: 18px;
       }
 
       p {
-
-         font-size: 1.2em;
+         font-size: 18px;
          margin-bottom: 20px;
          color: #074560;
       }
@@ -71,10 +76,12 @@
       }
 
       .job-list li {
-         font-size: 1.2em;
+         font-size: 22px;
          margin-bottom: 10px;
          position: relative;
          padding-left: 25px;
+         color: #074560;
+
       }
 
       .job-list li::before {
@@ -85,6 +92,8 @@
          left: 0;
          top: 0;
       }
+
+    
 
       /* Responsive Design */
       @media (max-width: 768px) {
@@ -127,30 +136,94 @@
 <body>
    <!-- top-bar-section-->
 
-   <?php
-   // Attach header.php
-   require 'header.php';
-   ?>
-
-   <!-- feature-box -->
+   <div class="w-100 float-left top-bar-main-con text-white text-xl-left text-lg-left text-md-left text-center">
+      <div class="container">
+         <div class="row ">
+            <div class="col-lg-6 col-md-6 col-12">
+               <div class="top-bar-left-con ">
+                  <i class="fas fa-map-marker-alt"></i>
+                  <span>King Street Melbourne, 3000, Australia</span>
+               </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12 d-flex justify-content-xl-end justify-content-lg-end justify-content-md-end justify-content-center">
+               <div class="top-bar-right-con d-flex">
+                  <span>Get Social:</span>
+                  <ul class="list-unstyled mb-0">
+                     <li class="float-left"><a href="https://www.facebook.com/" class="text-white"><i class="fab fa-facebook-square"></i></a></li>
+                     <li class="float-left"><a href="https://twitter.com/?lang=en" class="text-white"><i class="fab fa-twitter-square"></i></a></li>
+                     <li class="float-left"><a href="https://www.pinterest.com/" class="text-white"><i class="fab fa-pinterest-square"></i></a></li>
+                     <li class="float-left"><a href="https://www.youtube.com/" class="text-white"><i class="fab fa-youtube-square"></i></a></li>
+                  </ul>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+   <!-- top-bar-section-->
+   <!-- header-and-banner-section -->
    <div class="w-100 float-left header-and-banner-con banner-overlay-img">
       <div class="container">
          <div class="overlay-img">
             <!-- navbar-start -->
-            <?php require 'nav.php' ?>
+            <nav class="navbar navbar-expand-lg navbar-light">
+               <a class="navbar-brand" href="index.html"><img src="assets/image/logo-img.png" alt="logo-img" class="img-fluid"></a>
+               <button class="navbar-toggler p-0 collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                  <span class="navbar-toggler-icon"></span>
+                  <span class="navbar-toggler-icon"></span>
+               </button>
+               <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav ml-auto mr-auto">
+                     <li class="nav-item active ">
+                        <a class="nav-link p-0 text-white" href="index.html">Home<span class="sr-only">(current)</span></a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link p-0 text-white" href="about.html">About</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link p-0 text-white" href="services.html">Services</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link p-0 text-white" href="team.html">Team </a>
+                     </li>
+                     <li class="nav-item dropdown pr-lg-0">
+                        <a class="nav-link dropdown-toggle p-0 text-white" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                           Blog
+                        </a>
+                        <div class="dropdown-menu p-0" aria-labelledby="navbarDropdown">
+                           <a class="dropdown-item" href="faq.html">Faq</a>
+                           <a class="dropdown-item" href="four-column.html">four-column</a>
+                           <a class="dropdown-item" href="infinite-scroll.html">infinite-scroll</a>
+                           <a class="dropdown-item" href="load-more.html">load-more</a>
+                           <a class="dropdown-item" href="one-column.html">one-column</a>
+                           <a class="dropdown-item" href="six-colum-full-wide.html">six-colum-full-wide</a>
+                           <a class="dropdown-item" href="three-column.html">three-colum-sidbar</a>
+                           <a class="dropdown-item" href="three-colum-sidbar.html">three-column</a>
+                           <a class="dropdown-item" href="two-column.html">two-column</a>
+                        </div>
+                     </li>
+                     <li class="nav-item pr-0">
+                        <a class="nav-link p-0 text-white" href="contact.html"> Contact </a>
+                     </li>
+                  </ul>
+                  <a href="tel:+12345678" class="navbar-btn text-white">
+                     <i class="fas fa-phone-volume"></i>
+                     +1 234 56 78
+                  </a>
+               </div>
+            </nav>
             <!-- navbar-end -->
             <!-- banner-start -->
             <section>
                <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
                   <div class="container">
                      <div class="generic-banner-content text-white text-center">
-                        <h1>Carrer Landing</h1>
-                        <p class="text-white mb-0">
-                           Providing personalized, expert care with compassion, <br /> ensuring your well-being at every
-                           step
-                           of your health journey.
-                        </p>
+                        <h1>Career</h1>
+                        <p class="career-hero-text">Join our team of dedicated healthcare
+                           professionals—explore current opportunities and
+                           take the next step in your career today.</p>
                      </div>
+
                   </div>
                </div>
             </section>
@@ -161,22 +234,20 @@
 
    <div class="container">
       <section class="hiring-section">
-         <h1 class="hiring-heading r">We Are Hiring</h1>
-         <p>1st care offers opportunities across the UK for experienced health and social care professionals who
-            prioritize a service user-centered approach in their practice.</p>
-         <p>If you have at least 6 months of experience in any of the following areas, we would love to hear from you:
-         </p>
+         <h1 class="hiring-heading">We Are Hiring</h1>
+         <p>1st care offers opportunities across the UK for experienced health and social care professionals who prioritize a service user-centered approach in their practice.</p>
+         <p>If you have at least 6 months of experience in any of the following areas, we would love to hear from you:</p>
+         <div class="bullet-points">
+            <ul class="job-list pt-4">
+               <li>Elderly Care Assistants</li>
+               <li>Registered Nurses (RGN & RMN) for hospitals and care facilities</li>
+               <li>Support Specialists – Learning Disabilities & Mental Health</li>
+               <li>Healthcare Assistants for hospitals and care homes</li>
+               <li>Locum General Practitioners (GPs)</li>
+               <li>Licensed Social Workers</li>
+            </ul>
 
-         <ul class="job-list pt-4">
-            <li>Elderly Care Assistants</li>
-            <li>Registered Nurses (RGN & RMN) for hospitals and care facilities</li>
-            <li>Support Specialists – Learning Disabilities & Mental Health</li>
-            <li>Healthcare Assistants for hospitals and care homes</li>
-            <li>Locum General Practitioners (GPs)</li>
-            <li>Licensed Social Workers</li>
-         </ul>
-
-
+         </div>
          <p class="pt-5">If you have at least 6 months of relevant
             experience, contact our dedicated recruitment team during
             office hours at +01 23 4567 8901 or +01 23 4567 8901.
@@ -188,32 +259,31 @@
       </section>
    </div>
 
+
+
    <!-- header-and-banner-section -->
-   <section class=" blog-posts w-100 float-left">
+   <section class=" blog-posts w-100 float-left ">
       <div class="container">
          <div class="row">
             <div id="blog" class="col-xl-12">
                <div class="row">
-                  <div class="col-xl-6">
+                  <div class="col-xl-6 ">
                      <div class="float-left w-100 post-item border mb-4">
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <a href="#">
-                                 <img alt=""
-                                    src="assets/image/care-service-banner1.png">
+                                 <img alt="" src="assets/image/career/nurse-holding-senior-man-s-hands-sympathy_23-2148740011.png">
                               </a>
 
-                              <!--post-image-->
+
                            </div>
                            <div class="post-item-description">
-                              <h2>
-                                 <a href="#">Standard post with a single image </a>
+                              <h2 class="card-heading">
+                                 <a href="#">Elderly Care Assistants </a>
                               </h2>
 
-                              <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo
-                                 dolor porta feugiat. Fusce at velit id ligula ac sagittis ante posuere ac pharetra
-                                 laoreet commodo dolor porta.</p>
-                              <div class="read-btn"><a href="#" class="read-more-btn">Read More </a></div>
+                              <p>Discover highly skilled Care Assistants ready to provide flexible, quality healthcare services when and where you need them. Our experienced team ensures continuity of care tailored to your practice's needs.</p>
+                              <div class="read-btn"><a href="#" class="read-more-btn">Apply Now </a></div>
 
                               <!--post-item-description-->
                            </div>
@@ -228,21 +298,18 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <a href="#">
-                                 <img alt=""
-                                    src="assets/image/care-service-banner2.png">
+                                 <img alt="" src="assets/image/career/medium-shot-pharmacists-wearing-face-masks_23-2150348193.png">
                               </a>
 
-                              <!--post-image-->
+
                            </div>
                            <div class="post-item-description">
 
                               <h2>
-                                 <a href="#">Standard post with a single image </a>
+                                 <a href="#">Registered Nurses </a>
                               </h2>
-                              <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo
-                                 dolor porta feugiat. Fusce at velit id ligula ac sagittis ante posuere ac pharetra
-                                 laoreet commodo dolor porta.</p>
-                              <div class="read-btn"><a href="#" class="read-more-btn">Read More </a></div>
+                              <p>Our experienced nurses deliver compassionate, patient-centered care across various specialties.Quality healthcare services when and where you need , reliable nursing staff to support your healthcare team.</p>
+                              <div class="read-btn"><a href="#" class="read-more-btn">Apply Now</a></div>
                               <!--post-item-description-->
                            </div>
                            <!--post-item-wrap-->
@@ -256,7 +323,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <a href="#">
-                                 <img alt="" src="assets/image/care-service-banner3.png">
+                                 <img alt="" src="assets/image/career/AdobeStock_409195985_patient_HCW.png">
                               </a>
 
                               <!--post-image-->
@@ -264,12 +331,10 @@
                            <div class="post-item-description">
 
                               <h2>
-                                 <a href="#">Standard post with a single image </a>
+                                 <a href="#">Support Specialists</a>
                               </h2>
-                              <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo
-                                 dolor porta feugiat. Fusce at velit id ligula ac sagittis ante posuere ac pharetra
-                                 laoreet commodo dolor porta.</p>
-                              <div class="read-btn"><a href="#" class="read-more-btn">Read More </a></div>
+                              <p>Our Support Specialists provides skilled, We ensure high-quality, compassionate care tailored to your needs. We offer flexible staffing solutions to ensure seamless support for your medical practice.</p>
+                              <div class="read-btn"><a href="#" class="read-more-btn">Apply Now</a></div>
                               <!--post-item-description-->
                            </div>
                            <!--post-item-wrap-->
@@ -283,8 +348,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <a href="#">
-                                 <img alt=""
-                                    src="assets/image/care-service-banner4.png">
+                                 <img alt="" src="assets/image/career/1000_F_592169515_UudEfy8ZPtE6yFkAn4dZowX6wSipXVjK.png">
                               </a>
 
                               <!--post-image-->
@@ -292,12 +356,10 @@
                            <div class="post-item-description">
 
                               <h2>
-                                 <a href="#">Standard post with a single image </a>
+                                 <a href="#">Healthcare Assistants </a>
                               </h2>
-                              <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo
-                                 dolor porta feugiat. Fusce at velit id ligula ac sagittis ante posuere ac pharetra
-                                 laoreet commodo dolor porta.</p>
-                              <div class="read-btn"><a href="#" class="read-more-btn">Read More </a></div>
+                              <p>Our Healthcare Assistants provide expert medication management and personalized care to enhance patient outcomes. We offer flexible staffing solutions to meet your pharmacy service needs</p>
+                              <div class="read-btn"><a href="#" class="read-more-btn">Apply Now </a></div>
                               <!--post-item-description-->
                            </div>
                            <!--post-item-wrap-->
@@ -311,7 +373,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <a href="#">
-                                 <img alt="" src="assets/image/care-service-banner5.png">
+                                 <img alt="" src="assets/image/career/AdobeStock_409195985_patient_HCW (1).png">
                               </a>
 
                               <!--post-image-->
@@ -319,12 +381,10 @@
                            <div class="post-item-description">
 
                               <h2>
-                                 <a href="#">Standard post with a single image </a>
+                                 <a href="#">Locum General Practitioner </a>
                               </h2>
-                              <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo
-                                 dolor porta feugiat. Fusce at velit id ligula ac sagittis ante posuere ac pharetra
-                                 laoreet commodo dolor porta.</p>
-                              <div class="read-btn"><a href="#" class="read-more-btn">Read More </a></div>
+                              <p>Our Locum GP specialists focus on personalized recovery plans to help patients regain strength and independence. We provide expert support across physical, occupational, and speech therapies.</p>
+                              <div class="read-btn"><a href="#" class="read-more-btn">Apply Now </a></div>
                               <!--post-item-description-->
                            </div>
                            <!--post-item-wrap-->
@@ -338,7 +398,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <a href="#">
-                                 <img alt="" src="assets/image/care-service-banner6.png">
+                                 <img alt="" src="assets/image/career/social-worker-taking-care-senior-woman.png">
                               </a>
 
                               <!--post-image-->
@@ -346,12 +406,10 @@
                            <div class="post-item-description">
 
                               <h2>
-                                 <a href="#">Standard post with a single image </a>
+                                 <a href="#">Licensed Social Workers </a>
                               </h2>
-                              <p>Curabitur pulvinar euismod ante, ac sagittis ante posuere ac. Vivamus luctus commodo
-                                 dolor porta feugiat. Fusce at velit id ligula ac sagittis ante posuere ac pharetra
-                                 laoreet commodo dolor porta.</p>
-                              <div class="read-btn"><a href="#" class="read-more-btn">Read More </a></div>
+                              <p>Our social working team offers comprehensive care, addressing a wide range of medical conditions with expertise and compassion. We ensure high-quality, personalized treatment for patients of all ages.</p>
+                              <div class="read-btn"><a href="#" class="read-more-btn">Apply Now </a></div>
                               <!--post-item-description-->
                            </div>
                            <!--post-item-wrap-->
@@ -360,57 +418,67 @@
                      </div>
                      <!--col-->
                   </div>
+
+
+
+
+
+
                </div>
+               <!--blog-->
             </div>
+
          </div>
+         <!--container-->
       </div>
    </section>
-
+   <!-- FOOTER -->
+   <!-- logo-section -->
    <div class="w-100 float-left logo-con">
       <div class="container">
          <div class="logo-inner-con">
             <div class="row">
                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
                   <figure class="mb-0">
-                     <img src="assets/image/logo1.png" alt="client-logo-img" class="img-fluid">
-                  </figure>
-               </div>
-
-               <div class="col-lg-2 col-md-2 col-sm-4 col-4">
-                  <figure class="mb-0">
-                     <img src="assets/image/logo2.png" alt="client-logo-img" class="img-fluid">
+                     <img src="assets/image/career/collab-1 (1).png" alt="client-logo-img" class="img-fluid">
                   </figure>
                </div>
                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
                   <figure class="mb-0">
-                     <img src="assets/image/logo3.png" alt="client-logo-img" class="img-fluid mb-0">
+                     <img src="assets/image/career/collab-1 (2).png" alt="client-logo-img" class="img-fluid">
                   </figure>
                </div>
                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
                   <figure class="mb-0">
-                     <img src="assets/image/logo4.png" alt="client-logo-img" class="img-fluid mb-0">
+                     <img src="assets/image/career/collab-1 (3).png" alt="client-logo-img" class="img-fluid">
                   </figure>
                </div>
                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
                   <figure class="mb-0">
-                     <img src="assets/image/logo5.png" alt="client-logo-img" class="img-fluid mb-0">
+                     <img src="assets/image/career/collab-1 (4).png" alt="client-logo-img" class="img-fluid mb-0">
                   </figure>
                </div>
                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
                   <figure class="mb-0">
-                     <img src="assets/image/logo3.png" alt="client-logo-img" class="img-fluid mb-0">
+                     <img src="assets/image/career/collab-1 (5).png" alt="client-logo-img" class="img-fluid mb-0">
+                  </figure>
+               </div>
+               <div class="col-lg-2 col-md-2 col-sm-4 col-4">
+                  <figure class="mb-0">
+                     <img src="assets/image/career/collab-1 (4).png" alt="client-logo-img" class="img-fluid mb-0">
                   </figure>
                </div>
             </div>
          </div>
       </div>
    </div>
-
    <!-- logo-section -->
-   <!-- weight-footer-section -->
-   <?php require 'footer.php'; ?>
    <!-- footer-section -->
-
+   <?php
+   // Attach footer.php
+   require 'footer.php';
+   ?>
+   <!-- footer-section -->
    <script src="assets/js/jquery-3.6.0.min.js"> </script>
    <script src="assets/js/popper.min.js"> </script>
    <script src="assets/js/wow.js"></script>
