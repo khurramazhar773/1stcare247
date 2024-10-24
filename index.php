@@ -120,7 +120,7 @@
                         schedules, competitive pay, and opportunities to make a positive impact on patient care.
                      </p>
                      <div class="home-banner-btn">
-                        <a href="contact.php" class="shope-btn">Apply now</a>
+                        <a href="online-registration.php" class="shope-btn">Apply now</a>
                      </div>
                   </div>
                   <!-- Right Section: Recent Jobs -->
@@ -133,7 +133,7 @@
                         <a href="#" class="job-btn home-banner-last2">Locum GP’s</a>
                      </div>
                      <div class="home-banner-last-container">
-                        <a href="#" class="home-banner-last">View All</a>
+                        <a href="career.php" class="home-banner-last">View All</a>
                      </div>
                   </div>
 
