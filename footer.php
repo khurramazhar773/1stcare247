@@ -32,20 +32,20 @@
                     </div>
                     <div class="col-lg-2 col-md-4 col-sm-4 col-6">
                         <div class="weight-footer-content">
-                            <h5>Important Link</h5>
+                            <h5>Services</h5>
                             <ul class="list-unstyled mb-0">
-                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Appointment</a></li>
-                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Doctors</a></li>
-                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Services</a></li>
-                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Specialties</a></li>
-                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Neurology</a></li>
-                                <li class="mb-0"><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Oncology</a></li>
+                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Locum GP’s</a></li>
+                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Nurses</a></li>
+                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Healthcare</a></li>
+                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Pharmacy</a></li>
+                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Support</a></li>
+                                <li class="mb-0"><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Ambulance</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-3 col-6">
                         <div class="weight-footer-content">
-                            <h5>Services</h5>
+                            <h5>Links</h5>
                             <ul class="list-unstyled mb-0">
                                 <li><a href="about.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>About</a></li>
                                 <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Our Services</a></li>

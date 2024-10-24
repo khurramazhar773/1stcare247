@@ -81,11 +81,9 @@
     .faq-con {
         padding: 80px 0;
     }
-
     .core-vaule-con {
-        padding-top: 80px;
+        padding: 50px 40px 0px 40px;
     }
-
     .map-con {
         margin-bottom: 80px;
     }
@@ -1563,7 +1561,7 @@
     }
 
     .Experince-section .quality-system-right-con .left-curve-img {
-        left: -210px;
+        left: -280px;
     }
 
     .about-fun-facts-con .fun-facts-box-item {
@@ -1687,7 +1685,6 @@
 
     .logo-inner-con {
         padding: 0;
-        padding-left: 15px;
     }
 
     .navbar-nav {
@@ -1799,6 +1796,9 @@
         padding-top: 21rem !important;
         margin-bottom: 30px !important;
     }
+    .hiring-heading {
+        padding: 2rem 1rem;
+    }
     .button-col {
         margin: 0px 25px;
     }
@@ -1807,6 +1807,7 @@
     }
     .logo-inner-con {
         padding: 0;
+        padding-bottom: 30px;
     }
 
     .navbar-nav {
@@ -1815,7 +1816,7 @@
     }
 
     .service-banner-two {
-        max-width: 93%;
+        max-width: 100%;
     }
 
     .four-o-four-heading {
@@ -1891,9 +1892,22 @@
     .quality-system-left-con p {
         padding: 0px 15px;
     }
+    .Experince-section .quality-system-right-con .left-curve-img {
+        left: -240px;
+    }
+    .about-sec-banner {
+        height: 250px;
+    }
+    .appointment-button {
+        padding: 10px 25px;
+    }
+    .hiring-heading {
+        padding: 2rem 1rem;
+    }
 
     .logo-inner-con {
         padding: 0;
+        padding-bottom: 30px;
     }
 
     .navbar-nav {
@@ -1931,8 +1945,8 @@
     }
 
     .service-banner-two {
-        max-width: 97%;
-        object-fit: contain;
+        width: 100%;
+        height: auto;
     }
 
     .about-sec-banner {

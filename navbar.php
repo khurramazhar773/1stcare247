@@ -30,12 +30,12 @@
                         </li>
 
                         <li class="nav-item dropdown ">
-                            <div class="nav-link dropdown-toggle p-0 text-white" id="navbarDropdown"
+                            <a class="nav-link dropdown-toggle p-0 text-white" href="#" id="navbarDropdown"
                                 role="button" data-toggle="dropdown" aria-haspopup="true"
-                                aria-expanded="false">Candidates </div>
+                                aria-expanded="false">Candidates </a>
                             <div class="dropdown-menu p-0" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item" href="online-registration.php">Online Registration</a>
-                                <a class="dropdown-item" href="four-column.php">Online Training</a>
+                                <a class="dropdown-item" href="online-training.php">Online Training</a>
                                 <a class="dropdown-item" href="workerAvalebilty.php">Worker Availability</a>
                                 <a class="dropdown-item" href="document-Library.php">Document Library</a>
                             </div>

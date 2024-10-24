@@ -36,7 +36,7 @@
                <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
                   <div class="container">
                      <div class="generic-banner-content text-white text-center">
-                        <h1>pharmasist Services</h1>
+                        <h1>Pharmacist Services</h1>
                         <p class="text-white mb-0">
                            Providing personalized, expert care with compassion, <br /> ensuring your well-being at every
                            step
