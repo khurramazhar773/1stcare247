@@ -59,7 +59,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner1.png" style="max: width 1024px; width:100%; height: auto;">
+                                 <img alt="" src="assets/image/care-service-banner1.png">
                               </div>
                            </div>
                            <div class="post-item-description blog-component">
@@ -91,7 +91,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner2.png" style="max: width 1024px; width:100%; height: auto;">
+                                 <img alt="" src="assets/image/care-service-banner2.png">
                               </div>
                            </div>
                            <div class="post-item-description blog-component">
@@ -123,7 +123,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner3.png" style="max: width 1024px; width:100%; height: auto;">
+                                 <img alt="" src="assets/image/care-service-banner3.png">
                               </div>
                            </div>
                            <div class="post-item-description blog-component">
@@ -156,7 +156,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner4.png" style="max: width 1024px; width:100%; height: auto;">
+                                 <img alt="" src="assets/image/care-service-banner4.png">
                               </div>
                            </div>
                            <div class="post-item-description blog-component">
@@ -189,7 +189,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner5.png" style="max: width 1024px; width:100%; height: auto;">
+                                 <img alt="" src="assets/image/care-service-banner5.png">
                               </div>
                            </div>
                            <div class="post-item-description blog-component">
@@ -222,7 +222,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner6.png" style="max: width 1024px; width:100%; height: auto;">
+                                 <img alt="" src="assets/image/care-service-banner6.png">
                               </div>
                            </div>
                            <div class="post-item-description blog-component">
