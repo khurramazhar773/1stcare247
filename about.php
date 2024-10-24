@@ -215,7 +215,7 @@
                                  <h2 class="count">70 </h2>
                                  <span>+</span>
                               </div>
-                              <p class="mb-0">Hospital Room</p>
+                              <p class="mb-0">Locum GP’s</p>
                            </div>
                         </div>
                      </div>
@@ -229,7 +229,7 @@
                                  <h2 class="count">99</h2>
                                  <span>+</span>
                               </div>
-                              <p class="mb-0">Qualified Doctor</p>
+                              <p class="mb-0">Nurses</p>
                            </div>
                         </div>
                      </div>

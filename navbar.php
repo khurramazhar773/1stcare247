@@ -35,7 +35,7 @@
                                 aria-expanded="false">Candidates </div>
                             <div class="dropdown-menu p-0" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item" href="online-registration.php">Online Registration</a>
-                                <a class="dropdown-item" href="four-column.php">Online Training</a>
+                                <a class="dropdown-item" href="online-training.php">Online Training</a>
                                 <a class="dropdown-item" href="workerAvalebilty.php">Worker Availability</a>
                                 <a class="dropdown-item" href="document-Library.php">Document Library</a>
                             </div>

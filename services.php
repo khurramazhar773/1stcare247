@@ -164,7 +164,7 @@
                </div>
 
                <div class="col-lg-6 col-md-12">
-                  <div class="core-vaule-right-con text-xl-left text-lg-left text-md-left text-center">
+                  <div class="core-vaule-right-con text-xl-left text-lg-left text-md-left text-center pb-4">
                      <div class="core-vaule-title">
                         <h2>
                            Our Fundamental Values And

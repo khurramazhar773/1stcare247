@@ -168,7 +168,7 @@
           <textarea class="form-control" id="coverLetter" rows="5" placeholder="Write a brief cover letter"></textarea>
         </div>
         <div class="mb-3 form-group col-lg-12 col-md-12 col-sm-12">
-          <label for="imageUpload" class="form-label">Upload Property Images</label>
+          <label for="imageUpload" class="form-label">Upload Your CV</label>
           <input type="file" class="form-control" id="imageUpload" placeholder="No file chosen" accept="image/*"
             multiple required>
           <div id="imageContainer" class="image-preview-container"></div>
@@ -196,6 +196,14 @@
   <?php require 'footer.php'; ?>
   <!--  -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/jquery-3.6.0.min.js"> </script>
+   <script src="assets/js/popper.min.js"> </script>
+   <script src="assets/js/wow.js"></script>
+   <script>
+      new WOW().init();
+   </script>
+   <script src="assets/js/bootstrap.min.js"> </script>
+   <script src="assets/js/custom-script.js"> </script>
   <script src="assets/js/script.js"></script>
 </body>
 </html>
