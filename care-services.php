@@ -42,7 +42,7 @@
       </div>
    </div>
     <!-- feature-box -->
-    <?php require 'nav.php' ?>
+    <?php require 'navbar.php' ?>
 
     <!-- header-and-banner-section -->
    <section class="blog-posts w-100 float-left mt-5">
