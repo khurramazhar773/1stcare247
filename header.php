@@ -1,5 +1,4 @@
- <!-- top-bar-section-->
- <div class="w-100 float-left top-bar-main-con text-white text-xl-left text-lg-left text-md-left text-center">
+<div class="w-100 float-left top-bar-main-con text-white text-xl-left text-lg-left text-md-left text-center">
          <div class="container">
             <div class="row">
                <div class="col-lg-6 col-md-6 col-12">

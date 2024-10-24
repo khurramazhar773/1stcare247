@@ -1796,6 +1796,9 @@
         padding-top: 21rem !important;
         margin-bottom: 30px !important;
     }
+    .hiring-heading {
+        padding: 2rem 1rem;
+    }
     .button-col {
         margin: 0px 25px;
     }
@@ -1901,10 +1904,12 @@
     .hiring-heading {
         padding: 2rem 1rem;
     }
+
     .logo-inner-con {
         padding: 0;
         padding-bottom: 30px;
     }
+
     .navbar-nav {
         gap: 0;
         align-items: normal;
