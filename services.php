@@ -147,6 +147,22 @@
          <div class="container">
             <div class="row">
 
+            <div class="col-lg-6 col-md-12 d-md-flex align-items-md-end order-xl-0 order-lg-0 order-md-0 order-2">
+                  <div class="form-left-con core-vaule-left-con position-relative text-center overlay-img">
+                     <figure class="mb-0 left-curve-img wow slideInLeft"
+                        style="visibility: visible; animation-name: slideInLeft;">
+                        <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid">
+                     </figure>
+                     <figure class="mb-0">
+                        <img src="assets/image/banner3.png" alt="form-left-img" class="mb-0 img-fluid human-img service-banner-two">
+                     </figure>
+                     <figure class="mb-0 right-curve-img wow slideInRight"
+                        style="visibility: visible; animation-name: slideInRight;">
+                        <img src="assets/image/small-right-curve-img.png" alt="" class="img-fluid">
+                     </figure>
+                  </div>
+               </div>
+
                <div class="col-lg-6 col-md-12">
                   <div class="core-vaule-right-con text-xl-left text-lg-left text-md-left text-center pb-4">
                      <div class="core-vaule-title">
@@ -203,7 +219,7 @@
                   </div>
                </div>
 
-               <div class="col-lg-6 col-md-12 d-md-flex align-items-md-end order-xl-0 order-lg-0 order-md-0 order-2">
+            <!-- <div class="col-lg-6 col-md-12 d-md-flex align-items-md-end order-xl-0 order-lg-0order-md-0 order-2">
                   <div class="form-left-con core-vaule-left-con position-relative text-center overlay-img">
                      <figure class="mb-0 left-curve-img wow slideInLeft"
                         style="visibility: visible; animation-name: slideInLeft;">
@@ -217,7 +233,7 @@
                         <img src="assets/image/small-right-curve-img.png" alt="" class="img-fluid">
                      </figure>
                   </div>
-               </div>
+               </div> -->
 
             </div>
          </div>
