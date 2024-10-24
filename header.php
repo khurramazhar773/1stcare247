@@ -23,7 +23,7 @@
                <div class="col-lg-6 col-md-6 col-12">
                   <div class="top-bar-left-con ">
                      <i class="fas fa-map-marker-alt"></i>
-                     <span>King Street Melbourne, 3000, Australia</span>
+                     <span>CSOFT System, Faisalabad.</span>
                   </div>
                </div>
                <div class="col-lg-6 col-md-6 col-12 d-flex justify-content-xl-end justify-content-lg-end justify-content-md-end justify-content-center">

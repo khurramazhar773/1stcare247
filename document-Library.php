@@ -12,6 +12,17 @@
    <link rel="stylesheet" href="assets/css/style.css">
    <link rel="stylesheet" href="assets/css/mobile.css">
    <title>1stCare | Document Library</title>
+   <!--  -->
+   <style>
+      .doccument-btn span {
+         display: inline-block;
+         white-space: nowrap;
+         overflow: hidden;
+         text-overflow: ellipsis;
+         max-width: 100%;
+      }
+   </style>
+   <!--  -->
 </head>
 
 <body>
@@ -64,58 +75,76 @@
          <div class="container doccument-btn-container">
             <div class="row">
                <div class="button-col col-md-4 col-sm-6 col-xs-12">
-                  <button class="btn btn-outline-primary doccument-btn w-100 mb-2">
-                     <img src="assets/image/download-3.png" alt="" class="me-2">
-                     <span>Form 1</span>
-                  </button>
+                  <a href="#" style="text-decoration: none;">
+                     <button class="btn doccument-btn w-100 mb-2">
+                        <img src="assets/image/download-3.png" alt="" class="me-2">
+                        <span>This is Form Certificate</span>
+                     </button>
+                  </a>
                </div>
                <div class="button-col col-md-4 col-sm-6 col-xs-12">
-                  <button class="btn btn-outline-primary doccument-btn w-100 mb-2">
-                     <img src="assets/image/download-3.png" alt="" class="me-2">
-                     <span>Form 2</span>
-                  </button>
+                  <a href="#" style="text-decoration: none;">
+                     <button class="btn doccument-btn w-100 mb-2">
+                        <img src="assets/image/download-3.png" alt="" class="me-2">
+                        <span>This is Form Certificate</span>
+                     </button>
+                  </a>
                </div>
                <div class="button-col col-md-4 col-sm-6 col-xs-12">
-                  <button class="btn btn-outline-primary doccument-btn w-100 mb-2">
-                     <img src="assets/image/download-3.png" alt="" class="me-2">
-                     <span>Form 3</span>
-                  </button>
+                  <a href="#" style="text-decoration: none;">
+                     <button class="btn doccument-btn w-100 mb-2">
+                        <img src="assets/image/download-3.png" alt="" class="me-2">
+                        <span>This is Form Certificate</span>
+                     </button>
+                  </a>
                </div>
                <div class="button-col col-md-4 col-sm-6 col-xs-12">
-                  <button class="btn btn-outline-primary doccument-btn w-100 mb-2">
-                     <img src="assets/image/download-3.png" alt="" class="me-2">
-                     <span>Form 4</span>
-                  </button>
+                  <a href="#" style="text-decoration: none;">
+                     <button class="btn doccument-btn w-100 mb-2">
+                        <img src="assets/image/download-3.png" alt="" class="me-2">
+                        <span>This is Form Certificate</span>
+                     </button>
+                  </a>
                </div>
                <div class="button-col col-md-4 col-sm-6 col-xs-12">
-                  <button class="btn btn-outline-primary doccument-btn w-100 mb-2">
-                     <img src="assets/image/download-3.png" alt="" class="me-2">
-                     <span>Form 5</span>
-                  </button>
+                  <a href="#" style="text-decoration: none;">
+                     <button class="btn doccument-btn w-100 mb-2">
+                        <img src="assets/image/download-3.png" alt="" class="me-2">
+                        <span>This is Form Certificate</span>
+                     </button>
+                  </a>
                </div>
                <div class="button-col col-md-4 col-sm-6 col-xs-12">
-                  <button class="btn btn-outline-primary doccument-btn w-100 mb-2">
-                     <img src="assets/image/download-3.png" alt="" class="me-2">
-                     <span>Form 6</span>
-                  </button>
+                  <a href="#" style="text-decoration: none;">
+                     <button class="btn doccument-btn w-100 mb-2">
+                        <img src="assets/image/download-3.png" alt="" class="me-2">
+                        <span>This is Form Certificate</span>
+                     </button>
+                  </a>
                </div>
                <div class="button-col col-md-4 col-sm-6 col-xs-12">
-                  <button class="btn btn-outline-primary doccument-btn w-100 mb-2">
-                     <img src="assets/image/download-3.png" alt="" class="me-2">
-                     <span>Form 7</span>
-                  </button>
+                  <a href="#" style="text-decoration: none;">
+                     <button class="btn doccument-btn w-100 mb-2">
+                        <img src="assets/image/download-3.png" alt="" class="me-2">
+                        <span>This is Form Certificate</span>
+                     </button>
+                  </a>
                </div>
                <div class="button-col col-md-4 col-sm-6 col-xs-12">
-                  <button class="btn btn-outline-primary doccument-btn w-100 mb-2">
-                     <img src="assets/image/download-3.png" alt="" class="me-2">
-                     <span>Form 8</span>
-                  </button>
+                  <a href="#" style="text-decoration: none;">
+                     <button class="btn doccument-btn w-100 mb-2">
+                        <img src="assets/image/download-3.png" alt="" class="me-2">
+                        <span>This is Form Certificate</span>
+                     </button>
+                  </a>
                </div>
                <div class="button-col col-md-4 col-sm-6 col-xs-12">
-                  <button class="btn btn-outline-primary doccument-btn w-100 mb-2">
-                     <img src="assets/image/download-3.png" alt="" class="me-2">
-                     <span>Form 9</span>
-                  </button>
+                  <a href="#" style="text-decoration: none;">
+                     <button class="btn doccument-btn w-100 mb-2">
+                        <img src="assets/image/download-3.png" alt="" class="me-2">
+                        <span>This is Form Certificate</span>
+                     </button>
+                  </a>
                </div>
             </div>
          </div>

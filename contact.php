@@ -16,38 +16,6 @@
     <link rel="stylesheet" href="assets/css/mobile.css">
     <title>1stCare | Contact</title>
 </head>
-<style>
-    .btnSubmit {
-
-        /* border: 2px solid green; */
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
-
-    .uImg {
-        padding: 20px;
-        margin-right: 20px;
-        margin-top: 20px;
-    }
-
-    .description h2 {
-        font-size: 2rem;
-        margin-top: 20px;
-    }
-
-    @media (max-width: 768px) {
-            
-        .uImg {
-        margin-top: 10px;
-    }
-    
-    .description h2 {
-        font-size: 1.5rem;
-        margin-top: 20px;
-    }
-            }
-</style>
 
 <body>
     <!-- top-bar-section-->

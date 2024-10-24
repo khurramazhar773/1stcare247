@@ -2,13 +2,13 @@ const progressBar = document.getElementById('progressBar');
 const formSteps = document.querySelectorAll('.form-step');
 const nextBtns = document.querySelectorAll('.next-btn');
 const backBtns = document.querySelectorAll('.back-btn');
+const submitBtn = document.querySelector('.submit-btn');
+const successMessage = document.getElementById('successMessage');
+const multiStepForm = document.getElementById('multiStepForm');
 
 let currentStep = 0;
 
-// Show the initial step
 formSteps[currentStep].classList.add('active');
-
-// Function to go to the next step
 nextBtns.forEach((btn) => {
   btn.addEventListener('click', () => {
     if (currentStep < formSteps.length - 1) {
@@ -20,7 +20,6 @@ nextBtns.forEach((btn) => {
   });
 });
 
-// Function to go to the previous step
 backBtns.forEach((btn) => {
   btn.addEventListener('click', () => {
     if (currentStep > 0) {
@@ -32,15 +31,19 @@ backBtns.forEach((btn) => {
   });
 });
 
-// Update the progress bar based on the current step
+submitBtn.addEventListener('click', () => {
+  multiStepForm.style.display = 'none';
+  successMessage.style.display = 'block';
+});
+
 function updateProgressBar() {
   const progressPercent = ((currentStep + 1) / formSteps.length) * 100;
   progressBar.style.width = progressPercent + '%';
 }
 
-document.getElementById('image-upload').addEventListener('change', function (event) {
+document.getElementById('imageUpload').addEventListener('change', function (event) {
   const imageContainer = document.getElementById('imageContainer');
-  imageContainer.innerHTML = ''; // Clear any previous images
+  imageContainer.innerHTML = '';
 
   const files = event.target.files;
   for (let i = 0; i < files.length; i++) {

@@ -2,7 +2,7 @@
     <div class="container">
         <div class="overlay-img">
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a class="navbar-brand" href="index.html"><img src="assets/image/logo2.png" alt="logo-img"
+                <a class="navbar-brand" href="index.php"><img src="assets/image/logo2.png" alt="logo-img"
                         class="img-fluid"></a>
                 <button class="navbar-toggler p-0 collapsed" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -30,12 +30,12 @@
                         </li>
 
                         <li class="nav-item dropdown ">
-                            <a class="nav-link dropdown-toggle p-0 text-white" href="team.html" id="navbarDropdown"
+                            <a class="nav-link dropdown-toggle p-0 text-white" href="#" id="navbarDropdown"
                                 role="button" data-toggle="dropdown" aria-haspopup="true"
                                 aria-expanded="false">Candidates </a>
                             <div class="dropdown-menu p-0" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="form.php">Online Registration</a>
-                                <a class="dropdown-item" href="four-column.html">Online Training</a>
+                                <a class="dropdown-item" href="online-registration.php">Online Registration</a>
+                                <a class="dropdown-item" href="four-column.php">Online Training</a>
                                 <a class="dropdown-item" href="workerAvalebilty.php">Worker Availability</a>
                                 <a class="dropdown-item" href="document-Library.php">Document Library</a>
                             </div>
