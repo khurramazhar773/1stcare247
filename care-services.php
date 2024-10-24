@@ -13,7 +13,7 @@
    <link rel="stylesheet" href="assets/css/mobile.css">
 
    <title>Care Services</title>
-   </head>
+</head>
 
 <body>
    <!-- top-bar-section-->
@@ -41,8 +41,9 @@
          </div>
       </div>
    </div>
-    <!-- feature-box -->
-    <?php require 'navbar.php' ?>
+   <!-- top-bar-section-->
+   <!-- header-and-banner-section -->
+   <?php require 'navbar.php'; ?>
 
     <!-- header-and-banner-section -->
    <section class="blog-posts w-100 float-left mt-5">
