@@ -30,9 +30,7 @@ p{
     line-height: 30px;
     color: var(--text-color);
 }
-.banner-overlay-img{
-    /* position: relative; */
-}
+
 .banner-overlay-img::after{
     content: "";
     /* background: url(../image/banner-overlay-img.png) no-repeat center;

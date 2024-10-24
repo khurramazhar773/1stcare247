@@ -12,8 +12,8 @@
    <link rel="stylesheet" href="assets/css/style.css">
    <link rel="stylesheet" href="assets/css/custom-style.css">
    <link rel="stylesheet" href="assets/css/mobile.css">
-   <title>Career</title>
-  
+   <title>1stCare | Career</title>
+
 </head>
 
 <body>
@@ -23,7 +23,8 @@
    require 'header.php';
    ?>
 
-   <div class="w-100 float-left top-bar-main-con text-white text-xl-left text-lg-left text-md-left text-center">
+   <!-- feature-box -->
+   <div class="w-100 float-left header-and-banner-con banner-overlay-img">
       <div class="container">
          <div class="overlay-img">
             <!-- navbar-start -->
@@ -42,13 +43,11 @@
                      </div>
                   </div>
                </div>
-            </div>
+            </section>
+            <!-- banner-end -->
          </div>
       </div>
    </div>
-   <!-- top-bar-section-->
-   <!-- header-and-banner-section -->
-   <?php require 'navbar.php'; ?>
 
    <div class="container">
       <section class="hiring-section">
@@ -57,25 +56,24 @@
             professionals who prioritize a service user-centered approach in their practice.</p>
          <p class="career-text">If you have at least 6 months of experience in any of the following areas, we would love
             to hear from you:</p>
-     
          <div class="bullet-points">
             <ul class="job-list pt-4">
-               <li>Elderly Care Assistants</li>
-               <li>Registered Nurses (RGN & RMN) for hospitals and care facilities</li>
-               <li>Support Specialists – Learning Disabilities & Mental Health</li>
-               <li>Healthcare Assistants for hospitals and care homes</li>
-               <li>Locum General Practitioners (GPs)</li>
-               <li>Licensed Social Workers</li>
+               <li style="color:#52656D;">Elderly Care Assistants</li>
+               <li style="color:#52656D;">Registered Nurses (RGN & RMN) for hospitals and care facilities</li>
+               <li style="color:#52656D;">Support Specialists – Learning Disabilities & Mental Health</li>
+               <li style="color:#52656D;">Healthcare Assistants for hospitals and care homes</li>
+               <li style="color:#52656D;">Locum General Practitioners (GPs)</li>
+               <li style="color:#52656D;">Licensed Social Workers</li>
             </ul>
 
          </div>
-         <p class="pt-5">If you have at least 6 months of relevant
+         <p class="pt-5 career-text">If you have at least 6 months of relevant
             experience, contact our dedicated recruitment team during
             office hours at +01 23 4567 8901 or +01 23 4567 8901.
             You can request an application pack by post or download the application form from the "Document Library"
             section on the 1st Med website.
             Please note that all job offers are contingent upon an enhanced DBS check.</p>
-         <p class="pt-2">For complete details, explore our current vacancies listed below.
+         <p class="pt-2 career-text">For complete details, explore our current vacancies listed below.
             To apply, simply fill out our Registration Form, upload your details, and we'll be in touch shortly.</p>
       </section>
    </div>
@@ -83,45 +81,53 @@
 
 
    <!-- header-and-banner-section -->
-   <section class="blog-posts w-100 float-left mt-1">
+   <section class=" blog-posts w-100 float-left ">
       <div class="container">
          <div class="row">
             <div id="blog" class="col-xl-12">
                <div class="row">
-                  <!-- Example of a blog post -->
-                  <div class="col-xl-6">
+                  <div class="col-xl-6 ">
                      <div class="float-left w-100 post-item border mb-4">
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
-                              <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner1.png" style="max: width 1024px; width:100%; height: auto;">
-                              </div>
+                              <a href="#">
+                                 <img alt="" src="assets/image/care-service-banner1.png">
+                              </a>
+
+
                            </div>
-                           <div class="post-item-description blog-component">
-                              <h2 style="font-size: 23px;">
-                                 <a class="blog-links">The Role of Locum GPs in Healthcare</a>
+                           <div class="post-item-description">
+                              <h2 class="card-heading">
+                                 <a href="#">Elderly Care Assistants </a>
                               </h2>
+
                               <p>Discover highly skilled Care Assistants ready to provide quality healthcare
                                  services when and where you need them. Our experienced team ensures continuity of care
                                  tailored to your practice's needs.</p>
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now </a></div>
+
                               <!--post-item-description-->
                            </div>
+                           <!--post-item-wrap-->
                         </div>
+                        <!--post-item-->
                      </div>
+                     <!--col-->
                   </div>
-                  <!-- Repeat similar blog structure for other columns... -->
                   <div class="col-xl-6">
                      <div class="float-left w-100 post-item border mb-4">
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
-                              <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner2.png" style="max: width 1024px; width:100%; height: auto;">
-                              </div>
+                              <a href="#">
+                                 <img alt="" src="assets/image/care-service-banner2.png">
+                              </a>
+
+
                            </div>
-                           <div class="post-item-description blog-component">
-                              <h2 style="font-size: 23px;">
-                                 <a class="blog-links">Nurses! The Backbone of Quality Patient Care</a>
+                           <div class="post-item-description">
+
+                              <h2>
+                                 <a href="#">Registered Nurses </a>
                               </h2>
                               <p>Our experienced nurses deliver compassionate, patient-centered care across various
                                  specialties.Quality healthcare services when and where you need , reliable nursing
@@ -129,21 +135,26 @@
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now</a></div>
                               <!--post-item-description-->
                            </div>
+                           <!--post-item-wrap-->
                         </div>
+                        <!--post-item-->
                      </div>
+                     <!--col-->
                   </div>
-                  <!-- Repeat similar blog structure for other columns... -->
                   <div class="col-xl-6">
                      <div class="float-left w-100 post-item border mb-4">
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
-                              <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner3.png" style="max: width 1024px; width:100%; height: auto;">
-                              </div>
+                              <a href="#">
+                                 <img alt="" src="assets/image/care-service-banner3.png">
+                              </a>
+
+                              <!--post-image-->
                            </div>
-                           <div class="post-item-description blog-component">
-                              <h2 style="font-size: 23px;">
-                                 <a class="blog-links">Healthcare Assistants</a>
+                           <div class="post-item-description">
+
+                              <h2>
+                                 <a href="#">Support Specialists</a>
                               </h2>
                               <p>Our Support Specialists provides skilled, We ensure high-quality, compassionate care
                                  tailored to your needs. We offer flexible staffing solutions to ensure seamless support
@@ -151,21 +162,26 @@
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now</a></div>
                               <!--post-item-description-->
                            </div>
+                           <!--post-item-wrap-->
                         </div>
+                        <!--post-item-->
                      </div>
+                     <!--col-->
                   </div>
-                  <!-- Repeat similar blog structure for other columns... -->
                   <div class="col-xl-6">
                      <div class="float-left w-100 post-item border mb-4">
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
-                              <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner4.png" style="max: width 1024px; width:100%; height: auto;">
-                              </div>
+                              <a href="#">
+                                 <img alt="" src="assets/image/care-service-banner4.png">
+                              </a>
+
+                              <!--post-image-->
                            </div>
-                           <div class="post-item-description blog-component">
-                              <h2 style="font-size: 23px;">
-                                 <a class="blog-links">Ensuring Medication Safety</a>
+                           <div class="post-item-description">
+
+                              <h2>
+                                 <a href="#">Healthcare Assistants </a>
                               </h2>
                               <p>Our Healthcare Assistants provide expert medication management and personalized care to
                                  enhance patient outcomes. We offer flexible staffing solutions to meet your pharmacy
@@ -173,21 +189,26 @@
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now </a></div>
                               <!--post-item-description-->
                            </div>
+                           <!--post-item-wrap-->
                         </div>
+                        <!--post-item-->
                      </div>
+                     <!--col-->
                   </div>
-                  <!-- Repeat similar blog structure for other columns... -->
                   <div class="col-xl-6">
                      <div class="float-left w-100 post-item border mb-4">
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
-                              <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner5.png" style="max: width 1024px; width:100%; height: auto;">
-                              </div>
+                              <a href="#">
+                                 <img alt="" src="assets/image/care-service-banner5.png">
+                              </a>
+
+                              <!--post-image-->
                            </div>
-                           <div class="post-item-description blog-component">
-                              <h2 style="font-size: 23px;">
-                                 <a class="blog-links">The Benefits of Rehabilitation</a>
+                           <div class="post-item-description">
+
+                              <h2>
+                                 <a href="#">Locum General Practitioner </a>
                               </h2>
                               <p>Our Locum GP specialists focus on personalized recovery plans to help patients regain
                                  strength and independence. We provide expert support across physical, occupational, and
@@ -195,21 +216,26 @@
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now </a></div>
                               <!--post-item-description-->
                            </div>
+                           <!--post-item-wrap-->
                         </div>
+                        <!--post-item-->
                      </div>
+                     <!--col-->
                   </div>
-                  <!-- Repeat similar blog structure for other columns... -->
                   <div class="col-xl-6">
                      <div class="float-left w-100 post-item border mb-4">
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
-                              <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner6.png" style="max: width 1024px; width:100%; height: auto;">
-                              </div>
+                              <a href="#">
+                                 <img alt="" src="assets/image/care-service-banner6.png">
+                              </a>
+
+                              <!--post-image-->
                            </div>
-                           <div class="post-item-description blog-component">
-                              <h2 style="font-size: 23px;">
-                                 <a class="blog-links">Supporting Your Medical Practice</a>
+                           <div class="post-item-description">
+
+                              <h2>
+                                 <a href="#">Licensed Social Workers </a>
                               </h2>
                               <p>Our social working team offers comprehensive care, addressing a wide range of medical
                                  conditions with expertise and compassion. We ensure high-quality, personalized
@@ -217,13 +243,18 @@
                               <div class="read-btn"><a href="contact.php" class="read-more-btn">Apply Now </a></div>
                               <!--post-item-description-->
                            </div>
+                           <!--post-item-wrap-->
                         </div>
+                        <!--post-item-->
                      </div>
+                     <!--col-->
                   </div>
-                  <!-- end coloumns -->
                </div>
+               <!--blog-->
             </div>
+
          </div>
+         <!--container-->
       </div>
    </section>
    <!-- FOOTER -->
@@ -234,44 +265,41 @@
             <div class="row">
                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
                   <figure class="mb-0">
-                     <img src="assets/image/collab-1 (1).png" alt="client-logo-img" class="img-fluid">
+                     <img src="assets/image/qwerty1.png" alt="client-logo-img" class="img-fluid">
                   </figure>
                </div>
                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
                   <figure class="mb-0">
-                     <img src="assets/image/collab-1 (2).png" alt="client-logo-img" class="img-fluid">
+                     <img src="assets/image/qwerty2.png" alt="client-logo-img" class="img-fluid">
                   </figure>
                </div>
                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
                   <figure class="mb-0">
-                     <img src="assets/image/collab-1 (3).png" alt="client-logo-img" class="img-fluid">
+                     <img src="assets/image/qwerty3.png" alt="client-logo-img" class="img-fluid">
                   </figure>
                </div>
                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
                   <figure class="mb-0">
-                     <img src="assets/image/collab-1 (4).png" alt="client-logo-img" class="img-fluid mb-0">
+                     <img src="assets/image/qwerty4.png" alt="client-logo-img" class="img-fluid mb-0">
                   </figure>
                </div>
                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
                   <figure class="mb-0">
-                     <img src="assets/image/collab-1 (5).png" alt="client-logo-img" class="img-fluid mb-0">
+                     <img src="assets/image/qwerty5.png" alt="client-logo-img" class="img-fluid mb-0">
                   </figure>
                </div>
                <div class="col-lg-2 col-md-2 col-sm-4 col-4">
                   <figure class="mb-0">
-                     <img src="assets/image/collab-1 (3).png" alt="client-logo-img" class="img-fluid mb-0">
+                     <img src="assets/image/qwerty2.png" alt="client-logo-img" class="img-fluid mb-0">
                   </figure>
                </div>
             </div>
          </div>
       </div>
    </div>
-   <!-- logo-section end -->
-   <!-- footer-section -->
-   <?php
-   // Attach footer.php
-   require 'footer.php';
-   ?>
+   <!-- logo-section -->
+   <!-- weight-footer-section -->
+   <?php require 'footer.php'; ?>
    <!-- footer-section -->
    <script src="assets/js/jquery-3.6.0.min.js"> </script>
    <script src="assets/js/popper.min.js"> </script>
