@@ -411,9 +411,7 @@
                                  <a class="blog-links">The Benefits of Rehabilitation</a>
                               </h2>
                               <p class="blog-links">
-                                 Discover highly skilled locum GPs ready to provide flexible, quality healthcare
-                                 services when and where you need them. Our experienced team ensures continuity of care
-                                 tailored to your practice's needs.
+                              Discover skilled locum GPs ready to provide flexible, quality healthcare services when you need them. Our experienced team ensures tailored continuity of care for your practice.
                               </p>
                               <!-- Initially hidden content -->
                               <div class="extra-content hidden">
