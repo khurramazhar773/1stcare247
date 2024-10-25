@@ -60,7 +60,7 @@
                            <img src="assets/image/col-1.png" alt="service-box-icon" class="img-fluid">
                         </figure>
                         <h5>Locum GP’s</h5>
-                        <span class="d-block">Lorem ipsum dolor sit amet consectetuer adipi.</span>
+                        <span class="d-block">Our locum GPs deliver flexible, high-quality care for your practice.</span>
                      </div>
                   </div>
                   <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-right-0">
@@ -69,7 +69,7 @@
                            <img src="assets/image/col-2.png" alt="service-box-icon" class="img-fluid">
                         </figure>
                         <h5>Qualified Nurses</h5>
-                        <span class="d-block">Lorem ipsum dolor sit amet consectetuer adipi.</span>
+                        <span class="d-block">Our qualified nurses provide compassionate, skilled patient care.</span>
                      </div>
                   </div>
                   <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-right-0">
@@ -78,7 +78,7 @@
                            <img src="assets/image/col-3.png" alt="service-box-icon" class="img-fluid">
                         </figure>
                         <h5>Healthcare Service</h5>
-                        <span class="d-block">Lorem ipsum dolor sit amet consectetuer adipi.</span>
+                        <span class="d-block">Our healthcare assistants support patients with professionalism.</span>
                      </div>
                   </div>
                   <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0">
@@ -87,7 +87,7 @@
                            <img src="assets/image/col-4.png" alt="service-box-icon" class="img-fluid">
                         </figure>
                         <h5>Pharmacy Locums</h5>
-                        <span class="d-block">Lorem ipsum dolor sit amet consectetuer adipi.</span>
+                        <span class="d-block">Our pharmacy locums offer flexible, expert medication management.</span>
                      </div>
                   </div>
                </div>
@@ -105,7 +105,7 @@
                            <img src="assets/image/col-5.png" alt="service-box-icon" class="img-fluid">
                         </figure>
                         <h5>Rehab</h5>
-                        <span class="d-block">Lorem ipsum dolor sit amet consectetuer adipi.</span>
+                        <span class="d-block">Our rehab team offers personalized plans for effective recovery.</span>
                      </div>
                   </div>
                   <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-right-0">
@@ -114,7 +114,7 @@
                            <img src="assets/image/col-6.png" alt="service-box-icon" class="img-fluid">
                         </figure>
                         <h5>Qualified Nurses</h5>
-                        <span class="d-block">Lorem ipsum dolor sit amet consectetuer adipi.</span>
+                        <span class="d-block">Our qualified nurses provide compassionate, skilled patient care.</span>
                      </div>
                   </div>
                   <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-right-0">
@@ -123,7 +123,7 @@
                            <img src="assets/image/col-7.png" alt="service-box-icon" class="img-fluid">
                         </figure>
                         <h5>General Medicine</h5>
-                        <span class="d-block">Lorem ipsum dolor sit amet consectetuer adipi.</span>
+                        <span class="d-block">Our general medicine team offers proper care for health issues.</span>
                      </div>
                   </div>
                   <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0">
@@ -132,7 +132,7 @@
                            <img src="assets/image/col-8.png" alt="service-box-icon" class="img-fluid">
                         </figure>
                         <h5>Ambulance Call</h5>
-                        <span class="d-block">Lorem ipsum dolor sit amet consectetuer adipi.</span>
+                        <span class="d-block">Our ambulance service ensures quick response times and expert care.</span>
                      </div>
                   </div>
                </div>
@@ -203,7 +203,7 @@
                   </div>
                </div>
 
-               <div class="col-lg-6 col-md-12 d-md-flex align-items-md-end order-xl-0 order-lg-0 order-md-0 order-2">
+               <div class="col-lg-6 col-md-12 d-md-flex align-items-md-end order-xl-0 order-lg-0 order-md-0 order-2 pr-4">
                   <div class="form-left-con core-vaule-left-con position-relative text-center overlay-img">
                      <figure class="mb-0 left-curve-img wow slideInLeft"
                         style="visibility: visible; animation-name: slideInLeft;">
