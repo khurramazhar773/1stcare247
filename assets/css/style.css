@@ -1455,7 +1455,25 @@ body {
 .nav-item .dropdown-menu a:hover {
   background-color: #ff8a00;
 }
-
+/*  */
+@media (max-width: 786px) {
+  .nav-item .dropdown-menu {
+    display: block !important;
+    opacity: 1 !important;
+    position: static;
+    box-shadow: none;
+    background-color: #065475;
+  }
+  .nav-item .dropdown-menu a {
+    padding-left: 15px;
+    color: #ffffff;
+  }
+  .nav-item:hover .dropdown-menu {
+    display: block;
+    opacity: 1;
+  }
+}
+/*  */
 .footer-heading p a {
   color: black;
 }
@@ -2140,5 +2158,19 @@ p {
 @keyframes fadeInCheck {
   100% {
     opacity: 1;
+  }
+}
+
+
+/* today new changes */
+@media (max-width: 786px) {
+  .navbar-nav .dropdown-menu {
+      display: block;
+      position: static;
+      visibility: visible;
+      opacity: 1;
+  }
+  .navbar-nav .dropdown-toggle::after {
+      display: none;
   }
 }
