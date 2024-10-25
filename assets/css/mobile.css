@@ -1678,7 +1678,21 @@
     .form-heading {
         padding-top: 22rem !important;
     }
-
+    .about-first-p{
+        padding: 10px 30px;
+    }
+    .vaule-box-title span{
+        padding: 0;
+    }
+    .about-yellow{
+        right: 70px;
+    }
+    .about-appointment-btn{
+        padding: 12px 30px;
+    }
+    .service-banner-two{
+        height: auto;
+    }
     .button-col {
         margin: 0px 45px;
     }
@@ -1801,6 +1815,16 @@
     }
     .button-col {
         margin: 0px 25px;
+    }
+    .about-banner-three2{
+        max-width: 100%;
+        height: auto;
+    }
+    .about-ywlloe2{
+        right: 0px;
+    }
+    .about-red2{
+        top: 300px;
     }
     .button-col {
         margin: 0px;

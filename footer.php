@@ -34,12 +34,12 @@
                         <div class="weight-footer-content">
                             <h5>Services</h5>
                             <ul class="list-unstyled mb-0">
-                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Locum GP’s</a></li>
-                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Nurses</a></li>
-                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Healthcare</a></li>
-                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Pharmacy</a></li>
-                                <li><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Support</a></li>
-                                <li class="mb-0"><a href="#" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Ambulance</a></li>
+                                <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Locum GP’s</a></li>
+                                <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Nurses</a></li>
+                                <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Healthcare</a></li>
+                                <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Pharmacy</a></li>
+                                <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Support</a></li>
+                                <li class="mb-0"><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Ambulance</a></li>
                             </ul>
                         </div>
                     </div>

@@ -59,7 +59,7 @@
                      <h2 class="quality-system-heading">Professional Doctor With
                         Years Of Experince
                      </h2>
-                     <p class="text-justify">
+                     <p class="text-justify about-first-p">
                         Our team includes professional doctors with years of experience,
                         dedicated to delivering exceptional healthcare services.
                         Their extensive background in patient care and medical
@@ -80,7 +80,7 @@
                            <li class="position-relative"><i class="fas fa-circle"></i>Modern Clinic</li>
                         </ul>
                      </div>
-                     <a href="pharmasist.php" class="appointment-button">Learn More</a>
+                     <a href="pharmasist.php" class="appointment-button about-appointment-btn">Learn More</a>
                   </div>
                </div>
                <div class="col-lg-6 col-md-6 d-md-flex align-items-md-end">
@@ -159,17 +159,17 @@
 
                <div class="col-lg-6 col-md-12 d-md-flex align-items-md-end order-xl-0 order-lg-0 order-md-0 order-2">
                   <div class="form-left-con core-vaule-left-con position-relative text-center">
-                     <figure class="mb-0 left-curve-img wow slideInLeft"
+                     <figure class="mb-0 left-curve-img wow slideInLeft about-yellow"
                         style="visibility: visible; animation-name: slideInLeft;">
-                        <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid">
+                        <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid about-ywlloe2">
                      </figure>
                      <figure class="mb-0">
                         <img src="assets/image/img12.png" alt="form-left-img"
-                           class="mb-0 img-fluid human-img about-banner-three">
+                           class="mb-0 img-fluid human-img about-banner-three about-banner-three2">
                      </figure>
                      <figure class="mb-0 right-curve-img wow slideInRight"
                         style="visibility: visible; animation-name: slideInRight;">
-                        <img src="assets/image/small-right-curve-img.png" alt="" class="img-fluid">
+                        <img src="assets/image/small-right-curve-img.png" alt="" class="img-fluid about-red2">
                      </figure>
                   </div>
                </div>
