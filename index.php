@@ -49,7 +49,7 @@
                      <figure>
                         <img src="assets/image/feature-box-icon3.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
-                     <h5>Healthcare Assistants</h5>
+                     <h5>Health Assistant</h5>
                      <p class="mb-0">Our healthcare assistants support patients and professionalism.</p>
                   </div>
                </div>
@@ -129,12 +129,12 @@
                      <h2 class="text-orange mb-2 home-banner-heading">Recent <span class="text-white mb-2">jobs</span>
                      </h2>
                      <div class="home-banner-button-container">
-                        <a href="#" class="job-btn home-banner-last2">Pharmacists</a>
-                        <a href="#" class="job-btn home-banner-last2">Nurses</a>
-                        <a href="#" class="job-btn home-banner-last2">Locum GP’s</a>
+                        <a href="career.php" class="job-btn home-banner-last2">Pharmacists</a>
+                        <a href="career.php" class="job-btn home-banner-last2">Nurses</a>
+                        <a href="career.php" class="job-btn home-banner-last2">Locum GP’s</a>
                      </div>
                      <div class="home-banner-last-container">
-                        <a href="online-registration.php" class="home-banner-last">View All</a>
+                        <a href="career.php" class="home-banner-last">View All</a>
                      </div>
                   </div>
 
@@ -415,7 +415,7 @@
                   <a href="blog.php">
                      <div class="blog-item">
                         <figure class="mb-0">
-                           <img src="assets/image/news-1 (1).png" alt="blog-img" class="img-fluid">
+                           <img src="assets/image/care-service-banner1.png" alt="blog-img" class="img-fluid">
                         </figure>
                         <div class="blog-item-content">
                            <div class="blog-item-auther-name">
@@ -437,18 +437,17 @@
                   <a href="blog.php">
                      <div class="blog-item">
                         <figure class="mb-0">
-                           <img src="assets/image/news-2.png" alt="blog-img" class="img-fluid">
+                           <img src="assets/image/care-service-banner2.png" alt="blog-img" class="img-fluid">
                         </figure>
                         <div class="blog-item-content">
                            <div class="blog-item-auther-name">
                               <span>By David William</span>
                               <span>Dec 1, 2022</span>
                            </div>
-                           <h4>Ensuring Medication Safety</h4>
+                           <h4>The Backbone of Quality Patient Care</h4>
                            <p class="mb-0">
                               Our general medicine team offers comprehensive care,
-                              addressing a wide range of medical conditions with 
-                              expertise and compassion.
+                              addressing a wide range of medical conditions.
                            </p>
                         </div>
                      </div>
@@ -458,7 +457,7 @@
                   <a href="blog.php">
                      <div class="blog-item mb-0">
                         <figure class="mb-0">
-                           <img src="assets/image/news-3.png" alt="blog-img" class="img-fluid">
+                           <img src="assets/image/care-service-banner3.png" alt="blog-img" class="img-fluid">
                         </figure>
                         <div class="blog-item-content">
                            <div class="blog-item-auther-name">
