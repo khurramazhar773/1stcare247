@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 
-<!-- <head>
+<head>
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
@@ -13,7 +13,7 @@
    <link rel="stylesheet" href="assets/css/mobile.css">
    <title>1stCare | Home</title>
 
-</head> -->
+</head>
 
 <body>
    <!-- top-bar-section-->
