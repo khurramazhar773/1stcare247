@@ -30,7 +30,7 @@
                      <figure>
                         <img src="assets/image/feature-box-icon1.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
-                     <h5>Locum GP’s faiq</h5>
+                     <h5>Locum GP’s faiqs</h5>
                      <p class="mb-0">Our locum GPs deliver flexible, high-quality care for your practice.</p>
                   </div>
                </div>
