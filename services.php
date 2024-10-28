@@ -248,9 +248,11 @@
    <div class="w-100 float-left form-main-con" id="contact-form">
       <div class="container">
          <div class="text-center">
-            <h2>Book An Appointment</h2>
-            <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt aenean<br>
-               leo ligula porttitor eu consequat vitae eleifend tac.
+            <h2>Schedule Healthcare Support</h2>
+            <p class="form-section-p">Schedule Healthcare Support today and connect with our team of
+               experienced Locum GPs, nurses, healthcare assistants, and pharmacy locums.
+               We provide flexible appointment options to ensure you receive timely,
+               professional care tailored to your needs
             </p>
          </div>
          <div class="row">

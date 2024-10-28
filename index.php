@@ -339,7 +339,7 @@
                            <div class="carousel-item active">
                               <div class="auther-con w-100 d-inline-block">
                                  <figure class="mb-0 d-inline-block">
-                                    <img src="assets/image/happy-client-pic.png" alt="auther-img" class="img-fluid">
+                                    <img src="assets/image/happy-client1.png" alt="auther-img" class="img-fluid">
                                  </figure>
                                  <div class="auther-title d-inline-block">
                                     <h4 class="text-white">Victoria Sullivan</h4>
@@ -355,11 +355,11 @@
                            <div class="carousel-item">
                               <div class="auther-con w-100 d-inline-block">
                                  <figure class="mb-0 d-inline-block">
-                                    <img src="assets/image/happy-client-pic.png" alt="auther-img" class="img-fluid">
+                                    <img src="assets/image/happy-client2.png" alt="auther-img" class="img-fluid">
                                  </figure>
                                  <div class="auther-title d-inline-block">
-                                    <h4 class="text-white">Victoria Sullivan</h4>
-                                    <p class="mb-0">Dental Patient</p>
+                                    <h4 class="text-white">Neuman Senamey</h4>
+                                    <p class="mb-0">Medical Patient</p>
                                  </div>
                               </div>
                               <p class="text-white mb-0">
@@ -371,11 +371,11 @@
                            <div class="carousel-item">
                               <div class="auther-con w-100 d-inline-block">
                                  <figure class="mb-0 d-inline-block">
-                                    <img src="assets/image/happy-client-pic.png" alt="auther-img" class="img-fluid">
+                                    <img src="assets/image/happy-client3.png" alt="auther-img" class="img-fluid">
                                  </figure>
                                  <div class="auther-title d-inline-block">
-                                    <h4 class="text-white">Victoria Sullivan</h4>
-                                    <p class="mb-0">Dental Patient</p>
+                                    <h4 class="text-white">Jay Garrick</h4>
+                                    <p class="mb-0">Liver Patient</p>
                                  </div>
                               </div>
                               <p class="text-white mb-0">
