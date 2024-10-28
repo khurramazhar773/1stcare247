@@ -40,9 +40,7 @@
                      <div class="generic-banner-content text-white text-center">
                         <h1>Contact Us</h1>
                         <p class="text-white mb-0">
-                           Providing personalized, expert care with compassion, <br /> ensuring your well-being at every
-                           step
-                           of your health journey.
+                        Need assistance or more information? Reach out to our <br>healthcare team through our Contact Us page for prompt <br> support and inquiries.
                         </p>
                      </div>
                   </div>

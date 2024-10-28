@@ -79,7 +79,7 @@
                         <figure>
                            <img src="assets/image/col-3.png" alt="service-box-icon" class="img-fluid">
                         </figure>
-                        <h5>Healthcare Service</h5>
+                        <h5>Healthcare assistants</h5>
                         <span class="d-block">Our healthcare assistants support patients with professionalism.</span>
                      </div>
                   </div>

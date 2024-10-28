@@ -41,9 +41,7 @@
                      <div class="generic-banner-content text-white text-center">
                         <h1>Worker Availability</h1>
                         <p class="text-white mb-0">
-                           we prioritize dependable, round-the-clock support for our clients. To ensure you get the care
-                           and assistance<br> you need, our skilled and compassionate team members are available based on
-                           your requirements.
+                        Check the real-time availability of our skilled <br>healthcare professionals, ready to support your <br>needs.
                         </p>
                      </div>
                   </div>

@@ -70,8 +70,8 @@
                            </figure>
                            <h5>Dr. Richard Muldoon</h5>
                            <small class="d-block">Doctor of Medicine</small>
-                           <span class="d-block"> Lorem ipsum dolor sit ametc onsectetur adipiscing elitsed do
-                              eiusmod.</span>
+                           <span class="d-block">
+                           Highly skilled professionals, recognized for their advanced expertise in patient care and healthcare management.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -101,7 +101,8 @@
                            </figure>
                            <h5>Dr. Maria Andaloro</h5>
                            <small class="d-block">Dental Medicine</small>
-                           <span class="d-block"> Lorem ipsum dolor sit ametc onsectetur adipiscing elitsed do eiusmod.
+                           <span class="d-block"> Highly skilled Professionals, Recognized for their advanced expertise
+                           in Dental care.
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
@@ -132,8 +133,7 @@
                            </figure>
                            <h5>Dr. Michael Brian</h5>
                            <small class="d-block">Family Physician</small>
-                           <span class="d-block"> Lorem ipsum dolor sit ametc onsectetur adipiscing elitsed do
-                              eiusmod.</span>
+                           <span class="d-block">Specializing in comprehensive, personalized healthcare for individuals and families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -166,9 +166,8 @@
                                  class="img-fluid">
                            </figure>
                            <h5>Dr. Richard Muldoon</h5>
-                           <small class="d-block">Doctor of Medicine</small>
-                           <span class="d-block"> Lorem ipsum dolor sit ametc onsectetur adipiscing elitsed do
-                              eiusmod.</span>
+                           <small class="d-block">Doctor of Orthopedics </small>
+                           <span class="d-block"> Specializing in Comprehensive, Personalized Bone Health Care for Individuals and Families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -197,9 +196,9 @@
                                  class="img-fluid">
                            </figure>
                            <h5>Dr. Maria Andaloro</h5>
-                           <small class="d-block">Dental Medicine</small>
-                           <span class="d-block"> Lorem ipsum dolor sit ametc onsectetur adipiscing elitsed do
-                              eiusmod.</span>
+                           <small class="d-block">Neuro Surgeon</small>
+                           <span class="d-block">Specializing in Comprehensive, Personalized healthCare for individuals
+                           and families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -228,9 +227,8 @@
                                  class="img-fluid">
                            </figure>
                            <h5>Dr. Michael Brian</h5>
-                           <small class="d-block">Family Physician</small>
-                           <span class="d-block"> Lorem ipsum dolor sit ametc onsectetur adipiscing elitsed do
-                              eiusmod.</span>
+                           <small class="d-block"> Gynecologist</small>
+                           <span class="d-block">Specializing in Comprehensive, Personalized Women's Health Care for Individuals and Families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i

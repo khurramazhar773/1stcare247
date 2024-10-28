@@ -228,7 +228,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <a href="#">
-                                 <img alt="" src="assets/image/care-service-banner6.png">
+                                 <img alt="" src="assets/image/social-worker-taking-care-senior-woman.png">
                               </a>
 
                               <!--post-image-->
