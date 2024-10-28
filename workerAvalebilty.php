@@ -39,11 +39,11 @@
                <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
                   <div class="container">
                      <div class="generic-banner-content text-white text-center">
-                        <h1>Worker Avalebilty</h1>
+                        <h1>Worker Availability</h1>
                         <p class="text-white mb-0">
-                           Providing personalized, expert care with compassion, <br /> ensuring your well-being at every
-                           step
-                           of your health journey.
+                           we prioritize dependable, round-the-clock support for our clients. To ensure you get the care
+                           and assistance<br> you need, our skilled and compassionate team members are available based on
+                           your requirements.
                         </p>
                      </div>
                   </div>
@@ -145,7 +145,7 @@
          </form>
       </div>
    </section>
-   
+
    <!-- table end -->
    <!-- form-section -->
    <section>
@@ -166,7 +166,7 @@
                         <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid">
                      </figure>
                      <figure class="mb-0">
-                        <img src="assets/image/schedule.png" alt="form-left-img"
+                        <img src="assets/image/today-new-banner.png" alt="form-left-img"
                            class="img-fluid human-img form-left-img">
                      </figure>
                      <figure class="mb-0 right-curve-img wow slideInRight">
@@ -317,4 +317,5 @@
    <script src="assets/js/bootstrap.min.js"> </script>
    <script src="assets/js/custom-script.js"> </script>
 </body>
+
 </html>

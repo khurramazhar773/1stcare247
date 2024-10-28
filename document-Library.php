@@ -176,7 +176,7 @@
                      <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid">
                   </figure>
                   <figure class="mb-0">
-                     <img src="assets/image/services-banner3.png" alt="form-left-img"
+                     <img src="assets/image/today-new-banner.png" alt="form-left-img"
                         class="img-fluid human-img form-left-img doccument-image-banner">
                   </figure>
                   <figure class="mb-0 right-curve-img wow slideInRight"

@@ -34,7 +34,7 @@
                <div class="w-100 float-left generic-banner-con text-xl-left text-lg-left text-center">
                   <div class="container">
                      <div class="generic-banner-content text-white text-center">
-                        <h1>FAQ US</h1>
+                        <h1>FAQs</h1>
                         <p class="text-white mb-0">
                            1stCare provides virtual consultations for select services.
                            You can easily book an online<br> appointment with our healthcare
@@ -90,7 +90,7 @@
                         <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid">
                      </figure>
                      <figure class="mb-0">
-                        <img src="assets/image/services-banner3.png" alt="Frequently-img" class="img-fluid human-img">
+                        <img src="assets/image/today-new-banner.png" alt="Frequently-img" class="img-fluid human-img">
                      </figure>
                      <figure class="mb-0 right-curve-img wow slideInRight">
                         <img src="assets/image/small-right-curve-img.png" alt="" class="img-fluid">
@@ -107,8 +107,10 @@
       <div class="container">
          <div class="professional-title text-center">
             <h2>Popular Question</h2>
-            <p>Seram ipsum dolor sit amet, consectetur adipiscing elit sed lorem ipsum dolor sit amet, consectetur<br>
-               adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+            <p>
+               At 1stCare, we understand that choosing the right care provider is a big decision, and you <br> q
+               may have many
+               questions. Some of the most frequently asked questions we receive include:
             </p>
          </div>
          <div id="accordion">

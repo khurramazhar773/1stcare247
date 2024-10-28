@@ -92,7 +92,7 @@
                         <img src="assets/image/img11.png" alt="professional-doctor-img"
                            class="about-sec-banner img-fluid human-img">
                      </figure>
-                     <figure class="mb-0 right-curve-img wow slideInRight">
+                     <figure class="mb-0 right-curve-img wow slideInRight about-1st-red">
                         <img src="assets/image/small-right-curve-img.png" alt="" class="img-fluid">
                      </figure>
                   </div>
@@ -159,17 +159,17 @@
 
                <div class="col-lg-6 col-md-12 d-md-flex align-items-md-end order-xl-0 order-lg-0 order-md-0 order-2">
                   <div class="form-left-con core-vaule-left-con position-relative text-center">
-                     <figure class="mb-0 left-curve-img wow slideInLeft about-yellow"
+                     <figure class="mb-0 left-curve-img wow slideInLeft about-yellow about-ywlloe2"
                         style="visibility: visible; animation-name: slideInLeft;">
-                        <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid about-ywlloe2">
+                        <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid">
                      </figure>
                      <figure class="mb-0">
-                        <img src="assets/image/img12.png" alt="form-left-img"
+                        <img src="assets/image/about-second-banner.png" alt="form-left-img"
                            class="mb-0 img-fluid human-img about-banner-three about-banner-three2">
                      </figure>
-                     <figure class="mb-0 right-curve-img wow slideInRight"
+                     <figure class="mb-0 right-curve-img wow slideInRight about-red2"
                         style="visibility: visible; animation-name: slideInRight;">
-                        <img src="assets/image/small-right-curve-img.png" alt="" class="img-fluid about-red2">
+                        <img src="assets/image/small-right-curve-img.png" alt="" class="img-fluid">
                      </figure>
                   </div>
                </div>
@@ -383,7 +383,7 @@
                         <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid">
                      </figure>
                      <figure class="mb-0">
-                        <img src="assets/image/schedule.png" alt="form-left-img"
+                        <img src="assets/image/today-new-banner.png" alt="form-left-img"
                            class="img-fluid human-img form-left-img">
                      </figure>
                      <figure class="mb-0 right-curve-img wow slideInRight">

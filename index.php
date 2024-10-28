@@ -244,11 +244,11 @@
             <div class="row">
                <div class="col-lg-6 order-xl-0 order-lg-0 order-2">
                   <div class="form-left-con position-relative text-center">
-                     <figure class="mb-0 left-curve-img wow slideInLeft">
+                     <figure class="mb-0 left-curve-img wow slideInLeft home-yellow">
                         <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid">
                      </figure>
                      <figure class="mb-0">
-                        <img src="assets/image/pngwing.com (28) 1.png" class="form-img home-banner-three">
+                        <img src="assets/image/today-new-banner.png" class="form-img home-banner-three">
                      </figure>
                      <figure class="mb-0 right-curve-img wow slideInRight">
                         <img src="assets/image/small-right-curve-img.png" alt="" class="img-fluid">
@@ -339,47 +339,50 @@
                            <div class="carousel-item active">
                               <div class="auther-con w-100 d-inline-block">
                                  <figure class="mb-0 d-inline-block">
-                                    <img src="assets/image/auther-img 1.png" alt="auther-img" class="img-fluid">
+                                    <img src="assets/image/happy-client-pic.png" alt="auther-img" class="img-fluid">
                                  </figure>
                                  <div class="auther-title d-inline-block">
                                     <h4 class="text-white">Victoria Sullivan</h4>
                                     <p class="mb-0">Dental Patient</p>
                                  </div>
                               </div>
-                              <p class="text-white mb-0">Seram ipsum dolor sit amet consectetur adipiscing elit sed do
-                                 eius mod tempor incididunt aenean leo ligula portti tor eu consequat vitae eleifend tac
-                                 phasellus viverra nulla utm etus varius laoreetuisque rutrumenean imperdiet tiam ultri
-                                 cies nisi vel augues mod tempor in.</p>
+                              <p class="text-white mb-0">
+                                 Finally, a healthcare website that truly understands patient needs! The entire 1stCare
+                                 team goes above and beyond to ensure a smooth experience, and the professional guidance
+                                 I received has made such a positive difference.
+                              </p>
                            </div>
                            <div class="carousel-item">
                               <div class="auther-con w-100 d-inline-block">
                                  <figure class="mb-0 d-inline-block">
-                                    <img src="assets/image/auther-img 1.png" alt="auther-img" class="img-fluid">
+                                    <img src="assets/image/happy-client-pic.png" alt="auther-img" class="img-fluid">
                                  </figure>
                                  <div class="auther-title d-inline-block">
                                     <h4 class="text-white">Victoria Sullivan</h4>
                                     <p class="mb-0">Dental Patient</p>
                                  </div>
                               </div>
-                              <p class="text-white mb-0">Seram ipsum dolor sit amet consectetur adipiscing elit sed do
-                                 eius mod tempor incididunt aenean leo ligula portti tor eu consequat vitae eleifend tac
-                                 phasellus viverra nulla utm etus varius laoreetuisque rutrumenean imperdiet tiam ultri
-                                 cies nisi vel augues mod tempor in.</p>
+                              <p class="text-white mb-0">
+                                 Finally, a healthcare website that truly understands patient needs! The entire 1stCare
+                                 team goes above and beyond to ensure a smooth experience, and the professional guidance
+                                 I received has made such a positive difference.
+                              </p>
                            </div>
                            <div class="carousel-item">
                               <div class="auther-con w-100 d-inline-block">
                                  <figure class="mb-0 d-inline-block">
-                                    <img src="assets/image/auther-img 1.png" alt="auther-img" class="img-fluid">
+                                    <img src="assets/image/happy-client-pic.png" alt="auther-img" class="img-fluid">
                                  </figure>
                                  <div class="auther-title d-inline-block">
                                     <h4 class="text-white">Victoria Sullivan</h4>
                                     <p class="mb-0">Dental Patient</p>
                                  </div>
                               </div>
-                              <p class="text-white mb-0">Seram ipsum dolor sit amet consectetur adipiscing elit sed do
-                                 eius mod tempor incididunt aenean leo ligula portti tor eu consequat vitae eleifend tac
-                                 phasellus viverra nulla utm etus varius laoreetuisque rutrumenean imperdiet tiam ultri
-                                 cies nisi vel augues mod tempor in.</p>
+                              <p class="text-white mb-0">
+                                 Finally, a healthcare website that truly understands patient needs! The entire 1stCare
+                                 team goes above and beyond to ensure a smooth experience, and the professional guidance
+                                 I received has made such a positive difference.
+                              </p>
                            </div>
                         </div>
                         <a class="carousel-control-prev" href="#carouselExampleControls" role="button"
@@ -406,8 +409,9 @@
          <div class="container">
             <div class="text-center">
                <h2>Our Blogs</h2>
-               <p>Seram ipsum dolor sit amet, consectetur adipiscing elit, sed do eius mod tempor incididunt aenean<br>
-                  leo ligula porttitor eu consequat vitae eleifend tac.
+               <p>
+                  we believe that healthcare should be accessible, efficient, and personalized. Our platform is designed<br>
+                  to provide you with an easy and stress-free experience when it comes to managing your health.
                </p>
             </div>
             <div class="row">
@@ -426,8 +430,8 @@
                               The Role of Locum GPs in Healthcare
                            </h4>
                            <p class="mb-0">
-                           Our healthcare staff provides skilled,
-                           compassionate care tailored to your needs.
+                              Our healthcare staff provides skilled,
+                              compassionate care tailored to your needs.
                            </p>
                         </div>
                      </div>
@@ -468,7 +472,7 @@
                            <p class="mb-0">
                               Our experienced nurses deliver compassionate,
                               patient-centered care across various specialties.
-                              </p>
+                           </p>
                         </div>
                      </div>
                   </a>

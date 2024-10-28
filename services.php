@@ -61,7 +61,8 @@
                            <img src="assets/image/col-1.png" alt="service-box-icon" class="img-fluid">
                         </figure>
                         <h5>Locum GP’s</h5>
-                        <span class="d-block">Our locum GPs deliver flexible, high-quality care for your practice.</span>
+                        <span class="d-block">Our locum GPs deliver flexible, high-quality care for your
+                           practice.</span>
                      </div>
                   </div>
                   <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-right-0">
@@ -169,8 +170,8 @@
                            <div class="core-vaule-box-title">
                               <h5>Locum GP’s and Nurses</h5>
                               <span class="d-block">
-                                 Nullam dictum felis eu pede mollis pretium. Integer
-                                 tinciduntras dapibus vivamus elementum.
+                                 Our experienced locum GPs provide healthcare coverage, ensuring
+                                 consistent patient care when it’s needed most.
                               </span>
                            </div>
                         </div>
@@ -182,8 +183,8 @@
                            <div class="core-vaule-box-title">
                               <h5>Locum Pharmacists</h5>
                               <span class="d-block">
-                                 Quisque rutrum aenean imperdiet etiam ultricies nisi
-                                 vel augue curabitur ullamcorper ultricies nisi.
+                                 Skilled pharmacists on our team deliver professional advice and
+                                 enhancing patient safety and well-being.
                               </span>
                            </div>
                         </div>
@@ -195,8 +196,8 @@
                            <div class="core-vaule-box-title">
                               <h5>24/7 Helpdesk</h5>
                               <span class="d-block">
-                                 Cras dapibus vivamus elementum semper nisi enean
-                                 vulputate eleifend am eget duieget dui.
+                                 We offer round-the-clock healthcare support, ensuring access to urgent services and
+                                 peace of mind anytime, day or night.
                               </span>
                            </div>
                         </div>
@@ -204,14 +205,16 @@
                   </div>
                </div>
 
-               <div class="col-lg-6 col-md-12 d-md-flex align-items-md-end order-xl-0 order-lg-0 order-md-0 order-2 pr-4">
+               <div
+                  class="col-lg-6 col-md-12 d-md-flex align-items-md-end order-xl-0 order-lg-0 order-md-0 order-2 pr-4">
                   <div class="form-left-con core-vaule-left-con position-relative text-center overlay-img">
                      <figure class="mb-0 left-curve-img wow slideInLeft"
                         style="visibility: visible; animation-name: slideInLeft;">
                         <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid">
                      </figure>
                      <figure class="mb-0">
-                        <img src="assets/image/banner3.png" alt="form-left-img" class="mb-0 img-fluid human-img service-banner-two">
+                        <img src="assets/image/banner3.png" alt="form-left-img"
+                           class="mb-0 img-fluid human-img service-banner-two">
                      </figure>
                      <figure class="mb-0 right-curve-img wow slideInRight"
                         style="visibility: visible; animation-name: slideInRight;">
@@ -253,12 +256,12 @@
          <div class="row">
             <div class="col-lg-6 order-xl-0 order-lg-0 order-2">
                <div class="form-left-con position-relative text-center">
-                  <figure class="mb-0 left-curve-img wow slideInLeft"
-                     style="visibility: visible; animation-name: slideInLeft;">
+                  <figure class="mb-0 left-curve-img wow slideInLeft services-2nd-yellow"
+                     style="visibility: visible; animation-name: slideInLeft;right:70px;">
                      <img src="assets/image/small-left-curve-img.png" alt="" class="img-fluid">
                   </figure>
                   <figure class="mb-0">
-                     <img src="assets/image/services-banner3.png" alt="form-left-img"
+                     <img src="assets/image/today-new-banner.png" alt="form-left-img"
                         class="img-fluid human-img form-left-img">
                   </figure>
                   <figure class="mb-0 right-curve-img wow slideInRight"

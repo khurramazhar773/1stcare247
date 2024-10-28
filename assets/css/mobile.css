@@ -141,7 +141,9 @@
     .banner-right-content {
         padding-bottom: 170px;
     }
-
+    .services-2nd-yellow{
+        right: 40px !important;
+    }
     .home-col-one,
     .home-col-two {
         padding: 0;
@@ -797,7 +799,9 @@
     .doccument-btn {
         padding: 12px 20px;
     }
-
+    .services-2nd-yellow {
+        right: 180px !important;
+    }
     .navbar-nav {
         gap: 0;
         align-items: normal;
@@ -851,7 +855,11 @@
     }
 
     .about-sec-banner {
-        height: 350px;
+        object-fit: contain;
+        max-width: 105%;
+    }
+    .about-1st-red{
+        top: 255px !important;
     }
 
     .core-vaule-title h2 {
@@ -867,7 +875,7 @@
     }
 
     .about-banner-three {
-        max-width: 75%;
+        max-width: 60%;
     }
 
     .quality-system-right-con .right-curve-img {
@@ -1273,11 +1281,16 @@
         text-align: center;
         margin-bottom: 15px;
     }
-
+    .home-banner-three {
+        max-width: 50%;
+        margin-top: 20px;
+    }
     .blog-con p {
         margin-bottom: 35px;
     }
-
+    .home-yellow {
+        right: 200px !important;
+    }
     .blog-posts {
         padding-top: 40px;
     }
@@ -1678,6 +1691,40 @@
     .form-heading {
         padding-top: 22rem !important;
     }
+    .services-2nd-yellow {
+        right: 80px !important;
+    }
+    .home-yellow {
+        right: 80px !important;
+    }
+    .home-banner-three {
+        max-width: 75%;
+        margin-top: 20px;
+    }
+    .about-1st-red {
+        top: 240px !important;
+    }
+    .core-vaule-title p, .core-vaule-box-item, .core-vaule-box-title span {
+        text-align: center !important;
+        padding: 0px;
+    }
+    .about-sec-banner {
+        max-width: 90%;
+    }
+    .about-banner-three {
+        max-width: 90%;
+        height: auto;
+    }
+    .about-yellow {
+        right: 30px !important;
+    }
+    .about-red2{
+        top: 300px !important;
+    }
+    .form-left-img {
+        margin-top: 20px;
+    }
+
     .about-first-p{
         padding: 10px 30px;
     }
@@ -1810,6 +1857,19 @@
         padding-top: 21rem !important;
         margin-bottom: 30px !important;
     }
+    .services-2nd-yellow {
+        right: 65px !important;
+    }
+    .home-yellow {
+        right: 60px !important;
+    }
+    .about-sec-banner {
+        max-width: 95%;
+    }
+    .about-sec-banner{
+        max-width: 100% !important;
+        height: auto !important;
+    }
     .hiring-heading {
         padding: 2rem 1rem;
     }
@@ -1821,10 +1881,10 @@
         height: auto;
     }
     .about-ywlloe2{
-        right: 0px;
+        right: 0px !important;
     }
     .about-red2{
-        top: 300px;
+        top: 300px !important;
     }
     .button-col {
         margin: 0px;
@@ -1915,6 +1975,15 @@
 @media only screen and (max-width: 320px) {
     .quality-system-left-con p {
         padding: 0px 15px;
+    }
+    .services-2nd-yellow {
+        right: 40px !important;
+    }
+    .home-yellow {
+        right: 40px !important;
+    }
+    .about-red2{
+        top: 230px !important;
     }
     .Experince-section .quality-system-right-con .left-curve-img {
         left: -240px;
