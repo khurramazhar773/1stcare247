@@ -1,23 +1,19 @@
 /*  */
 /* form styles */
 /*  */
-
 .auto-clearfix {
 	padding: 60px 0px;
 }
-
 .form-container {
 	background-color: white;
 	border-radius: 10px;
 	padding: 20px;
 	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
-
 .form-heading {
 	padding-top: 35rem;
 	margin-bottom: 30px;
 }
-
 .form-text {
 	font-family: Jost;
 	font-size: 20px;
@@ -83,13 +79,11 @@
 .form-step.active {
 	display: block;
 }
-
 .form-label {
 	color: #737373;
 	font-size: 20px;
 	font-weight: 500;
 }
-/*  */
 .form-control{
 	outline: none;
 	border-radius: 8px;
@@ -97,14 +91,12 @@
 .form-control:focus {
     box-shadow: 0 0 5px #1DA678;
 }
-
 .progress-container {
 	background-color: #ddd;
 	margin-bottom: 20px;
 	height: 6px;
 	overflow: hidden;
 }
-
 .progress-bar {
 	height: 100%;
 	width: 25%;
@@ -194,6 +186,4 @@
 	background-color: #FFFFFF;
 	color: gray;
 	width: 100%;
-	/* font-weight: 600; */
 }
-

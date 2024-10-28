@@ -2124,7 +2124,7 @@ p {
   margin-bottom: 30px;
 }
 .btn-home {
-  background-color: #007bff;
+  background-color: #28a745;
   color: white;
   padding: 10px 20px;
   font-weight: 500;
@@ -2132,6 +2132,9 @@ p {
   text-decoration: none;
   display: inline-block;
   font-size: 1.2rem;
+}
+.btn-home:hover{
+  text-decoration: none;
 }
 .circle {
   width: 100px;
