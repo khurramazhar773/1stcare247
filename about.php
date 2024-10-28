@@ -36,9 +36,7 @@
                      <div class="generic-banner-content text-white text-center">
                         <h1>About Us</h1>
                         <p class="text-white mb-0">
-                           Providing personalized, expert care with compassion, <br /> ensuring your well-being at every
-                           step
-                           of your health journey.
+                        Discover our healthcare company, committed to <br>   quality care and flexible staffing to improve <br> patient outcomes.
                         </p>
                      </div>
                   </div>
@@ -60,11 +58,8 @@
                         Years Of Experince
                      </h2>
                      <p class="text-justify about-first-p">
-                        Our team includes professional doctors with years of experience,
-                        dedicated to delivering exceptional healthcare services.
-                        Their extensive background in patient care and medical
-                        expertise allows them to diagnose, treat, and manage a
-                        variety of health conditions with precision and compassion.
+                     Discover our healthcare company, dedicated to high-quality care, expert staff, and tailored solutions to support patient outcomes and medical practices. <br>
+                     We're committed to improving patient outcomes and supporting medical practices with flexible solutions.
                      </p>
                      <div class="quality-system-list">
                         <ul class="list-unstyled">
@@ -113,9 +108,7 @@
                      <div class="core-vaule-title">
                         <h2 class="core-values">Our Core Values And
                            Principle</h2>
-                        <p class="quality-system-text text-justify">We prioritize the Health, Safety and Well-being of
-                           our Patients,
-                           Ensuring that all our services are designed to meet their needs with Compassion and Empathy.
+                        <p class="quality-system-text text-justify">Our core values are patient-centered care, integrity, collaboration, and a commitment to excellence.
                         </p>
                      </div>
                      <div class="core-vaule-box-con">
@@ -126,8 +119,7 @@
                            </figure>
                            <div class="core-vaule-box-title">
                               <h5>Qualified Doctors</h5>
-                              <span class="d-block text-justify">We provide highly Qualified and Experienced Doctors
-                                 dedicated to delivering the best care for your Health needs.</span>
+                              <span class="d-block text-justify">Our qualified doctors are experienced professionals dedicated to providing exceptional patient care.</span>
                            </div>
                         </div>
                         <div class="core-vaule-box-item position-relative">
@@ -137,8 +129,7 @@
                            </figure>
                            <div class="core-vaule-box-title">
                               <h5>24/7 Helpdesk</h5>
-                              <span class="d-block text-justify">We offer 24/7 support to ensure that expert help is
-                                 always available whenever you need it, day or night.</span>
+                              <span class="d-block text-justify">Our 24/7 help desk is always available to provide prompt support and address your healthcare needs at any time.</span>
                            </div>
                         </div>
                         <div class="core-vaule-box-item position-relative mb-0">
@@ -148,8 +139,7 @@
                            </figure>
                            <div class="core-vaule-box-title">
                               <h5>Latest Drugs</h5>
-                              <span class="d-block text-justify">We offer the latest medications, ensuring you have
-                                 access to the most effective treatments available for your health.</span>
+                              <span class="d-block text-justify">Stay informed with our latest updates on new drugs, ensuring you have access to the most effective treatments available.</span>
                            </div>
                         </div>
                      </div>
@@ -260,9 +250,8 @@
          <div class="container">
             <div class="professional-title text-center">
                <h2>Meet Our Professionals</h2>
-               <p>Our team of highly Professional members is dedicated to providing expert care with a focus on
-                  compassion and precision. <br> Bringing years of Experience and a Commitment to ensuring the highest
-                  standards of healthCare delivery.</p>
+               <p>Seram ipsum dolor sit amet, consectetur adipiscing elit sed lorem ipsum dolor sit amet, consectetur <br>
+               adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
             </div>
             <div class="professional-box">
                <div class="row">
@@ -274,9 +263,8 @@
                                  class="img-fluid">
                            </figure>
                            <h5>Dr. Richard Muldoon</h5>
-                           <small class="d-block">Doctor of Medicine</small>
-                           <span class="d-block"> Renowned for their advanced Clinical Expertise and Unwavering
-                              Exceptional patient care.</span>
+                           <small class="d-block">lorem GP's</small>
+                           <span class="d-block">Specializing in comprehensive, personalized healthcare for individuals and families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -305,9 +293,9 @@
                                  class="img-fluid">
                            </figure>
                            <h5>Dr. Maria Andaloro</h5>
-                           <small class="d-block">Dental Medicine</small>
-                           <span class="d-block">Highly skilled Professionals, Recognized for their advanced expertise
-                              in Dental care </span>
+                           <small class="d-block">Nurses</small>
+                           <span class="d-block">  
+                           Highly skilled professionals, recognized for their advanced expertise in patient care & healthcare .</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -336,9 +324,8 @@
                                  class="img-fluid">
                            </figure>
                            <h5>Dr. Michael Brian</h5>
-                           <small class="d-block">Family Physician</small>
-                           <span class="d-block">Specializing in Comprehensive, Personalized healthCare for individuals
-                              and families.</span>
+                           <small class="d-block">Dental Doctor</small>
+                           <span class="d-block">Specializing in comprehensive, personalized dental care for individuals and families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i

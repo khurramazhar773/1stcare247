@@ -38,7 +38,7 @@
                <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0">
                   <div class="feature-box-item ">
                      <figure>
-                        <img src="assets/image/feature-box-icon2.png" alt="feature-box-icon" class="img-fluid">
+                        <img src="assets/image/col-2.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
                      <h5>Qualified Nurses</h5>
                      <p class="mb-0">Our qualified nurses provide compassionate, skilled patient care.</p>
@@ -47,7 +47,7 @@
                <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0">
                   <div class="feature-box-item ">
                      <figure>
-                        <img src="assets/image/feature-box-icon3.png" alt="feature-box-icon" class="img-fluid">
+                        <img src="assets/image/col-3.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
                      <h5>Health Assistant</h5>
                      <p class="mb-0">Our healthcare assistants support patients and professionalism.</p>
@@ -56,7 +56,7 @@
                <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0">
                   <div class="feature-box-item ">
                      <figure>
-                        <img src="assets/image/feature-box-icon4.png" alt="feature-box-icon" class="img-fluid">
+                        <img src="assets/image/chemist.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
                      <h5>Pharmacy Locums</h5>
                      <p class="mb-0">Our pharmacy locums offer flexible, expert medication management.</p>
@@ -76,7 +76,7 @@
                <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-bottom-0">
                   <div class="feature-box-item">
                      <figure>
-                        <img src="assets/image/feature-box-icon6.png" alt="feature-box-icon" class="img-fluid">
+                        <img src="assets/image/Figure feature-box-icon2.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
                      <h5>Qualified Nurses</h5>
                      <p class="mb-0">Our qualified nurses provide compassionate, skilled patient care.</p>
@@ -85,7 +85,7 @@
                <div class="col-lg-3 col-md-3 col-sm-6 pl-0 pr-0 border-bottom-0">
                   <div class="feature-box-item">
                      <figure>
-                        <img src="assets/image/feature-box-icon7.png" alt="feature-box-icon" class="img-fluid">
+                        <img src="assets/image/Figure feature-box-icon3.png" alt="feature-box-icon" class="img-fluid">
                      </figure>
                      <h5>General Medicine</h5>
                      <p class="mb-0">Our general medicine team offers comprehensive care for various health issues.</p>
@@ -184,11 +184,11 @@
                   <div class="col-lg-3 col-md-6 col-6 pl-0 pr-0 border-right-0">
                      <div class="fun-facts-box-item d-sm-flex align-items-sm-center">
                         <figure class="mb-0 d-inline-block">
-                           <img src="assets/image/fun-facts-icon2.png" alt="fun-facts-icon1" class="img-fluid">
+                           <img src="assets/image/Group 27.png" alt="fun-facts-icon1" class="img-fluid">
                         </figure>
                         <div class="fun-facts-item-content d-inline-block">
                            <div class="position-relative fun-facts-item-title d-inline-block">
-                              <h2 class="count">522</h2>
+                              <h2 class="count">70</h2>
                               <span>+</span>
                            </div>
                            <p class="mb-0">Locum GP’s</p>
@@ -427,11 +427,10 @@
                               <span>Dec 1, 2022</span>
                            </div>
                            <h4>
-                              The Role of Locum GPs in Healthcare
+                           Manage Healthcare Appointments Effectively
                            </h4>
                            <p class="mb-0">
-                              Our healthcare staff provides skilled,
-                              compassionate care tailored to your needs.
+                           Learn tips on scheduling and managing appointments to ensure smooth healthcare experiences.
                            </p>
                         </div>
                      </div>
@@ -448,10 +447,10 @@
                               <span>By David William</span>
                               <span>Dec 1, 2022</span>
                            </div>
-                           <h4>The Backbone of Quality Patient Care</h4>
+                           <h4>The Importance of Skilled Healthcare Staff</h4>
                            <p class="mb-0">
-                              Our general medicine team offers comprehensive care,
-                              addressing a wide range of medical conditions.
+                           Dolor repellendus temporibus aute
+                           quibu sdam officiis debitis rerum.
                            </p>
                         </div>
                      </div>
@@ -468,10 +467,9 @@
                               <span>By David William</span>
                               <span>Dec 1, 2022</span>
                            </div>
-                           <h4>Supporting Your Medical Practice</h4>
+                           <h4>Nurses: The Heart of Patient Care</h4>
                            <p class="mb-0">
-                              Our experienced nurses deliver compassionate,
-                              patient-centered care across various specialties.
+                           Learn how nurses provide compassionate, skilled care in every healthcare setting.
                            </p>
                         </div>
                      </div>
