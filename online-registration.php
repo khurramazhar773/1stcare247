@@ -161,7 +161,7 @@
           <label for="university" class="form-label">University / College</label>
           <input type="text" class="form-control" id="university" placeholder="Enter your institution" required>
         </div>
-        <div class="mb-5">
+        <div class="mb-3">
           <label for="graduationYear" class="form-label">Year of Graduation</label>
           <input type="text" class="form-control" id="university" placeholder="Enter your graduation year" required>
         </div>
@@ -187,7 +187,7 @@
           <label for="companyName" class="form-label">Company Name</label>
           <input type="text" class="form-control" id="experience" placeholder="Enter your company ‘s name" required>
         </div>
-        <div class="mb-5">
+        <div class="mb-3">
           <label for="position" class="form-label">Years of Experience</label>
           <input type="text" class="form-control" id="experience" placeholder="Enter years of Experience" required>
         </div>
