@@ -410,7 +410,8 @@
             <div class="text-center">
                <h2>Our Blogs</h2>
                <p>
-                  we believe that healthcare should be accessible, efficient, and personalized. Our platform is designed<br>
+                  we believe that healthcare should be accessible, efficient, and personalized. Our platform is
+                  designed<br>
                   to provide you with an easy and stress-free experience when it comes to managing your health.
                </p>
             </div>
@@ -427,10 +428,11 @@
                               <span>Dec 1, 2022</span>
                            </div>
                            <h4>
-                           Manage Healthcare Appointments Effectively
+                              Manage Healthcare Appointments Effectively
                            </h4>
                            <p class="mb-0">
-                           Learn tips on scheduling and managing appointments to ensure smooth healthcare experiences.
+                              Learn tips on scheduling and managing appointments to ensure smooth healthcare
+                              experiences.
                            </p>
                         </div>
                      </div>
@@ -449,8 +451,8 @@
                            </div>
                            <h4>The Importance of Skilled Healthcare Staff</h4>
                            <p class="mb-0">
-                           Dolor repellendus temporibus aute
-                           quibu sdam officiis debitis rerum.
+                              Discover highly skilled locum GPs ready to provide flexible healthcare services
+                              when and where you need them.
                            </p>
                         </div>
                      </div>
@@ -469,7 +471,7 @@
                            </div>
                            <h4>Nurses: The Heart of Patient Care</h4>
                            <p class="mb-0">
-                           Learn how nurses provide compassionate, skilled care in every healthcare setting.
+                              Learn how nurses provide compassionate, skilled care in every healthcare setting.
                            </p>
                         </div>
                      </div>

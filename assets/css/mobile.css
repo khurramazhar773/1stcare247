@@ -1304,7 +1304,13 @@
         padding-left: 6%;
         padding-right: 6%;
     }
-
+    .home-banner-btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 30px;
+        margin-left: 15px;
+    }
     .navbar-collapse {
         min-width: 100%;
     }
