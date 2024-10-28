@@ -223,7 +223,7 @@
                         <div class="post-item-wrap position-relative">
                            <div class="post-image">
                               <div class="CareImage-banner">
-                                 <img alt="" src="assets/image/care-service-banner6.png" style="max: width 1024px; width:100%; height: auto;">
+                                 <img alt="" src="assets/image/freepik__candid-image-photography-natural-textures-highly-r__4171.png" style="max: width 1024px; width:100%; height: auto;">
                               </div>
                            </div>
                            <div class="post-item-description blog-component">

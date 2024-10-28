@@ -24,7 +24,7 @@
         text-decoration: none;
     }
     .care-services-anchors2{
-        color: #074560;
+        color: orange;
     }
     .care-services-anchors2:hover{
         color: #074560;
@@ -80,11 +80,63 @@
             <div class="row">
                 <div id="blog" class="col-xl-12">
                     <div class="row">
+
                         <div class="col-xl-6">
                             <div class="float-left w-100 post-item border mb-4">
                                 <div class="post-item-wrap position-relative">
                                     <div class="post-image">
-                                        <img alt="" src="assets/image/care-service-banner1.png" class="care-services-banner-img">
+                                        <a href="#">
+                                            <img alt="" src="assets/image/care-service-banner1.png  " class="care-services-banner-img">
+                                        </a>
+                                        <!--post-image-->
+                                    </div>
+                                    <div class="post-item-description">
+                                        <h2><a href="#" class="care-services-anchors">Locum GP’s</a></h2>
+                                        <p>
+                                            Discover highly skilled locum GPs ready to provide flexible, quality
+                                            healthcare services when and where you need them. Our experienced team
+                                            ensures continuity of care tailored to your practice's needs.
+                                        </p>
+                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care Services</a>
+                                        <!--post-item-description-->
+                                    </div>
+                                    <!--post-item-wrap-->
+                                </div>
+                                <!--post-item-->
+                            </div>
+                            <!--col-->
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="float-left w-100 post-item border mb-4">
+                                <div class="post-item-wrap position-relative">
+                                    <div class="post-audio position-relative">
+                                        <a href="#">
+                                            <img alt="" src="assets/image/care-service-banner2.png  " class="care-services-banner-img">
+                                        </a>
+                                    </div>
+                                    <div class="post-item-description">
+                                        <h2>
+                                            <a href="#" class="care-services-anchors">Nurses</a>
+                                        </h2>
+                                        <p>
+                                            Our experienced nurses deliver compassionate, patient-centered care across
+                                            various specialties. Count on us for flexible, reliable nursing staff to
+                                            support your healthcare team.
+                                        </p>
+                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care Services</a>
+                                        <!--post-item-description-->
+                                    </div>
+                                    <!--post-item-wrap-->
+                                </div>
+                                <!--post-item-->
+                            </div>
+                            <!--col-->
+                        </div>
+                        <div class="col-xl-6">
+                            <div class="float-left w-100 post-item border mb-4">
+                                <div class="post-item-wrap position-relative">
+                                    <div class="post-image">
+                                        <img alt="" src="assets/image/care-service-banner3.png   " class="care-services-banner-img">
                                     </div>
                                     <div class="post-item-description">
                                         <h2>
@@ -111,7 +163,7 @@
                                     <div id="blogslider" class="carousel slide" data-ride="carousel">
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
-                                                <img src="assets/image/care-service-banner2.png" alt="" class="care-services-banner-img">
+                                                <img src="assets/image/care-service-banner4.png" alt="" class="care-services-banner-img">
                                             </div>
                                         </div>
                                     </div>
@@ -121,57 +173,6 @@
                                             Our pharmacists provide expert medication management and personalized care
                                             to enhance patient outcomes. We offer flexible staffing solutions to meet
                                             your pharmacy service needs
-                                        </p>
-                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care Services</a>
-                                        <!--post-item-description-->
-                                    </div>
-                                    <!--post-item-wrap-->
-                                </div>
-                                <!--post-item-->
-                            </div>
-                            <!--col-->
-                        </div>
-                        <div class="col-xl-6">
-                            <div class="float-left w-100 post-item border mb-4">
-                                <div class="post-item-wrap position-relative">
-                                    <div class="post-image">
-                                        <a href="#">
-                                            <img alt="" src="assets/image/care-service-banner3.png" class="care-services-banner-img">
-                                        </a>
-                                        <!--post-image-->
-                                    </div>
-                                    <div class="post-item-description">
-                                        <h2><a href="#" class="care-services-anchors">Locum GP’s</a></h2>
-                                        <p>
-                                            Discover highly skilled locum GPs ready to provide flexible, quality
-                                            healthcare services when and where you need them. Our experienced team
-                                            ensures continuity of care tailored to your practice's needs.
-                                        </p>
-                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care Services</a>
-                                        <!--post-item-description-->
-                                    </div>
-                                    <!--post-item-wrap-->
-                                </div>
-                                <!--post-item-->
-                            </div>
-                            <!--col-->
-                        </div>
-                        <div class="col-xl-6">
-                            <div class="float-left w-100 post-item border mb-4">
-                                <div class="post-item-wrap position-relative">
-                                    <div class="post-audio position-relative">
-                                        <a href="#">
-                                            <img alt="" src="assets/image/care-service-banner4.png" class="care-services-banner-img">
-                                        </a>
-                                    </div>
-                                    <div class="post-item-description">
-                                        <h2>
-                                            <a href="#" class="care-services-anchors">Nurses</a>
-                                        </h2>
-                                        <p>
-                                            Our experienced nurses deliver compassionate, patient-centered care across
-                                            various specialties. Count on us for flexible, reliable nursing staff to
-                                            support your healthcare team.
                                         </p>
                                         <a href="services.php" class="item-link care-services-anchors2">Explore Our Care Services</a>
                                         <!--post-item-description-->
