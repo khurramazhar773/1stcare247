@@ -74,11 +74,55 @@
 
     <!-- Your 4-step form -->
     <form id="multiStepForm" class="online-form">
-      <!-- Steps 1 to 4 here -->
+      <!-- 1 -->
       <div class="form-step active">
         <div class="form-inner-heading">
-          <img src="assets/image/icon1.png" alt="">
+          <img src="assets/image/form-one.png" alt="">
           <h4>Step 1</h4>
+        </div>
+        <div class="form-inner-content">
+          <span>Position Applying For</span>
+        </div>
+        <!-- 1 -->
+        <div class="mb-3">
+          <label for="position" class="form-label">Select Position</label>
+          <select class="form-control form-options" id="position" required>
+            <option value="Locum GP’s">Locum GP’s</option>
+            <option value="Nurses">Nurses</option>
+            <option value="Pharmacists">Pharmacists</option>
+            <option value="Healthcare Workers">Healthcare Workers</option>
+          </select>
+        </div>
+        <!-- 2 -->
+        <div class="mb-3">
+          <label for="workPreference" class="form-label">Work Preference</label>
+          <select class="form-control" id="workPreference" required>
+            <option value="Location">Location</option>
+            <option value="Part-Time">Part Time</option>
+            <option value="Full-Time">Full Time</option>
+            <option value="Permanent">Permanent</option>
+            <option value="Temporary">Temporary</option>
+          </select>
+        </div>
+        <!-- 3 -->
+        <div class="mb-3">
+          <label for="travel" class="form-label">Willing to Travel</label>
+          <select class="form-control" id="travel" required>
+            <option value="yes">Yes</option>
+            <option value="no">No</option>
+          </select>
+        </div>
+        <!--  -->
+        <div class="form-inner-button">
+          <button type="button" class="btn btn-warning next-btn">Next</button>
+        </div>
+      </div>
+
+      <!-- 2 -->
+      <div class="form-step">
+        <div class="form-inner-heading">
+          <img src="assets/image/icon1.png" alt="">
+          <h4>Step 2</h4>
         </div>
         <div class="form-inner-content">
           <span>PERSONAL INFORMATION</span>
@@ -97,13 +141,14 @@
         </div>
         <div class="form-inner-button">
           <button type="button" class="btn btn-warning next-btn">Next</button>
+          <button type="button" class="btn btn-secondary back-btn">Back</button>
         </div>
       </div>
-      <!--  -->
+      <!-- 3 -->
       <div class="form-step">
         <div class="form-inner-heading">
           <img src="assets/image/icon2.png" alt="">
-          <h4>Step 2</h4>
+          <h4>Step 3</h4>
         </div>
         <div class="form-inner-content">
           <span>EDUCATIONAL BACKGROUND</span>
@@ -125,11 +170,11 @@
           <button type="button" class="btn btn-secondary back-btn">Back</button>
         </div>
       </div>
-      <!--  -->
+      <!-- 4 -->
       <div class="form-step">
         <div class="form-inner-heading">
           <img src="assets/image/icon3.png" alt="">
-          <h4>Step 3</h4>
+          <h4>Step 4</h4>
         </div>
         <div class="form-inner-content">
           <span>PROFESSIONAL EXPERIENCE</span>
@@ -151,24 +196,25 @@
           <button type="button" class="btn btn-secondary back-btn">Back</button>
         </div>
       </div>
-      <!-- Step 4 -->
+      <!-- 5 -->
       <div class="form-step">
         <div class="form-inner-heading">
           <img src="assets/image/icon4.png" alt="">
-          <h4>Step 4</h4>
+          <h4>Step 5</h4>
         </div>
         <div class="form-inner-content">
           <span>ADDITIONAL INFORMATION</span>
         </div>
         <div class="mb-3">
           <label for="LinkedinProfile" class="form-label">Your Linkedin Profile (Optional)</label>
-          <input type="text" class="form-control" id="linkedinProfile" placeholder="Enter your Linkedin profile" required>
+          <input type="text" class="form-control" id="linkedinProfile" placeholder="Enter your Linkedin profile"
+            required>
         </div>
         <div class="mb-3">
           <label for="coverLetter" class="form-label">Your Cover Letter (Optional)</label>
           <textarea class="form-control" id="coverLetter" rows="5" placeholder="Write a brief cover letter"></textarea>
         </div>
-        <div class="mb-3 form-group col-lg-12 col-md-12 col-sm-12">
+        <div class="mb-3 form-group">
           <label for="imageUpload" class="form-label">Upload Your CV</label>
           <input type="file" class="form-control" id="imageUpload" placeholder="No file chosen" accept="image/*"
             multiple required>
@@ -198,13 +244,14 @@
   <!--  -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
   <script src="assets/js/jquery-3.6.0.min.js"> </script>
-   <script src="assets/js/popper.min.js"> </script>
-   <script src="assets/js/wow.js"></script>
-   <script>
-      new WOW().init();
-   </script>
-   <script src="assets/js/bootstrap.min.js"> </script>
-   <script src="assets/js/custom-script.js"> </script>
+  <script src="assets/js/popper.min.js"> </script>
+  <script src="assets/js/wow.js"></script>
+  <script>
+    new WOW().init();
+  </script>
+  <script src="assets/js/bootstrap.min.js"> </script>
+  <script src="assets/js/custom-script.js"> </script>
   <script src="assets/js/script.js"></script>
 </body>
+
 </html>

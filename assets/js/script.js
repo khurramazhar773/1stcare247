@@ -9,6 +9,8 @@ const multiStepForm = document.getElementById('multiStepForm');
 let currentStep = 0;
 
 formSteps[currentStep].classList.add('active');
+updateProgressBar();
+
 nextBtns.forEach((btn) => {
   btn.addEventListener('click', () => {
     if (currentStep < formSteps.length - 1) {
@@ -38,7 +40,9 @@ submitBtn.addEventListener('click', () => {
 
 function updateProgressBar() {
   const progressPercent = ((currentStep + 1) / formSteps.length) * 100;
-  progressBar.style.width = progressPercent + '%';
+  if (progressBar) {
+    progressBar.style.width = progressPercent + '%';
+  }
 }
 
 document.getElementById('imageUpload').addEventListener('change', function (event) {
