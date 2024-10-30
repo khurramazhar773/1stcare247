@@ -7,8 +7,6 @@
   <link rel="icon" href="assets/image/Group100.svg" type="image/x-icon">
   <title>1stCare | Online Registration</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
-    integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
   <link rel="stylesheet" href="assets/css/animate.css">
   <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css">
   <link rel="stylesheet" href="assets/css/super-classes.css">
@@ -16,16 +14,7 @@
   <link rel="stylesheet" href="assets/css/mobile.css">
   <link rel="stylesheet" href="assets/css/form.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-  <style>
-    .dropdown-icon {
-      appearance: none;
-      background-image: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
-      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='currentColor' class='bi bi-chevron-down' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3E%3C/svg%3E");
-      background-repeat: no-repeat;
-      background-position: right 1rem center;
-      padding-right: 2.5rem;
-    }
-  </style>
+  
 </head>
 
 <body>
@@ -95,31 +84,34 @@
         <!-- 1 -->
         <div class="mb-3 position-relative">
           <label for="position" class="form-label">Select Position</label>
-          <select class="form-control form-options dropdown-icon" id="position" required>
+          <select class="form-control form-options" id="position" required>
             <option value="Locum GP’s">Locum GP’s</option>
             <option value="Nurses">Nurses</option>
             <option value="Pharmacists">Pharmacists</option>
             <option value="Healthcare Workers">Healthcare Workers</option>
           </select>
+          <i class="fa-solid fa-caret-down form-page-dropdown"></i>
         </div>
         <!-- 2 -->
         <div class="mb-3 position-relative">
           <label for="workPreference" class="form-label">Work Preference</label>
-          <select class="form-control dropdown-icon" id="workPreference" required>
+          <select class="form-control" id="workPreference" required>
             <option value="Location">Location</option>
             <option value="Part-Time">Part Time</option>
             <option value="Full-Time">Full Time</option>
             <option value="Permanent">Permanent</option>
             <option value="Temporary">Temporary</option>
           </select>
+          <i class="fa-solid fa-caret-down form-page-dropdown"></i>
         </div>
         <!-- 3 -->
         <div class="mb-3 position-relative">
           <label for="travel" class="form-label">Willing to Travel</label>
-          <select class="form-control dropdown-icon" id="travel" required>
+          <select class="form-control" id="travel" required>
             <option value="yes">Yes</option>
             <option value="no">No</option>
           </select>
+          <i class="fa-solid fa-caret-down form-page-dropdown"></i>
         </div>
         <!-- Button -->
         <div class="form-inner-button">
@@ -262,6 +254,7 @@
   <script src="assets/js/bootstrap.min.js"> </script>
   <script src="assets/js/custom-script.js"> </script>
   <script src="assets/js/script.js"></script>
+  <script src="assets/js/navbar.js"> </script>
 </body>
 
 </html>

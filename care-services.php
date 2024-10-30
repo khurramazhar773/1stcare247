@@ -2,39 +2,46 @@
 <html lang="zxx">
 
 <head>
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-   <link rel="icon" href="assets/image/Group100.svg" type="image/x-icon">
-   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
-      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
-   <link rel="stylesheet" href="assets/css/animate.css">
-   <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css">
-   <link rel="stylesheet" href="assets/css/super-classes.css">
-   <link rel="stylesheet" href="assets/css/style.css">
-   <link rel="stylesheet" href="assets/css/mobile.css">
-   <title>1stCare | Care-Services</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="icon" href="assets/image/Group100.svg" type="image/x-icon">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+        integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/super-classes.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/mobile.css">
+    <title>1stCare | Care-Services</title>
 
-   <style>
-    .care-services-anchors{
-        color: #074560;
-        font-size: 24px;
-    }
-    .care-services-anchors:hover{
-        color: #074560;
-        text-decoration: none;
-    }
-    .care-services-anchors2{
-        color: orange;
-    }
-    .care-services-anchors2:hover{
-        color: #074560;
-        text-decoration: none;
-    }
-    .care-services-banner-img{
-        width: 100%;
-        height: auto;
-    }
-   </style>
+    <style>
+        .care-services-anchors {
+            color: #074560;
+            font-size: 24px;
+        }
+
+        .care-services-anchors:hover {
+            color: #074560;
+            text-decoration: none;
+        }
+
+        .care-services-anchors2 {
+            color: orange;
+        }
+
+        .care-services-anchors2:hover {
+            color: #074560;
+            text-decoration: none;
+        }
+
+        .care-services-banner-img {
+            width: 100%;
+            height: auto;
+        }
+    </style>
 </head>
 
 <body>
@@ -86,7 +93,8 @@
                                 <div class="post-item-wrap position-relative">
                                     <div class="post-image">
                                         <a href="#">
-                                            <img alt="" src="assets/image/care-service-banner1.png  " class="care-services-banner-img">
+                                            <img alt="" src="assets/image/care-service-banner1.png  "
+                                                class="care-services-banner-img">
                                         </a>
                                         <!--post-image-->
                                     </div>
@@ -97,7 +105,8 @@
                                             healthcare services when and where you need them. Our experienced team
                                             ensures continuity of care tailored to your practice's needs.
                                         </p>
-                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care Services</a>
+                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care
+                                            Services</a>
                                         <!--post-item-description-->
                                     </div>
                                     <!--post-item-wrap-->
@@ -111,7 +120,8 @@
                                 <div class="post-item-wrap position-relative">
                                     <div class="post-audio position-relative">
                                         <a href="#">
-                                            <img alt="" src="assets/image/care-service-banner2.png  " class="care-services-banner-img">
+                                            <img alt="" src="assets/image/care-service-banner2.png  "
+                                                class="care-services-banner-img">
                                         </a>
                                     </div>
                                     <div class="post-item-description">
@@ -123,7 +133,8 @@
                                             various specialties. Count on us for flexible, reliable nursing staff to
                                             support your healthcare team.
                                         </p>
-                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care Services</a>
+                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care
+                                            Services</a>
                                         <!--post-item-description-->
                                     </div>
                                     <!--post-item-wrap-->
@@ -136,11 +147,13 @@
                             <div class="float-left w-100 post-item border mb-4">
                                 <div class="post-item-wrap position-relative">
                                     <div class="post-image">
-                                        <img alt="" src="assets/image/care-service-banner3.png   " class="care-services-banner-img">
+                                        <img alt="" src="assets/image/care-service-banner3.png   "
+                                            class="care-services-banner-img">
                                     </div>
                                     <div class="post-item-description">
                                         <h2>
-                                            <a href="services.php" class="care-services-anchors">Healthcare Assistants</a>
+                                            <a href="services.php" class="care-services-anchors">Healthcare
+                                                Assistants</a>
                                         </h2>
                                         <p>
                                             Our healthcare staff provides skilled, compassionate care
@@ -148,7 +161,8 @@
                                             solutions to ensure seamless support for your medical
                                             practice.
                                         </p>
-                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care Services</a>
+                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care
+                                            Services</a>
                                         <!--post-item-description-->
                                     </div>
                                     <!--post-item-wrap-->
@@ -163,7 +177,8 @@
                                     <div id="blogslider" class="carousel slide" data-ride="carousel">
                                         <div class="carousel-inner">
                                             <div class="carousel-item active">
-                                                <img src="assets/image/care-service-banner4.png" alt="" class="care-services-banner-img">
+                                                <img src="assets/image/care-service-banner4.png" alt=""
+                                                    class="care-services-banner-img">
                                             </div>
                                         </div>
                                     </div>
@@ -174,7 +189,8 @@
                                             to enhance patient outcomes. We offer flexible staffing solutions to meet
                                             your pharmacy service needs
                                         </p>
-                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care Services</a>
+                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care
+                                            Services</a>
                                         <!--post-item-description-->
                                     </div>
                                     <!--post-item-wrap-->
@@ -188,7 +204,8 @@
                                 <div class="post-item-wrap position-relative">
                                     <div class="post-video">
                                         <div class='embed-container'>
-                                            <img src="assets/image/care-service-banner5.png" alt="" class="care-services-banner-img">
+                                            <img src="assets/image/care-service-banner5.png" alt=""
+                                                class="care-services-banner-img">
                                         </div>
                                     </div>
                                     <div class="post-item-description">
@@ -198,7 +215,8 @@
                                             patients regain strength and independence. We provide expert support across
                                             physical, occupational, and speech therapies.
                                         </p>
-                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care Services</a>
+                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care
+                                            Services</a>
                                         <!--post-item-description-->
                                     </div>
                                     <!--post-item-wrap-->
@@ -211,7 +229,8 @@
                                 <div class="post-item-wrap position-relative">
                                     <div class="post-video">
                                         <div class="fluid-width-video-wrapper">
-                                            <img src="assets/image/care-service-banner6.png" alt="" class="care-services-banner-img">
+                                            <img src="assets/image/care-service-banner6.png" alt=""
+                                                class="care-services-banner-img">
                                         </div>
                                         <!--post-video-->
                                     </div>
@@ -222,7 +241,8 @@
                                             of medical conditions with expertise and compassion. We ensure high-quality,
                                             personalized treatment for patients of all ages.
                                         </p>
-                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care Services</a>
+                                        <a href="services.php" class="item-link care-services-anchors2">Explore Our Care
+                                            Services</a>
                                         <!--post-item-description-->
                                     </div>
                                     <!--post-item-wrap-->
@@ -290,6 +310,7 @@
     </script>
     <script src="assets/js/bootstrap.min.js"> </script>
     <script src="assets/js/custom-script.js"> </script>
+    <script src="assets/js/navbar.js"> </script>
 </body>
 
 </html>

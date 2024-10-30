@@ -8,7 +8,9 @@
    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
       integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+      crossorigin="anonymous" referrerpolicy="no-referrer" />
    <link rel="stylesheet" href="assets/css/animate.css">
    <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css">
    <link rel="stylesheet" href="assets/css/super-classes.css">
@@ -41,7 +43,8 @@
                      <div class="generic-banner-content text-white text-center">
                         <h1>Worker Availability</h1>
                         <p class="text-white mb-0">
-                        Check the real-time availability of our skilled <br>healthcare professionals, ready to support your <br>needs.
+                           Check the real-time availability of our skilled <br>healthcare professionals, ready to
+                           support your <br>needs.
                         </p>
                      </div>
                   </div>
@@ -175,13 +178,12 @@
                <div class="col-lg-6">
                   <form class="contact-form">
                      <div class="form-group">
-                        <label for="exampleFormControlSelect1" class="text-white">Department</label>
+                        <label for="exampleFormControlSelect1" class="text-white">Speciality</label>
                         <select class="form-control position-relative" id="exampleFormControlSelect1">
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
+                           <option>Book a GP Consultation</option>
+                           <option>Health Screening and Check-Up</option>
+                           <option>Virtual Consultation Services</option>
+                           <option>Consult a General Practitioner</option>
                         </select>
                         <i class="fas fa-angle-down"></i>
                      </div>
@@ -205,11 +207,10 @@
                         <div class="col-lg-6 col-md-6">
                            <div class="form-group">
                               <select class="form-control position-relative">
-                                 <option>Choose Doctor </option>
-                                 <option>2</option>
-                                 <option>3</option>
-                                 <option>4</option>
-                                 <option>5</option>
+                                 <option>Healthcare Assistant</option>
+                                 <option>Nurses RGN/RMN</option>
+                                 <option>Doctors</option>
+                                 <option>Social Workers</option>
                               </select>
                               <i class="fas fa-angle-down down-icon"></i>
                            </div>
@@ -223,7 +224,9 @@
                            </div>
                         </div>
                      </div>
-                     <button type="submit" class="btn  appointment-btn">Make Appointment</button>
+                     <button type="submit" class="btn  appointment-btn">
+                        <a href="contact.php" style="color:white;">Book Appointment</a>
+                     </button>
                   </form>
                </div>
             </div>
@@ -314,6 +317,7 @@
    </script>
    <script src="assets/js/bootstrap.min.js"> </script>
    <script src="assets/js/custom-script.js"> </script>
+   <script src="assets/js/navbar.js"> </script>
 </body>
 
 </html>

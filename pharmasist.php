@@ -8,7 +8,9 @@
    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
       integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
-
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+      crossorigin="anonymous" referrerpolicy="no-referrer" />
    <link rel="stylesheet" href="assets/css/animate.css" />
    <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css" />
    <link rel="stylesheet" href="assets/css/super-classes.css" />
@@ -71,7 +73,8 @@
                            <h5>Dr. Richard Muldoon</h5>
                            <small class="d-block">Doctor of Medicine</small>
                            <span class="d-block">
-                           Highly skilled professionals, recognized for their advanced expertise in patient care and healthcare management.</span>
+                              Highly skilled professionals, recognized for their advanced expertise in patient care and
+                              healthcare management.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -102,7 +105,7 @@
                            <h5>Dr. Maria Andaloro</h5>
                            <small class="d-block">Dental Medicine</small>
                            <span class="d-block"> Highly skilled Professionals, Recognized for their advanced expertise
-                           in Dental care.
+                              in Dental care.
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
@@ -133,7 +136,8 @@
                            </figure>
                            <h5>Dr. Michael Brian</h5>
                            <small class="d-block">Family Physician</small>
-                           <span class="d-block">Specializing in comprehensive, personalized healthcare for individuals and families.</span>
+                           <span class="d-block">Specializing in comprehensive, personalized healthcare for individuals
+                              and families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -167,7 +171,8 @@
                            </figure>
                            <h5>Dr. Richard Muldoon</h5>
                            <small class="d-block">Doctor of Orthopedics </small>
-                           <span class="d-block"> Specializing in Comprehensive, Personalized Bone Health Care for Individuals and Families.</span>
+                           <span class="d-block"> Specializing in Comprehensive, Personalized Bone Health Care for
+                              Individuals and Families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -198,7 +203,7 @@
                            <h5>Dr. Maria Andaloro</h5>
                            <small class="d-block">Neuro Surgeon</small>
                            <span class="d-block">Specializing in Comprehensive, Personalized healthCare for individuals
-                           and families.</span>
+                              and families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -228,7 +233,8 @@
                            </figure>
                            <h5>Dr. Michael Brian</h5>
                            <small class="d-block"> Gynecologist</small>
-                           <span class="d-block">Specializing in Comprehensive, Personalized Women's Health Care for Individuals and Families.</span>
+                           <span class="d-block">Specializing in Comprehensive, Personalized Women's Health Care for
+                              Individuals and Families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -285,13 +291,12 @@
                <div class="col-lg-6">
                   <form class="contact-form">
                      <div class="form-group">
-                        <label for="exampleFormControlSelect1" class="text-white">Department</label>
+                        <label for="exampleFormControlSelect1" class="text-white">Speciality</label>
                         <select class="form-control position-relative" id="exampleFormControlSelect1">
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
+                           <option>Book a GP Consultation</option>
+                           <option>Health Screening and Check-Up</option>
+                           <option>Virtual Consultation Services</option>
+                           <option>Consult a General Practitioner</option>
                         </select>
                         <i class="fas fa-angle-down"></i>
                      </div>
@@ -315,11 +320,10 @@
                         <div class="col-lg-6 col-md-6">
                            <div class="form-group">
                               <select class="form-control position-relative">
-                                 <option>Choose Doctor </option>
-                                 <option>2</option>
-                                 <option>3</option>
-                                 <option>4</option>
-                                 <option>5</option>
+                                 <option>Healthcare Assistant</option>
+                                 <option>Nurses RGN/RMN</option>
+                                 <option>Doctors</option>
+                                 <option>Social Workers</option>
                               </select>
                               <i class="fas fa-angle-down down-icon"></i>
                            </div>
@@ -333,7 +337,9 @@
                            </div>
                         </div>
                      </div>
-                     <button type="submit" class="btn  appointment-btn">Make Appointment</button>
+                     <button type="submit" class="btn  appointment-btn">
+                        <a href="contact.php" style="color:white;">Book Appointment</a>
+                     </button>
                   </form>
                </div>
             </div>
@@ -425,5 +431,7 @@
    </script>
    <script src="assets/js/bootstrap.min.js"> </script>
    <script src="assets/js/custom-script.js"> </script>
+   <script src="assets/js/navbar.js"> </script>
 </body>
+
 </html>

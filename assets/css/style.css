@@ -172,7 +172,7 @@ body {
   transition-timing-function: ease-out;
 }
 
-.feature-box-con .row > div {
+.feature-box-con .row>div {
   border-bottom: 1px solid #eaeaea;
   border-right: 1px solid #eaeaea;
 }
@@ -365,7 +365,7 @@ body {
   transition-timing-function: ease-out;
 }
 
-.fun-facts-box-con .row > div {
+.fun-facts-box-con .row>div {
   border: 1px solid #d6d6d6;
 }
 
@@ -529,7 +529,7 @@ body {
   margin-left: 5px;
 }
 
-.auther-con + p {
+.auther-con+p {
   clear: both;
 }
 
@@ -812,21 +812,11 @@ body {
   transform: translateY(-8px);
 }
 
-.weight-footer-inner-con
-  .row
-  .col-lg-3:last-child
-  .weight-footer-content
-  ul
-  li:last-child {
+.weight-footer-inner-con .row .col-lg-3:last-child .weight-footer-content ul li:last-child {
   line-height: normal;
 }
 
-.weight-footer-inner-con
-  .row
-  .col-lg-3:last-child
-  .weight-footer-content
-  ul
-  li:last-child:hover {
+.weight-footer-inner-con .row .col-lg-3:last-child .weight-footer-content ul li:last-child:hover {
   color: var(--text-color);
 }
 
@@ -1078,7 +1068,7 @@ body {
   margin-bottom: 70px;
 }
 
-.about-fun-facts-con .fun-facts-box-con .row > div {
+.about-fun-facts-con .fun-facts-box-con .row>div {
   border-color: var(--secondary--color);
 }
 
@@ -1173,7 +1163,7 @@ body {
   padding: 70px 0;
 }
 
-.service-box-inner-con .row > div {
+.service-box-inner-con .row>div {
   border: 1px solid #bababa;
 }
 
@@ -1456,25 +1446,7 @@ body {
 .nav-item .dropdown-menu a:hover {
   background-color: #ff8a00;
 }
-/*  */
-@media (max-width: 786px) {
-  .nav-item .dropdown-menu {
-    display: block !important;
-    opacity: 1 !important;
-    position: static;
-    box-shadow: none;
-    background-color: #065475;
-  }
-  .nav-item .dropdown-menu a {
-    padding-left: 15px;
-    color: #ffffff;
-  }
-  .nav-item:hover .dropdown-menu {
-    display: block;
-    opacity: 1;
-  }
-}
-/*  */
+
 .footer-heading p a {
   color: black;
 }
@@ -1683,9 +1655,11 @@ body {
 .text-white {
   color: #ffffff;
 }
-.home-yellow{
+
+.home-yellow {
   right: 55px !important;
 }
+
 .shope-btn {
   background-color: #f58424;
   color: #ffffff;
@@ -1828,6 +1802,7 @@ body {
 }
 
 @media (max-width: 768px) {
+
   .availability-section table th,
   .availability-section table td {
     font-size: 0.875rem;
@@ -1939,6 +1914,7 @@ p {
   left: 0;
   top: 0;
 }
+
 .career-hero-text {
   color: white;
   padding: 0 13rem 0 13rem;
@@ -1950,6 +1926,7 @@ p {
   display: flex;
   text-align: left;
 }
+
 .read-btn a {
   color: white;
   text-decoration: none;
@@ -1970,6 +1947,7 @@ p {
   text-align: center;
   padding: 18px;
 }
+
 .job-list {
   list-style-type: none;
   padding: 0;
@@ -1983,9 +1961,11 @@ p {
   padding-left: 25px;
   color: #074560;
 }
-.career-text{
-	font-size: 19px;
+
+.career-text {
+  font-size: 19px;
 }
+
 /* Responsive Design */
 @media (max-width: 768px) {
   h1 {
@@ -2119,10 +2099,12 @@ p {
   font-size: 2rem;
   margin-bottom: 20px;
 }
+
 .success-message p {
   font-size: 1.2rem;
   margin-bottom: 30px;
 }
+
 .btn-home {
   background-color: #FF8A00;
   color: white;
@@ -2133,9 +2115,11 @@ p {
   display: inline-block;
   font-size: 1.2rem;
 }
-.btn-home:hover{
+
+.btn-home:hover {
   text-decoration: none;
 }
+
 .circle {
   width: 100px;
   height: 100px;
@@ -2148,6 +2132,7 @@ p {
   justify-content: center;
   align-items: center;
 }
+
 @keyframes rotate {
   0% {
     transform: rotate(0deg);
@@ -2157,6 +2142,7 @@ p {
     transform: rotate(360deg);
   }
 }
+
 .check-icon {
   font-size: 2.5rem;
   color: #28a745;
@@ -2170,16 +2156,31 @@ p {
   }
 }
 
+/* dropdown changes */
+.service-dropdown,
+.candidate-dropdown {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.dropdown-menu {
+  display: none;
+}
+.dropdown-menu.show {
+  display: block;
+}
+.dropdown-icon {
+  cursor: pointer;
+  margin-left: 5px;
+  color: white;
+}
 
-/* today new changes */
-@media (max-width: 786px) {
-  .navbar-nav .dropdown-menu {
-      display: block;
-      position: static;
-      visibility: visible;
-      opacity: 1;
-  }
-  .navbar-nav .dropdown-toggle::after {
-      display: none;
-  }
+/* online-registration dropdown */
+.form-page-dropdown {
+  position: absolute;
+  right: 15px;
+  top: 75%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  color: #888;
 }

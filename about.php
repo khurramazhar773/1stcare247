@@ -7,6 +7,9 @@
    <link rel="icon" href="assets/image/Group100.svg" type="image/x-icon">
    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
       integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+      crossorigin="anonymous" referrerpolicy="no-referrer" />
    <link rel="stylesheet" href="assets/css/animate.css">
    <link rel="stylesheet" href="assets/bootstarp/bootstrap.min.css">
    <link rel="stylesheet" href="assets/css/super-classes.css">
@@ -36,7 +39,8 @@
                      <div class="generic-banner-content text-white text-center">
                         <h1>About Us</h1>
                         <p class="text-white mb-0">
-                        Discover our healthcare company, committed to <br>   quality care and flexible staffing to improve <br> patient outcomes.
+                           Discover our healthcare company, committed to <br> quality care and flexible staffing to
+                           improve <br> patient outcomes.
                         </p>
                      </div>
                   </div>
@@ -58,8 +62,10 @@
                         Years Of Experince
                      </h2>
                      <p class="text-justify about-first-p">
-                     Discover our healthcare company, dedicated to high-quality care, expert staff, and tailored solutions to support patient outcomes and medical practices. <br>
-                     We're committed to improving patient outcomes and supporting medical practices with flexible solutions.
+                        Discover our healthcare company, dedicated to high-quality care, expert staff, and tailored
+                        solutions to support patient outcomes and medical practices. <br>
+                        We're committed to improving patient outcomes and supporting medical practices with flexible
+                        solutions.
                      </p>
                      <div class="quality-system-list">
                         <ul class="list-unstyled">
@@ -108,7 +114,8 @@
                      <div class="core-vaule-title">
                         <h2 class="core-values">Our Core Values And
                            Principle</h2>
-                        <p class="quality-system-text text-justify">Our core values are patient-centered care, integrity, collaboration, and a commitment to excellence.
+                        <p class="quality-system-text text-justify">Our core values are patient-centered care,
+                           integrity, collaboration, and a commitment to excellence.
                         </p>
                      </div>
                      <div class="core-vaule-box-con">
@@ -119,7 +126,8 @@
                            </figure>
                            <div class="core-vaule-box-title">
                               <h5>Qualified Doctors</h5>
-                              <span class="d-block text-justify">Our qualified doctors are experienced professionals dedicated to providing exceptional patient care.</span>
+                              <span class="d-block text-justify">Our qualified doctors are experienced professionals
+                                 dedicated to providing exceptional patient care.</span>
                            </div>
                         </div>
                         <div class="core-vaule-box-item position-relative">
@@ -129,7 +137,8 @@
                            </figure>
                            <div class="core-vaule-box-title">
                               <h5>24/7 Helpdesk</h5>
-                              <span class="d-block text-justify">Our 24/7 help desk is always available to provide prompt support and address your healthcare needs at any time.</span>
+                              <span class="d-block text-justify">Our 24/7 help desk is always available to provide
+                                 prompt support and address your healthcare needs at any time.</span>
                            </div>
                         </div>
                         <div class="core-vaule-box-item position-relative mb-0">
@@ -139,7 +148,8 @@
                            </figure>
                            <div class="core-vaule-box-title">
                               <h5>Latest Drugs</h5>
-                              <span class="d-block text-justify">Stay informed with our latest updates on new drugs, ensuring you have access to the most effective treatments available.</span>
+                              <span class="d-block text-justify">Stay informed with our latest updates on new drugs,
+                                 ensuring you have access to the most effective treatments available.</span>
                            </div>
                         </div>
                      </div>
@@ -250,8 +260,9 @@
          <div class="container">
             <div class="professional-title text-center">
                <h2>Meet Our Professionals</h2>
-               <p>Seram ipsum dolor sit amet, consectetur adipiscing elit sed lorem ipsum dolor sit amet, consectetur <br>
-               adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+               <p>Seram ipsum dolor sit amet, consectetur adipiscing elit sed lorem ipsum dolor sit amet, consectetur
+                  <br>
+                  adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
             </div>
             <div class="professional-box">
                <div class="row">
@@ -264,7 +275,8 @@
                            </figure>
                            <h5>Dr. Richard Muldoon</h5>
                            <small class="d-block">lorem GP's</small>
-                           <span class="d-block">Specializing in comprehensive, personalized healthcare for individuals and families.</span>
+                           <span class="d-block">Specializing in comprehensive, personalized healthcare for individuals
+                              and families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -294,8 +306,9 @@
                            </figure>
                            <h5>Dr. Maria Andaloro</h5>
                            <small class="d-block">Nurses</small>
-                           <span class="d-block">  
-                           Highly skilled professionals, recognized for their advanced expertise in patient care & healthcare .</span>
+                           <span class="d-block">
+                              Highly skilled professionals, recognized for their advanced expertise in patient care &
+                              healthcare .</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -325,7 +338,8 @@
                            </figure>
                            <h5>Dr. Michael Brian</h5>
                            <small class="d-block">Dental Doctor</small>
-                           <span class="d-block">Specializing in comprehensive, personalized dental care for individuals and families.</span>
+                           <span class="d-block">Specializing in comprehensive, personalized dental care for individuals
+                              and families.</span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -381,13 +395,12 @@
                <div class="col-lg-6">
                   <form class="contact-form">
                      <div class="form-group">
-                        <label for="exampleFormControlSelect1" class="text-white">Department</label>
+                        <label for="exampleFormControlSelect1" class="text-white">Speciality</label>
                         <select class="form-control position-relative" id="exampleFormControlSelect1">
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
-                           <option>General Health Checkup</option>
+                           <option>Book a GP Consultation</option>
+                           <option>Health Screening and Check-Up</option>
+                           <option>Virtual Consultation Services</option>
+                           <option>Consult a General Practitioner</option>
                         </select>
                         <i class="fas fa-angle-down"></i>
                      </div>
@@ -411,11 +424,10 @@
                         <div class="col-lg-6 col-md-6">
                            <div class="form-group">
                               <select class="form-control position-relative">
-                                 <option>Choose Doctor </option>
-                                 <option>2</option>
-                                 <option>3</option>
-                                 <option>4</option>
-                                 <option>5</option>
+                                 <option>Healthcare Assistant</option>
+                                 <option>Nurses RGN/RMN</option>
+                                 <option>Doctors</option>
+                                 <option>Social Workers</option>
                               </select>
                               <i class="fas fa-angle-down down-icon"></i>
                            </div>
@@ -429,7 +441,9 @@
                            </div>
                         </div>
                      </div>
-                     <button type="submit" class="btn  appointment-btn">Make Appointment</button>
+                     <button type="submit" class="btn  appointment-btn">
+                        <a href="contact.php" style="color:white;">Book Appointment</a>
+                     </button>
                   </form>
                </div>
             </div>
@@ -517,6 +531,7 @@
    </script>
    <script src="assets/js/bootstrap.min.js"> </script>
    <script src="assets/js/custom-script.js"> </script>
+   <script src="assets/js/navbar.js"> </script>
 </body>
 
 </html>

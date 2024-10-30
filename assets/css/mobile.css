@@ -81,9 +81,11 @@
     .faq-con {
         padding: 80px 0;
     }
+
     .core-vaule-con {
         padding: 50px 40px 0px 40px;
     }
+
     .map-con {
         margin-bottom: 80px;
     }
@@ -141,9 +143,11 @@
     .banner-right-content {
         padding-bottom: 170px;
     }
-    .services-2nd-yellow{
+
+    .services-2nd-yellow {
         right: 40px !important;
     }
+
     .home-col-one,
     .home-col-two {
         padding: 0;
@@ -790,18 +794,29 @@
         margin-left: 2px;
     }
 }
+
 /* add new css code */
 @media only screen and (max-width: 768px) {
     .quality-system-heading {
         font-size: 28px;
     }
 
+    .service-dropdown,
+    .candidate-dropdown {
+        display: flex;
+        align-items: center;
+        /* justify-content: space-between; */
+        gap: 15px;
+    }
+
     .doccument-btn {
         padding: 12px 20px;
     }
+
     .services-2nd-yellow {
         right: 180px !important;
     }
+
     .navbar-nav {
         gap: 0;
         align-items: normal;
@@ -858,7 +873,8 @@
         object-fit: contain;
         max-width: 105%;
     }
-    .about-1st-red{
+
+    .about-1st-red {
         top: 255px !important;
     }
 
@@ -1281,16 +1297,20 @@
         text-align: center;
         margin-bottom: 15px;
     }
+
     .home-banner-three {
         max-width: 50%;
         margin-top: 20px;
     }
+
     .blog-con p {
         margin-bottom: 35px;
     }
+
     .home-yellow {
         right: 200px !important;
     }
+
     .blog-posts {
         padding-top: 40px;
     }
@@ -1298,11 +1318,13 @@
 }
 
 @media only screen and (max-width: 575px) {
+
     .feature-box-con,
     .fun-facts-box-con {
         padding-left: 6%;
         padding-right: 6%;
     }
+
     .home-banner-btn {
         display: flex;
         /****/
@@ -1311,12 +1333,15 @@
         margin-bottom: 30px;
         margin-left: 15px;
     }
+
     .navbar-collapse {
         min-width: 100%;
     }
+
     .navbar-collapse {
         top: 60px;
     }
+
     .navbar {
         padding: 10px 0 !important;
     }
@@ -1695,55 +1720,72 @@
     .form-heading {
         padding-top: 22rem !important;
     }
+
     .services-2nd-yellow {
         right: 80px !important;
     }
+
     .home-yellow {
         right: 80px !important;
     }
+
     .home-banner-three {
         max-width: 75%;
         margin-top: 20px;
     }
+
     .about-1st-red {
         top: 240px !important;
     }
-    .core-vaule-title p, .core-vaule-box-item, .core-vaule-box-title span {
+
+    .core-vaule-title p,
+    .core-vaule-box-item,
+    .core-vaule-box-title span {
         text-align: center !important;
         padding: 0px;
     }
+
     .about-sec-banner {
         max-width: 90%;
     }
+
     .about-banner-three {
         max-width: 90%;
         height: auto;
     }
+
     .about-yellow {
         right: 30px !important;
     }
-    .about-red2{
+
+    .about-red2 {
         top: 300px !important;
     }
+
     .form-left-img {
         margin-top: 20px;
     }
 
-    .about-first-p{
+    .about-first-p {
         padding: 10px 30px;
     }
-    .vaule-box-title span{
+
+    .vaule-box-title span {
         padding: 0;
     }
-    .about-yellow{
+
+    .about-yellow {
         right: 70px;
     }
-    .about-appointment-btn{
+
+    .about-appointment-btn {
         padding: 12px 30px;
     }
-    .service-banner-two{
+
+    .service-banner-two {
         height: auto;
     }
+
     .button-col {
         margin: 0px 45px;
     }
@@ -1848,6 +1890,7 @@
     .form-label {
         font-size: 16px !important;
     }
+
     /*heeelooooo*/
     .form-inner-button button,
     .form-inner-button button:nth-child(2) {
@@ -1861,38 +1904,49 @@
         padding-top: 21rem !important;
         margin-bottom: 30px !important;
     }
+
     .services-2nd-yellow {
         right: 65px !important;
     }
+
     .home-yellow {
         right: 60px !important;
     }
+
     .about-sec-banner {
         max-width: 95%;
     }
-    .about-sec-banner{
+
+    .about-sec-banner {
         max-width: 100% !important;
         height: auto !important;
     }
+
     .hiring-heading {
         padding: 2rem 1rem;
     }
+
     .button-col {
         margin: 0px 25px;
     }
-    .about-banner-three2{
+
+    .about-banner-three2 {
         max-width: 100%;
         height: auto;
     }
-    .about-ywlloe2{
+
+    .about-ywlloe2 {
         right: 0px !important;
     }
-    .about-red2{
+
+    .about-red2 {
         top: 300px !important;
     }
+
     .button-col {
         margin: 0px;
     }
+
     .logo-inner-con {
         padding: 0;
         padding-bottom: 30px;
@@ -1980,24 +2034,31 @@
     .quality-system-left-con p {
         padding: 0px 15px;
     }
+
     .services-2nd-yellow {
         right: 40px !important;
     }
+
     .home-yellow {
         right: 40px !important;
     }
-    .about-red2{
+
+    .about-red2 {
         top: 230px !important;
     }
+
     .Experince-section .quality-system-right-con .left-curve-img {
         left: -240px;
     }
+
     .about-sec-banner {
         height: 250px;
     }
+
     .appointment-button {
         padding: 10px 25px;
     }
+
     .hiring-heading {
         padding: 2rem 1rem;
     }
