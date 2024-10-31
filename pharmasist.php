@@ -59,7 +59,11 @@
          <div class="container">
             <div class="professional-title text-center">
                <h2>Meet Our Pharmacists</h2>
-               <p>Our pharmacists ensure safe medication use and provide expert care to support patient health.</p>
+               <p>
+               Our dedicated pharmacists are here to provide expert guidance, personalized support, 
+               and trusted care for all your health needs. <br>Connect with a knowledgeable professional
+                ready to assist you on your wellness journey.
+               </p>
             </div>
             <div class="professional-box">
                <div class="row">
@@ -67,14 +71,14 @@
                      <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
-                              <img src="assets/image/professional-box-img1.png" alt="professional-box-img"
+                              <img src="assets/image/doctor1.png" alt="professional-box-img"
                                  class="img-fluid">
                            </figure>
-                           <h5>Dr. Richard Muldoon</h5>
-                           <small class="d-block">Doctor of Medicine</small>
+                           <h5>Richard Muldoon</h5>
+                           <small class="d-block">Book Your Appointment</small>
                            <span class="d-block">
-                              Highly skilled professionals, recognized for their advanced expertise in patient care and
-                              healthcare management.</span>
+                           Reserve time with our healthcare experts effortlessly. Start your journey to wellness today.
+                           </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -99,13 +103,13 @@
                      <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
-                              <img src="assets/image/professional-box-img2.png" alt="professional-box-img"
+                              <img src="assets/image/doctor2.png" alt="professional-box-img"
                                  class="img-fluid">
                            </figure>
-                           <h5>Dr. Maria Andaloro</h5>
-                           <small class="d-block">Dental Medicine</small>
-                           <span class="d-block"> Highly skilled Professionals, Recognized for their advanced expertise
-                              in Dental care.
+                           <h5>Allen Andaloro</h5>
+                           <small class="d-block">Schedule a Checkup</small>
+                           <span class="d-block"> 
+                           Take control of your health with a quick, simple checkup booking. Peace of mind is just a click away.
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
@@ -131,13 +135,14 @@
                      <a href="#">
                         <div class="professional-box-item text-center mb-0">
                            <figure class="mb-0">
-                              <img src="assets/image/professional-box-img3.png" alt="professional-box-img"
+                              <img src="assets/image/doctor3.png" alt="professional-box-img"
                                  class="img-fluid">
                            </figure>
-                           <h5>Dr. Michael Brian</h5>
-                           <small class="d-block">Family Physician</small>
-                           <span class="d-block">Specializing in comprehensive, personalized healthcare for individuals
-                              and families.</span>
+                           <h5>Michael Brian</h5>
+                           <small class="d-block">Fast Track to Health</small>
+                           <span class="d-block">
+                           Prioritize your health with quick access to top-notch care. Our team is here to support you every step of the way.
+                           </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -166,13 +171,14 @@
                      <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
-                              <img src="assets/image/professional-box-img1.png" alt="professional-box-img"
+                              <img src="assets/image/doctor4.png" alt="professional-box-img"
                                  class="img-fluid">
                            </figure>
-                           <h5>Dr. Richard Muldoon</h5>
-                           <small class="d-block">Doctor of Orthopedics </small>
-                           <span class="d-block"> Specializing in Comprehensive, Personalized Bone Health Care for
-                              Individuals and Families.</span>
+                           <h5>Emma Lily</h5>
+                           <small class="d-block">Your Health, Your Choice</small>
+                           <span class="d-block"> 
+                           Select the care options that suit you and your loved ones best. We make it easy to personalize your healthcare.
+                           </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -197,13 +203,14 @@
                      <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
-                              <img src="assets/image/professional-box-img2.png" alt="professional-box-img"
+                              <img src="assets/image/doctor5.png" alt="professional-box-img"
                                  class="img-fluid">
                            </figure>
-                           <h5>Dr. Maria Andaloro</h5>
-                           <small class="d-block">Neuro Surgeon</small>
-                           <span class="d-block">Specializing in Comprehensive, Personalized healthCare for individuals
-                              and families.</span>
+                           <h5>Ella Fox</h5>
+                           <small class="d-block">Quick Appointment Access</small>
+                           <span class="d-block">
+                           Set up your appointment in seconds and focus on what matters most—your well-being.
+                           </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -228,13 +235,14 @@
                      <a href="#">
                         <div class="professional-box-item text-center mb-0">
                            <figure class="mb-0">
-                              <img src="assets/image/professional-box-img3.png" alt="professional-box-img"
+                              <img src="assets/image/doctor6.png" alt="professional-box-img"
                                  class="img-fluid">
                            </figure>
-                           <h5>Dr. Michael Brian</h5>
-                           <small class="d-block"> Gynecologist</small>
-                           <span class="d-block">Specializing in Comprehensive, Personalized Women's Health Care for
-                              Individuals and Families.</span>
+                           <h5>Megan Fox</h5>
+                           <small class="d-block">Easy Care Scheduling</small>
+                           <span class="d-block">
+                           Booking care has never been this smooth. Find the right specialist and time for you, hassle-free.
+                           </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
