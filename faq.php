@@ -297,44 +297,7 @@
    </section>
    <!-- news-letter-section -->
    <!-- logo-section -->
-   <div class="w-100 float-left logo-con">
-      <div class="container">
-         <div class="logo-inner-con">
-            <div class="row">
-               <div class="col-lg-2 col-md-2 col-sm-4 col-4">
-                  <figure class="mb-0">
-                     <img src="assets/image/qwerty1.png" alt="client-logo-img" class="img-fluid">
-                  </figure>
-               </div>
-               <div class="col-lg-2 col-md-2 col-sm-4 col-4">
-                  <figure class="mb-0">
-                     <img src="assets/image/qwerty2.png" alt="client-logo-img" class="img-fluid">
-                  </figure>
-               </div>
-               <div class="col-lg-2 col-md-2 col-sm-4 col-4">
-                  <figure class="mb-0">
-                     <img src="assets/image/qwerty3.png" alt="client-logo-img" class="img-fluid">
-                  </figure>
-               </div>
-               <div class="col-lg-2 col-md-2 col-sm-4 col-4">
-                  <figure class="mb-0">
-                     <img src="assets/image/qwerty4.png" alt="client-logo-img" class="img-fluid mb-0">
-                  </figure>
-               </div>
-               <div class="col-lg-2 col-md-2 col-sm-4 col-4">
-                  <figure class="mb-0">
-                     <img src="assets/image/qwerty5.png" alt="client-logo-img" class="img-fluid mb-0">
-                  </figure>
-               </div>
-               <div class="col-lg-2 col-md-2 col-sm-4 col-4">
-                  <figure class="mb-0">
-                     <img src="assets/image/qwerty2.png" alt="client-logo-img" class="img-fluid mb-0">
-                  </figure>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
+   <?php require 'footer-above-img.php'; ?>
    <!-- logo-section -->
    <?php require 'footer.php'; ?>
    <!-- footer-section -->

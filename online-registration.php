@@ -241,6 +241,8 @@
     </div>
   </div>
 
+  <?php require 'footer-above-img.php'; ?>
+
   <!-- footer section -->
   <?php require 'footer.php'; ?>
   <!--  -->
