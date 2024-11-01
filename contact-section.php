@@ -29,10 +29,11 @@
                         <div class="form-group">
                             <label for="exampleFormControlSelect1" class="text-white">Speciality</label>
                             <select class="form-control position-relative" id="exampleFormControlSelect1">
-                                <option>Book a GP Consultation</option>
+                                
                                 <option>Health Screening and Check-Up</option>
                                 <option>Virtual Consultation Services</option>
                                 <option>Consult a General Practitioner</option>
+                                <option>Pharmacist to Guide </option>
                             </select>
                             <i class="fas fa-angle-down"></i>
                         </div>
@@ -59,7 +60,8 @@
                                         <option>Healthcare Assistant</option>
                                         <option>Nurses RGN/RMN</option>
                                         <option>Doctors</option>
-                                        <option>Social Workers</option>
+                                        <option>Rehabilitation</option>
+                                        <option>Ambulance Service</option>
                                     </select>
                                     <i class="fas fa-angle-down down-icon"></i>
                                 </div>

@@ -270,13 +270,14 @@
                      <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
-                              <img src="assets/image/professional-box-img1.png" alt="professional-box-img"
+                              <img src="assets/image/doctor1.png" alt="professional-box-img"
                                  class="img-fluid">
                            </figure>
-                           <h5>Dr. Richard Muldoon</h5>
-                           <small class="d-block">Surgeon</small>
-                           <span class="d-block">Specializing in comprehensive, personalized healthcare for individuals
-                              and families.</span>
+                           <h5>Richard Muldoon</h5>
+                           <small class="d-block">Book Your Appointment</small>
+                           <span class="d-block">
+                           Reserve time with our healthcare experts effortlessly. Start your journey to wellness today.
+                           </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -297,18 +298,19 @@
                      </a>
 
                   </div>
+
                   <div class="col-lg-4 col-lg-4 col-md-4">
                      <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
-                              <img src="assets/image/professional-box-img2.png" alt="professional-box-img"
+                              <img src="assets/image/doctor2.png" alt="professional-box-img"
                                  class="img-fluid">
                            </figure>
-                           <h5>Dr. Maria Andaloro</h5>
-                           <small class="d-block">Physiotherapist</small>
-                           <span class="d-block">
-                              Highly skilled professionals, recognized for their advanced expertise in patient care &
-                              healthcare .</span>
+                           <h5>Allen Andaloro</h5>
+                           <small class="d-block">Schedule a Checkup</small>
+                           <span class="d-block"> 
+                           Take control of your health with a quick, simple checkup booking. Peace of mind is just a click away.
+                           </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i
@@ -329,17 +331,19 @@
                      </a>
 
                   </div>
+
                   <div class="col-lg-4 col-lg-4 col-md-4">
                      <a href="#">
                         <div class="professional-box-item text-center mb-0">
                            <figure class="mb-0">
-                              <img src="assets/image/professional-box-img3.png" alt="professional-box-img"
+                              <img src="assets/image/doctor3.png" alt="professional-box-img"
                                  class="img-fluid">
                            </figure>
-                           <h5>Dr. Michael Brian</h5>
-                           <small class="d-block">Dentist</small>
-                           <span class="d-block">Specializing in comprehensive, personalized dental care for individuals
-                              and families.</span>
+                           <h5>Michael Brian</h5>
+                           <small class="d-block">Fast Track to Health</small>
+                           <span class="d-block">
+                           Prioritize your health with quick access to top-notch care. Our team is here to support you every step of the way.
+                           </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
                                  <li class="d-inline-block"><a href="https://www.facebook.com/"><i

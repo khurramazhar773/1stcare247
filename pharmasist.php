@@ -99,6 +99,7 @@
                      </a>
 
                   </div>
+
                   <div class="col-lg-4 col-lg-4 col-md-4">
                      <a href="#">
                         <div class="professional-box-item text-center">
@@ -131,6 +132,7 @@
                      </a>
 
                   </div>
+
                   <div class="col-lg-4 col-lg-4 col-md-4">
                      <a href="#">
                         <div class="professional-box-item text-center mb-0">
@@ -165,6 +167,7 @@
                   </div>
                </div>
             </div>
+            
             <div class="professional-box">
                <div class="row">
                   <div class="col-lg-4 col-md-4">
