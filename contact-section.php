@@ -30,10 +30,10 @@
                             <label for="exampleFormControlSelect1" class="text-white">Speciality</label>
                             <select class="form-control position-relative" id="exampleFormControlSelect1">
                                 
-                                <option>Health Screening and Check-Up</option>
-                                <option>Virtual Consultation Services</option>
-                                <option>Consult a General Practitioner</option>
-                                <option>Pharmacist to Guide </option>
+                                <option>Routine Health Assessment</option>
+                                <option>Virtual Consultation</option>
+                                <option>Chronic Condition Support</option>
+                                <option>Pharmacists Guide</option>
                             </select>
                             <i class="fas fa-angle-down"></i>
                         </div>
@@ -57,11 +57,10 @@
                             <div class="col-lg-6 col-md-6">
                                 <div class="form-group">
                                     <select class="form-control position-relative">
-                                        <option>Healthcare Assistant</option>
-                                        <option>Nurses RGN/RMN</option>
-                                        <option>Doctors</option>
-                                        <option>Rehabilitation</option>
-                                        <option>Ambulance Service</option>
+                                        <option>Locum GP’s</option>
+                                        <option>Nurses</option>
+                                        <option>Phamracists</option>
+                                        <option>Healthcare Assistants</option>
                                     </select>
                                     <i class="fas fa-angle-down down-icon"></i>
                                 </div>

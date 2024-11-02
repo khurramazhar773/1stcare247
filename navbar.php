@@ -88,7 +88,7 @@
                                         class="text-white col-lg-10 col-md-9 ml-xl-0 mr-xl-0 ml-lg-0 mr-lg-0 ml-auto mr-auto pl-0 pr-0">
                                         We offer exceptional healthcare services that prioritize your well-being while
                                         ensuring affordability for every patient, without compromise.</p>
-                                    <a href="#contact-form" class="appointment-btn ">Make Appointment</a>
+                                    <a href="#contact-form" class="appointment-btn ">Get our services</a>
                                 </div>
                             </div>
                         </div>

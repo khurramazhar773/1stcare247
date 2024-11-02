@@ -40,7 +40,7 @@
                         <h1>About Us</h1>
                         <p class="text-white mb-0">
                            Discover our healthcare company, committed to <br> quality care and flexible staffing to
-                           improve <br> patient outcomes.
+                           improve patient outcomes.
                         </p>
                      </div>
                   </div>
@@ -262,7 +262,8 @@
                <h2>Meet Our Professionals</h2>
                <p>Seram ipsum dolor sit amet, consectetur adipiscing elit sed lorem ipsum dolor sit amet, consectetur
                   <br>
-                  adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>
+                  adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
+               </p>
             </div>
             <div class="professional-box">
                <div class="row">
@@ -270,13 +271,13 @@
                      <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
-                              <img src="assets/image/doctor1.png" alt="professional-box-img"
-                                 class="img-fluid">
+                              <img src="assets/image/doctor1.png" alt="professional-box-img" class="img-fluid">
                            </figure>
                            <h5>Richard Muldoon</h5>
-                           <small class="d-block">Book Your Appointment</small>
+                           <small class="d-block">Locum GP</small>
                            <span class="d-block">
-                           Reserve time with our healthcare experts effortlessly. Start your journey to wellness today.
+                              Flexible medical professionals ensuring continuous,
+                              high-quality healthcare.
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
@@ -303,13 +304,12 @@
                      <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
-                              <img src="assets/image/doctor2.png" alt="professional-box-img"
-                                 class="img-fluid">
+                              <img src="assets/image/doctor4.png" alt="professional-box-img" class="img-fluid">
                            </figure>
-                           <h5>Allen Andaloro</h5>
-                           <small class="d-block">Schedule a Checkup</small>
-                           <span class="d-block"> 
-                           Take control of your health with a quick, simple checkup booking. Peace of mind is just a click away.
+                           <h5>Emma Andaloro</h5>
+                           <small class="d-block">Nurse</small>
+                           <span class="d-block">
+                              Compassionate caregivers delivering exceptional patient care and support.
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
@@ -336,13 +336,13 @@
                      <a href="#">
                         <div class="professional-box-item text-center mb-0">
                            <figure class="mb-0">
-                              <img src="assets/image/doctor3.png" alt="professional-box-img"
-                                 class="img-fluid">
+                              <img src="assets/image/doctor3.png" alt="professional-box-img" class="img-fluid">
                            </figure>
                            <h5>Michael Brian</h5>
-                           <small class="d-block">Fast Track to Health</small>
+                           <small class="d-block">Health Care Worker</small>
                            <span class="d-block">
-                           Prioritize your health with quick access to top-notch care. Our team is here to support you every step of the way.
+                              Dedicated support staff enhancing patient
+                              experiences and efficiency.
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">

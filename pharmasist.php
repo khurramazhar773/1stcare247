@@ -75,9 +75,10 @@
                                  class="img-fluid">
                            </figure>
                            <h5>Richard Muldoon</h5>
-                           <small class="d-block">Book Your Appointment</small>
+                           <small class="d-block">Pharmacist</small>
                            <span class="d-block">
-                           Reserve time with our healthcare experts effortlessly. Start your journey to wellness today.
+                           Our pharmacists ensure safe and effective
+                           use of medications for all patients
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
@@ -108,9 +109,10 @@
                                  class="img-fluid">
                            </figure>
                            <h5>Allen Andaloro</h5>
-                           <small class="d-block">Schedule a Checkup</small>
+                           <small class="d-block">Pharmacist</small>
                            <span class="d-block"> 
-                           Take control of your health with a quick, simple checkup booking. Peace of mind is just a click away.
+                           We stay updated on the latest advancements to provide
+                           you with the best possible care and advice.
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
@@ -141,9 +143,10 @@
                                  class="img-fluid">
                            </figure>
                            <h5>Michael Brian</h5>
-                           <small class="d-block">Fast Track to Health</small>
+                           <small class="d-block">Pharmacist</small>
                            <span class="d-block">
-                           Prioritize your health with quick access to top-notch care. Our team is here to support you every step of the way.
+                              We provide tailored advice to help you
+                              understand your prescriptions and health needs.
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
@@ -178,9 +181,10 @@
                                  class="img-fluid">
                            </figure>
                            <h5>Emma Lily</h5>
-                           <small class="d-block">Your Health, Your Choice</small>
+                           <small class="d-block">Pharmacist</small>
                            <span class="d-block"> 
-                           Select the care options that suit you and your loved ones best. We make it easy to personalize your healthcare.
+                           Our pharmacists are here to offer reliable 
+                           support and health information to our community.
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
@@ -206,13 +210,14 @@
                      <a href="#">
                         <div class="professional-box-item text-center">
                            <figure class="mb-0">
-                              <img src="assets/image/doctor5.png" alt="professional-box-img"
+                              <img src="assets/image/doctor2.png" alt="professional-box-img"
                                  class="img-fluid">
                            </figure>
-                           <h5>Ella Fox</h5>
-                           <small class="d-block">Quick Appointment Access</small>
+                           <h5>James Henry</h5>
+                           <small class="d-block">Pharmacist</small>
                            <span class="d-block">
-                           Set up your appointment in seconds and focus on what matters most—your well-being.
+                           Our pharmacists work alongside healthcare teams to
+                           optimize your medication and treatment plans.
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
@@ -242,9 +247,10 @@
                                  class="img-fluid">
                            </figure>
                            <h5>Megan Fox</h5>
-                           <small class="d-block">Easy Care Scheduling</small>
+                           <small class="d-block">Pharmacist</small>
                            <span class="d-block">
-                           Booking care has never been this smooth. Find the right specialist and time for you, hassle-free.
+                              We offer immunizations and health screenings
+                              to help keep you and your family healthy.
                            </span>
                            <div class="professional-box-social-list">
                               <ul class="list-unstyled mb-0">
