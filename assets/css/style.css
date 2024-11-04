@@ -2184,3 +2184,8 @@ p {
   pointer-events: none;
   color: #888;
 }
+/* header icons */
+.header-icons{
+  position: relative;
+  z-index: 10;
+}
