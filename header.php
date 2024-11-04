@@ -4,7 +4,7 @@
          <div class="col-lg-6 col-md-6 col-12">
             <div class="top-bar-left-con ">
                <i class="fas fa-map-marker-alt"></i>
-               <span>CSOFT System, Faisalabad.</span>
+               <span><a href="https://csoftsystems.com/" class="text-white header-icons" target="_blank">CSOFT System, Faisalabad.</a></span>
             </div>
          </div>
          <div
@@ -13,15 +13,15 @@
                <span>Get Social:</span>
                <ul class="list-unstyled mb-0">
                   <li class="float-left header-icons">
-                     <a href="https://www.facebook.com/" class="text-white">
+                     <a href="https://www.facebook.com/" target="_blank" class="text-white">
                         <i class="fab fa-facebook-square"></i>
                      </a>
                   </li>
-                  <li class="float-left header-icons"><a href="https://x.com/?lang=en" class="text-white"><i
+                  <li class="float-left header-icons"><a href="https://x.com/?lang=en" target="_blank" class="text-white"><i
                            class="fab fa-twitter-square"></i></a></li>
-                  <li class="float-left header-icons"><a href="https://www.pinterest.com/" class="text-white"><i
+                  <li class="float-left header-icons"><a href="https://www.pinterest.com/" target="_blank" class="text-white"><i
                            class="fab fa-pinterest-square"></i></a></li>
-                  <li class="float-left header-icons"><a href="https://www.youtube.com/" class="text-white"><i
+                  <li class="float-left header-icons"><a href="https://www.youtube.com/" target="_blank" class="text-white"><i
                            class="fab fa-youtube-square"></i></a></li>
                </ul>
             </div>

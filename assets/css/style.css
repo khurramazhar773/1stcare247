@@ -2189,3 +2189,6 @@ p {
   position: relative;
   z-index: 10;
 }
+.header-icons:hover{
+  text-decoration: none;
+}
