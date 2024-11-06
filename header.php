@@ -19,8 +19,11 @@
                   </li>
                   <li class="float-left header-icons"><a href="https://x.com/?lang=en" target="_blank" class="text-white"><i
                            class="fab fa-twitter-square"></i></a></li>
-                  <li class="float-left header-icons"><a href="https://www.pinterest.com/" target="_blank" class="text-white"><i
-                           class="fab fa-pinterest-square"></i></a></li>
+                  <li class="float-left header-icons">
+                     <a href="https://www.instagram.com/" target="_blank" class="text-white">
+                        <i class="fa-brands fa-instagram"></i>
+                     </a>
+                  </li>
                   <li class="float-left header-icons"><a href="https://www.youtube.com/" target="_blank" class="text-white"><i
                            class="fab fa-youtube-square"></i></a></li>
                </ul>
