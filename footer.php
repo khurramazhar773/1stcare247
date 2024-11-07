@@ -23,8 +23,10 @@
                                     <li class="d-inline-block"><a href="https://www.linkedin.com/signup"><i
                                                 class="fab fa-linkedin d-flex align-items-center justify-content-center text-white pr-0"></i></a>
                                     </li>
-                                    <li class="d-inline-block"><a href="https://www.pinterest.com/"><i
-                                                class="fab fa-pinterest-square mr-0 d-flex align-items-center justify-content-center text-white pr-0"></i></a>
+                                    <li class="d-inline-block">
+                                        <a href="https://www.instagram.com/">
+                                            <i class="fa-brands fa-instagram mr-0 d-flex align-items-center justify-content-center text-white pr-0"></i>
+                                        </a>
                                     </li>
                                 </ul>
                             </div>
@@ -34,12 +36,18 @@
                         <div class="weight-footer-content">
                             <h5>Services</h5>
                             <ul class="list-unstyled mb-0">
-                                <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Locum GP’s</a></li>
-                                <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Nurses</a></li>
-                                <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Healthcare</a></li>
-                                <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Pharmacy</a></li>
-                                <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Support</a></li>
-                                <li class="mb-0"><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Ambulance</a></li>
+                                <li><a href="services.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>Locum GP’s</a></li>
+                                <li><a href="services.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>Nurses</a></li>
+                                <li><a href="services.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>Healthcare</a></li>
+                                <li><a href="services.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>Pharmacy</a></li>
+                                <li><a href="services.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>Support</a></li>
+                                <li class="mb-0"><a href="services.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>Ambulance</a></li>
                             </ul>
                         </div>
                     </div>
@@ -47,12 +55,18 @@
                         <div class="weight-footer-content">
                             <h5>Links</h5>
                             <ul class="list-unstyled mb-0">
-                                <li><a href="about.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>About</a></li>
-                                <li><a href="services.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Our Services</a></li>
-                                <li><a href="career.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Career</a></li>
-                                <li><a href="blog.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Blog</a></li>
-                                <li><a href="faq.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Faq</a></li>
-                                <li class="mb-0"><a href="contact.php" style="color:var(--text-color);"><i class="fas fa-caret-right"></i>Contact Us</a></li>
+                                <li><a href="about.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>About</a></li>
+                                <li><a href="services.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>Our Services</a></li>
+                                <li><a href="career.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>Career</a></li>
+                                <li><a href="blog.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>Blog</a></li>
+                                <li><a href="faq.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>Faq</a></li>
+                                <li class="mb-0"><a href="contact.php" style="color:var(--text-color);"><i
+                                            class="fas fa-caret-right"></i>Contact Us</a></li>
                             </ul>
                         </div>
                     </div>
@@ -84,7 +98,8 @@
             </div>
             <div class="footer-heading col-lg-6 col-md-6 col-12">
                 <p class="mb-0">
-                    Developed and Maintained By :  <a href="https://csoftsystems.com/" target="_blank" style="color:var(--text-color);">Csoft Systems</a>
+                    Developed and Maintained By :  <a href="https://csoftsystems.com/" target="_blank"
+                        style="color: var(--secondary--color);">Csoft Systems</a>
                 </p>
             </div>
         </div>
